@@ -200,6 +200,12 @@ const cctv = mongoose.model('cctv',cctvSchema);
 //     console.log(error)      // Failure
 // });
 
+//Routes
+
+app.post('/cctvinformation',(req,res)=>{
+    
+})
+
 app.get('/allcctvs',(req,res)=>{
     cctv.find().then((result)=>{
         res.send(result)
@@ -211,5 +217,5 @@ app.get('/allcctvs',(req,res)=>{
 app.get('/',(req,res)=>{
     res.send('We are at home');
 })
-//Routes
+
 
