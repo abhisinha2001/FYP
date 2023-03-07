@@ -15,35 +15,32 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   late GoogleMapController mapController;
 
-  BitmapDescriptor markerIcon = BitmapDescriptor.defaultMarker;
-
   Map<String, Marker> _markers = {};
 
-  List<CCTVModel> cctvs = [];
+  List<CCTVModel> CCTVData = [];
 
   Position? _currentPosition;
 
   bool _isLoading = true;
+
+  double infoWindowPosition = -200;
+
+  CCTVModel _currentCCTVData = CCTVModel(52, 53.350357, -6.266422);
 
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
     _getCurrentPosition();
-    setMarkerIcon();
+
     setCCTVs();
   }
 
-  void setMarkerIcon() async {
-    markerIcon = await BitmapDescriptor.fromAssetImage(
-        ImageConfiguration(), 'assets/marker.png');
-  }
-
   void setCCTVs() {
-    cctvs.add(CCTVModel(39, 53.333965, -6.263233, cctv_road: "Parnell St "));
-    cctvs.add(CCTVModel(52, 53.350357, -6.266422, cctv_road: "Parnell St "));
-    cctvs
-        .add(CCTVModel(319, 53.34711, -6.261015, cctv_road: "Batchlors Walk "));
+    CCTVData.add(CCTVModel(39, 53.333965, -6.263233, cctv_road: "Parnell St "));
+    CCTVData.add(CCTVModel(52, 53.350357, -6.266422, cctv_road: "Parnell St "));
+    CCTVData.add(
+        CCTVModel(319, 53.34711, -6.261015, cctv_road: "Batchlors Walk "));
   }
 
   Future<bool> _handleLocationPermission() async {
@@ -111,6 +108,16 @@ class _HomePageState extends State<HomePage> {
                     },
                     markers: _markers.values.toSet(),
                   ),
+            Expanded(
+              child: Align(
+                alignment: FractionalOffset.bottomCenter,
+                child: Container(
+                  height: 200,
+                  width: double.infinity,
+                  color: Colors.white,
+                ),
+              ),
+            ),
           ],
         ),
       ),
@@ -118,13 +125,14 @@ class _HomePageState extends State<HomePage> {
   }
 
   addMarker({lat, long}) {
-    for (CCTVModel temp in cctvs) {
+    for (CCTVModel temp in CCTVData) {
       LatLng location = LatLng(temp.lat, temp.long);
       var marker = Marker(
-        markerId: MarkerId(temp.cctv_id.toString()),
-        position: location,
-        // icon: markerIcon,
-      );
+          markerId: MarkerId(temp.cctv_id.toString()),
+          position: location,
+          onTap: () {}
+          // icon: markerIcon,
+          );
       _markers[temp.cctv_id.toString()] = marker;
     }
 
