@@ -1,16 +1,17 @@
 class CCTVModel {
-  var ccctv_id;
-  var cctv_road;
-  late double lat;
-  late double long;
-  var policy_url;
-  var email;
+  num cctv_id;
+  String cctv_road;
+  double lat;
+  double long;
+  String policy_url;
+  String email;
   var photos;
   var permissions;
 
-  // To take JSON as input and create an object
-  CCTVModel({double lat = 0, double long = 0}) {
-    this.lat = lat;
-    this.long = long;
-  }
+  CCTVModel(this.cctv_id, this.lat, this.long,
+      {this.policy_url = "default",
+      this.email = "default",
+      this.photos = "default",
+      this.permissions = "default",
+      this.cctv_road = "default"});
 }

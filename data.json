@@ -1,7 +1,7 @@
 [
     {
      "cctv_id": 39,
-     "cctc_road": "Harcourt St ",
+     "cctv_road": "Harcourt St ",
      "lat": 53.333965,
      "long": -6.263233,
      "policy_url": "https:\/\/www.cctvireland.ie\/pub\/pdf\/Garda-Guidlines-on-CCTV-in-Ireland.pdf",
@@ -12,7 +12,7 @@
     },
     {
      "cctv_id": 52,
-     "cctc_road": "Parnell St ",
+     "cctv_road": "Parnell St ",
      "lat": 53.350357,
      "long": -6.266422,
      "policy_url": "https:\/\/www.odce.ie\/Portals\/0\/Documents\/Functions\/ODCE_Policy_on_CCTV_June_2019.pdf",
@@ -23,7 +23,7 @@
     },
     {
      "cctv_id": 203,
-     "cctc_road": "Richmond St South",
+     "cctv_road": "Richmond St South",
      "lat": 53.330227,
      "long": -6.264374,
      "policy_url": "https:\/\/www.richmond.gov.uk\/cctv",
@@ -34,7 +34,7 @@
     },
     {
      "cctv_id": 204,
-     "cctc_road": "Ranelagh Rd",
+     "cctv_road": "Ranelagh Rd",
      "lat": 53.330338,
      "long": -6.259884,
      "policy_url": "https:\/\/www.ranelagh.bonitas.org.uk\/wp-content\/uploads\/Ranelagh-Privacy-Notice-Parents-Carers-2.pdf",
@@ -45,7 +45,7 @@
     },
     {
      "cctv_id": 218,
-     "cctc_road": "Charlemont Place ",
+     "cctv_road": "Charlemont Place ",
      "lat": 53.330822,
      "long": -6.258903,
      "policy_url": "https:\/\/www.claytonhotelcharlemont.com\/privacy-statement\/",
@@ -56,7 +56,7 @@
     },
     {
      "cctv_id": 237,
-     "cctc_road": "Merrion Sq North  \/ Merrion Sq West",
+     "cctv_road": "Merrion Sq North  \/ Merrion Sq West",
      "lat": 53.341104,
      "long": -6.250811,
      "policy_url": "https:\/\/www.nationalgallery.ie\/what-we-do\/governance\/privacy-and-data-protection\/privacy-notice",
@@ -67,7 +67,7 @@
     },
     {
      "cctv_id": 276,
-     "cctc_road": "Stephen's Green ",
+     "cctv_road": "Stephen's Green ",
      "lat": 53.337704,
      "long": -6.262714,
      "policy_url": "https:\/\/stephensgreen.com\/privacy-policy\/",
@@ -78,7 +78,7 @@
     },
     {
      "cctv_id": 280,
-     "cctc_road": "St. Stephen's Green",
+     "cctv_road": "St. Stephen's Green",
      "lat": 53.33989,
      "long": -6.260723,
      "policy_url": "https:\/\/stephensgreen.com\/privacy-policy\/",
@@ -89,7 +89,7 @@
     },
     {
      "cctv_id": 282,
-     "cctc_road": "Dawson Street",
+     "cctv_road": "Dawson Street",
      "lat": 53.341327,
      "long": -6.258309,
      "policy_url": "https:\/\/www.ria.ie\/sites\/default\/files\/royal-irish-academy-dp-policy-cctv-v3-september-2021.pdf",
@@ -100,7 +100,7 @@
     },
     {
      "cctv_id": 286,
-     "cctc_road": "College Green ",
+     "cctv_road": "College Green ",
      "lat": 53.344643,
      "long": -6.259576,
      "policy_url": "https:\/\/www.tcd.ie\/about\/policies\/cctv-policy.php#systems",
@@ -111,7 +111,7 @@
     },
     {
      "cctv_id": 289,
-     "cctc_road": "Pearse St ",
+     "cctv_road": "Pearse St ",
      "lat": 53.345669,
      "long": -6.257446,
      "policy_url": "https:\/\/www.pearsestreetphysio.com\/privacy-notice",
@@ -122,7 +122,7 @@
     },
     {
      "cctv_id": 306,
-     "cctc_road": "Parnell Street ",
+     "cctv_road": "Parnell Street ",
      "lat": 53.35097,
      "long": -6.264767,
      "policy_url": "https:\/\/www.odce.ie\/Portals\/0\/Documents\/Functions\/ODCE_Policy_on_CCTV_June_2019.pdf",
@@ -133,7 +133,7 @@
     },
     {
      "cctv_id": 319,
-     "cctc_road": "Batchlors Walk ",
+     "cctv_road": "Batchlors Walk ",
      "lat": 53.34711,
      "long": -6.261015,
      "policy_url": "https:\/\/councilmeetings.dublincity.ie\/documents\/s25397\/231%20Liffey%20Street%20Part%208.pdf",
@@ -144,7 +144,7 @@
     },
     {
      "cctv_id": 385,
-     "cctc_road": "Ranelagh Rd",
+     "cctv_road": "Ranelagh Rd",
      "lat": 53.324798,
      "long": -6.253885,
      "policy_url": "http:\/\/www.rmds.ie\/policies\/rmds-policy-data-protection\/",
@@ -155,7 +155,7 @@
     },
     {
      "cctv_id": 405,
-     "cctc_road": "Grand Canal Street Upper",
+     "cctv_road": "Grand Canal Street Upper",
      "lat": 53.337185,
      "long": -6.23472,
      "policy_url": "https:\/\/www.grandcanalhotel.ie\/en\/privacy-policy\/",

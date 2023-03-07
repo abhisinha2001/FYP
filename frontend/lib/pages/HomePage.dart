@@ -1,10 +1,9 @@
-import 'dart:typed_data';
-
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'package:frontend/models/CCTVModel.dart';
+import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
-const LatLng currentLocation = LatLng(53.350357, -6.266422);
+LatLng currentLocation = LatLng(53.333965, -6.263233);
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -20,11 +19,19 @@ class _HomePageState extends State<HomePage> {
 
   Map<String, Marker> _markers = {};
 
+  List<CCTVModel> cctvs = [];
+
+  Position? _currentPosition;
+
+  bool _isLoading = true;
+
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
+    _getCurrentPosition();
     setMarkerIcon();
+    setCCTVs();
   }
 
   void setMarkerIcon() async {
@@ -32,32 +39,95 @@ class _HomePageState extends State<HomePage> {
         ImageConfiguration(), 'assets/marker.png');
   }
 
+  void setCCTVs() {
+    cctvs.add(CCTVModel(39, 53.333965, -6.263233, cctv_road: "Parnell St "));
+    cctvs.add(CCTVModel(52, 53.350357, -6.266422, cctv_road: "Parnell St "));
+    cctvs
+        .add(CCTVModel(319, 53.34711, -6.261015, cctv_road: "Batchlors Walk "));
+  }
+
+  Future<bool> _handleLocationPermission() async {
+    bool serviceEnabled;
+    LocationPermission permission;
+
+    serviceEnabled = await Geolocator.isLocationServiceEnabled();
+    if (!serviceEnabled) {
+      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+          content: Text(
+              'Location services are disabled. Please enable the services')));
+      return false;
+    }
+    permission = await Geolocator.checkPermission();
+    if (permission == LocationPermission.denied) {
+      permission = await Geolocator.requestPermission();
+      if (permission == LocationPermission.denied) {
+        ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('Location permissions are denied')));
+        return false;
+      }
+    }
+    if (permission == LocationPermission.deniedForever) {
+      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+          content: Text(
+              'Location permissions are permanently denied, we cannot request permissions.')));
+      return false;
+    }
+    return true;
+  }
+
+  Future<void> _getCurrentPosition() async {
+    final hasPermission = await _handleLocationPermission();
+    if (!hasPermission) return;
+    await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high)
+        .then((Position position) {
+      setState(() {
+        _currentPosition = position;
+        _isLoading = false;
+      });
+    }).catchError((e) {
+      debugPrint(e);
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        body: GoogleMap(
-          initialCameraPosition: const CameraPosition(
-            target: currentLocation,
-            zoom: 18,
-          ),
-          onMapCreated: (controller) {
-            mapController = controller;
-            addMarker("test", currentLocation);
-          },
-          markers: _markers.values.toSet(),
+        body: Stack(
+          children: [
+            _isLoading
+                ? Center(
+                    child: CircularProgressIndicator(),
+                  )
+                : GoogleMap(
+                    initialCameraPosition: CameraPosition(
+                      target: LatLng(_currentPosition?.latitude ?? 53.333965,
+                          _currentPosition?.longitude ?? -6.263233),
+                      zoom: 18,
+                    ),
+                    onMapCreated: (controller) {
+                      mapController = controller;
+                      addMarker();
+                    },
+                    markers: _markers.values.toSet(),
+                  ),
+          ],
         ),
       ),
     );
   }
 
-  addMarker(String id, LatLng location) {
-    var marker = Marker(
-      markerId: MarkerId(id),
-      position: location,
-      // icon: markerIcon,
-    );
-    _markers[id] = marker;
+  addMarker({lat, long}) {
+    for (CCTVModel temp in cctvs) {
+      LatLng location = LatLng(temp.lat, temp.long);
+      var marker = Marker(
+        markerId: MarkerId(temp.cctv_id.toString()),
+        position: location,
+        // icon: markerIcon,
+      );
+      _markers[temp.cctv_id.toString()] = marker;
+    }
+
     setState(() {});
   }
 }
