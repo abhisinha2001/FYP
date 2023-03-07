@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:frontend/models/CCTVModel.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:url_launcher/url_launcher.dart';
+import 'package:url_launcher/url_launcher_string.dart';
 
 LatLng currentLocation = LatLng(53.333965, -6.263233);
 
@@ -19,13 +21,12 @@ class _HomePageState extends State<HomePage> {
 
   List<CCTVModel> CCTVData = [];
 
-  Position? _currentPosition;
-
   bool _isLoading = true;
 
-  double infoWindowPosition = -200;
+  double _infoWindowPosition = -300;
 
-  CCTVModel _currentCCTVData = CCTVModel(52, 53.350357, -6.266422);
+  CCTVModel _currentCCTVData =
+      CCTVModel(52, 53.350357, -6.266422, cctv_road: "Test");
 
   @override
   void initState() {
@@ -78,12 +79,19 @@ class _HomePageState extends State<HomePage> {
     await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high)
         .then((Position position) {
       setState(() {
-        _currentPosition = position;
         _isLoading = false;
       });
     }).catchError((e) {
       debugPrint(e);
     });
+  }
+
+  mylaunchURL(String s) async {
+    if (await canLaunchUrlString(s)) {
+      await launchUrlString(s);
+    } else {
+      throw 'Could not launch $s';
+    }
   }
 
   @override
@@ -98,44 +106,91 @@ class _HomePageState extends State<HomePage> {
                   )
                 : GoogleMap(
                     initialCameraPosition: CameraPosition(
-                      target: LatLng(_currentPosition?.latitude ?? 53.333965,
-                          _currentPosition?.longitude ?? -6.263233),
+                      // target: LatLng(_currentPosition?.latitude ?? 53.333965,
+                      //     _currentPosition?.longitude ?? -6.263233),
+                      target: LatLng(53.350357, -6.266422),
                       zoom: 18,
                     ),
                     onMapCreated: (controller) {
                       mapController = controller;
                       addMarker();
                     },
+                    myLocationEnabled: true,
+                    myLocationButtonEnabled: true,
                     markers: _markers.values.toSet(),
+                    onTap: handleTap(),
                   ),
-            Expanded(
+            AnimatedPositioned(
+              bottom: _infoWindowPosition,
+              right: 0,
+              left: 0,
+              duration: Duration(milliseconds: 250),
               child: Align(
-                alignment: FractionalOffset.bottomCenter,
                 child: Container(
+                  margin: EdgeInsets.all(20),
                   height: 200,
                   width: double.infinity,
-                  color: Colors.white,
+                  decoration: BoxDecoration(
+                      color: Colors.white,
+                      borderRadius: BorderRadius.all(Radius.circular(20)),
+                      boxShadow: <BoxShadow>[
+                        BoxShadow(
+                          blurRadius: 20,
+                          offset: Offset.zero,
+                          color: Colors.grey.withOpacity(0.5),
+                        )
+                      ]),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Text(_currentCCTVData.cctv_road),
+                      Text(_currentCCTVData.cctv_id.toString()),
+                      Text(_currentCCTVData.lat.toString()),
+                      Text(_currentCCTVData.long.toString()),
+                      ElevatedButton(
+                          onPressed: () {
+                            mylaunchURL("https:\/\/www.richmond.gov.uk\/cctv");
+                          },
+                          child:
+                              Text("Press to view Privacy Policy Statement")),
+                    ],
+                  ),
                 ),
               ),
-            ),
+            )
           ],
         ),
       ),
     );
   }
 
-  addMarker({lat, long}) {
+  addMarker() {
     for (CCTVModel temp in CCTVData) {
       LatLng location = LatLng(temp.lat, temp.long);
       var marker = Marker(
           markerId: MarkerId(temp.cctv_id.toString()),
           position: location,
-          onTap: () {}
+          onTap: () {
+            setState(() {
+              _infoWindowPosition = 0;
+              _currentCCTVData.cctv_road = temp.cctv_road;
+              _currentCCTVData.cctv_id = temp.cctv_id;
+              _currentCCTVData.lat = temp.lat;
+              _currentCCTVData.long = temp.long;
+            });
+          }
           // icon: markerIcon,
           );
       _markers[temp.cctv_id.toString()] = marker;
     }
 
     setState(() {});
+  }
+
+  handleTap() {
+    setState(() {
+      // _infoWindowPosition = -300;
+    });
   }
 }
