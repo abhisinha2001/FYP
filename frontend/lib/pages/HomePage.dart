@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:frontend/models/CCTVModel.dart';
+import 'package:frontend/pages/MyPhotoPage.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -98,6 +99,17 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
+        floatingActionButtonLocation: FloatingActionButtonLocation.centerTop,
+        floatingActionButton: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: FloatingActionButton(
+              onPressed: () {
+                print("Button was pressed");
+                Navigator.push(context,
+                    MaterialPageRoute(builder: (context) => MyPhotoPage()));
+              },
+              child: Icon(Icons.add_a_photo)),
+        ),
         body: Stack(
           children: [
             _isLoading
@@ -118,7 +130,6 @@ class _HomePageState extends State<HomePage> {
                     myLocationEnabled: true,
                     myLocationButtonEnabled: true,
                     markers: _markers.values.toSet(),
-                    onTap: handleTap(),
                   ),
             AnimatedPositioned(
               bottom: _infoWindowPosition,
@@ -158,7 +169,7 @@ class _HomePageState extends State<HomePage> {
                   ),
                 ),
               ),
-            )
+            ),
           ],
         ),
       ),
@@ -186,11 +197,5 @@ class _HomePageState extends State<HomePage> {
     }
 
     setState(() {});
-  }
-
-  handleTap() {
-    setState(() {
-      // _infoWindowPosition = -300;
-    });
   }
 }
