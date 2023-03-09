@@ -3,7 +3,6 @@ import 'package:frontend/models/CCTVModel.dart';
 import 'package:frontend/pages/MyPhotoPage.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:url_launcher/url_launcher.dart';
 import 'package:url_launcher/url_launcher_string.dart';
 
 LatLng currentLocation = LatLng(53.333965, -6.263233);
