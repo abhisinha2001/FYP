@@ -8,7 +8,7 @@
      "Phone": "01 6663805",
      "Email": null,
      "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 52,
@@ -19,7 +19,7 @@
      "Phone": null,
      "Email": "info@odce.ie",
      "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 203,
@@ -30,7 +30,7 @@
      "Phone": "020 8831 6001",
      "Email": null,
      "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 204,
@@ -41,7 +41,7 @@
      "Phone": "0303 123 1113",
      "Email": null,
      "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 218,
@@ -52,7 +52,7 @@
      "Phone": "+353 (0)1 960 6700",
      "Email": "res.charlemont@claytonhotels.com",
      "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 237,
@@ -63,7 +63,7 @@
      "Phone": "+ 353 1 661 5133",
      "Email": null,
      "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 276,
@@ -74,18 +74,7 @@
      "Phone": "+353 (01) 4780888",
      "Email": "info@stephensgreen.com",
      "photos": null,
-     "permissions": null
-    },
-    {
-     "cctv_id": 280,
-     "cctv_road": "St. Stephen's Green",
-     "lat": 53.33989,
-     "long": -6.260723,
-     "policy_url": "https:\/\/stephensgreen.com\/privacy-policy\/",
-     "Phone": "+353 (01) 4780888",
-     "Email": "info@stephensgreen.com",
-     "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 282,
@@ -96,7 +85,7 @@
      "Phone": "00 353 1 6762570",
      "Email": "dataprotection@ria.ie",
      "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 286,
@@ -107,7 +96,7 @@
      "Phone": null,
      "Email": "dataprotection@tcd.ie",
      "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 289,
@@ -118,18 +107,7 @@
      "Phone": "+353 (0761) 104 800",
      "Email": "info@dataprotection.ie",
      "photos": null,
-     "permissions": null
-    },
-    {
-     "cctv_id": 306,
-     "cctv_road": "Parnell Street ",
-     "lat": 53.35097,
-     "long": -6.264767,
-     "policy_url": "https:\/\/www.odce.ie\/Portals\/0\/Documents\/Functions\/ODCE_Policy_on_CCTV_June_2019.pdf",
-     "Phone": null,
-     "Email": "info@odce.ie",
-     "photos": null,
-     "permissions": null
+     "permissions": {"retention":"28","storage":true,"facial_recognition":true}
     },
     {
      "cctv_id": 319,
