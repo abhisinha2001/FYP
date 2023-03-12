@@ -6,6 +6,9 @@ const app = express();
 
 const PASSWORD = process.env.PASSWORD
 
+const currLat = 53.330822;
+const currLong =  -6.258903;
+
 mongoose.set('strictQuery',false);
 mongoose.connect(`mongodb+srv://admin:`+PASSWORD+`@cluster0.tzrbc9a.mongodb.net/?retryWrites=true&w=majority`)
 .then(()=>app.listen(3000))
@@ -29,6 +32,29 @@ const cctvSchema = new Schema({
 })
 
 const cctv = mongoose.model('cctv',cctvSchema);
+
+function calcDistance(lat1,lat2,long1,long2){
+    long1 =  long1 * Math.PI / 180;
+    long2 = long2 * Math.PI / 180;
+    lat1 = lat1 * Math.PI / 180;
+    lat2 = lat2 * Math.PI / 180;
+   
+        // Haversine formula
+        let dlon = long2 - long1;
+        let dlat = lat2 - lat1;
+        let a = Math.pow(Math.sin(dlat / 2), 2)
+                 + Math.cos(lat1) * Math.cos(lat2)
+                 * Math.pow(Math.sin(dlon / 2),2);
+               
+        let c = 2 * Math.asin(Math.sqrt(a));
+   
+        // Radius of earth in kilometers. Use 3956
+        // for miles
+        let r = 6371;
+   
+        // calculate the result
+        return(c * r);
+}
 
 // cctv.insertMany(
 //     [
@@ -156,6 +182,27 @@ app.post('/cctvinformation',(req,res)=>{
     
 })
 
+app.get('/getnearby',(req,res)=>{
+    finalResult=[];
+    // currLat = req.query.lat;
+    // currlong = req.quesry.long;
+    cctv.find().then((result)=>{
+        for(let index in result){
+            lat1 = result[index]['lat'];
+            long1 = result[index]['long'];
+            distance = calcDistance(lat1,currLat,long1,currLong);
+            if(distance<=1){
+                finalResult.push(result[index]);
+            }
+        }
+        res.send(finalResult);
+    }).catch((err)=>{
+        console.log(err);
+    });
+    
+    
+
+})
 app.get('/allcctvs',(req,res)=>{
     cctv.find().then((result)=>{
         res.send(result)
