@@ -1,0 +1,5778 @@
+[
+    {
+      "_id": 1,
+      "SiteID": 1,
+      "Site_Description_Cap": "ABBEY ST @ MARLBOROUGH ST (LUAS)",
+      "Lat": 53.348754,
+      "Long": -6.257607
+    },
+    {
+      "_id": 2,
+      "SiteID": 2,
+      "Site_Description_Cap": "AMIENS ST @ SEVILLE PL",
+      "Lat": 53.354711,
+      "Long": -6.246679
+    },
+    {
+      "_id": 3,
+      "SiteID": 3,
+      "Site_Description_Cap": "AMIENS ST @ TALBOT ST",
+      "Lat": 53.351374,
+      "Long": -6.250073
+    },
+    {
+      "_id": 4,
+      "SiteID": 4,
+      "Site_Description_Cap": "ANNESLEY PL @ POPLAR ROW",
+      "Lat": 53.361145,
+      "Long": -6.240513
+    },
+    {
+      "_id": 5,
+      "SiteID": 5,
+      "Site_Description_Cap": "NCR @ AUGHRIM ST",
+      "Lat": 53.355797,
+      "Long": -6.292406
+    },
+    {
+      "_id": 6,
+      "SiteID": 6,
+      "Site_Description_Cap": "BAGGOT ST BRIDGE",
+      "Lat": 53.334055,
+      "Long": -6.245199
+    },
+    {
+      "_id": 7,
+      "SiteID": 7,
+      "Site_Description_Cap": "BAGGOT ST @ FITZWILLIAM ST",
+      "Lat": 53.336815,
+      "Long": -6.249116
+    },
+    {
+      "_id": 8,
+      "SiteID": 8,
+      "Site_Description_Cap": "BAGGOT ST @ WATERLOO RD",
+      "Lat": 53.333171,
+      "Long": -6.243319
+    },
+    {
+      "_id": 9,
+      "SiteID": 9,
+      "Site_Description_Cap": "BALLYBOUGH RD @ CLONLIFFE RD (LUKE KELLY BR)",
+      "Lat": 53.361367,
+      "Long": -6.242793
+    },
+    {
+      "_id": 10,
+      "SiteID": 10,
+      "Site_Description_Cap": "BALLYGALL RD WEST @ CLUNE RD",
+      "Lat": 53.38977512,
+      "Long": -6.293530902
+    },
+    {
+      "_id": 11,
+      "SiteID": 11,
+      "Site_Description_Cap": "BALLYMUN RD @ GLASNEVIN AV",
+      "Lat": 53.38912341,
+      "Long": -6.264819292
+    },
+    {
+      "_id": 12,
+      "SiteID": 12,
+      "Site_Description_Cap": "BALLYMUN RD @ GRIFFITH AV",
+      "Lat": 53.378896,
+      "Long": -6.266859
+    },
+    {
+      "_id": 13,
+      "SiteID": 13,
+      "Site_Description_Cap": "BALLYMUN RD @ ST PAPPINS RD",
+      "Lat": 53.385948,
+      "Long": -6.265175
+    },
+    {
+      "_id": 14,
+      "SiteID": 14,
+      "Site_Description_Cap": "BATH ST @ BEACH RD / DOCK RD",
+      "Lat": 53.33773396,
+      "Long": -6.219956537
+    },
+    {
+      "_id": 15,
+      "SiteID": 15,
+      "Site_Description_Cap": "BEAUMONT RD @ SHANTALLA RD",
+      "Lat": 53.385381,
+      "Long": -6.233328
+    },
+    {
+      "_id": 16,
+      "SiteID": 17,
+      "Site_Description_Cap": "BERESFORD PL @ EDEN QUAY",
+      "Lat": 53.34823832,
+      "Long": -6.254945771
+    },
+    {
+      "_id": 17,
+      "SiteID": 18,
+      "Site_Description_Cap": "NCR @ BERKELEY RD",
+      "Lat": 53.36054415,
+      "Long": -6.269639
+    },
+    {
+      "_id": 18,
+      "SiteID": 19,
+      "Site_Description_Cap": "BLACKHALL PL @ BENBURB ST (LUAS)",
+      "Lat": 53.34738731,
+      "Long": -6.282360635
+    },
+    {
+      "_id": 19,
+      "SiteID": 20,
+      "Site_Description_Cap": "BLACKHALL PL @ NORTH KING ST",
+      "Lat": 53.350022,
+      "Long": -6.281693
+    },
+    {
+      "_id": 20,
+      "SiteID": 21,
+      "Site_Description_Cap": "CAPEL ST @ BOLTON ST",
+      "Lat": 53.351066,
+      "Long": -6.270081
+    },
+    {
+      "_id": 21,
+      "SiteID": 22,
+      "Site_Description_Cap": "KEVIN ST @ BRIDE ST",
+      "Lat": 53.338178,
+      "Long": -6.269269
+    },
+    {
+      "_id": 22,
+      "SiteID": 23,
+      "Site_Description_Cap": "CABRA RD @ ANNAMOE TCE",
+      "Lat": 53.36116,
+      "Long": -6.286128
+    },
+    {
+      "_id": 23,
+      "SiteID": 24,
+      "Site_Description_Cap": "CAMDEN ST @ CHARLOTTE ST",
+      "Lat": 53.33363351,
+      "Long": -6.2650364
+    },
+    {
+      "_id": 24,
+      "SiteID": 25,
+      "Site_Description_Cap": "CAMDEN ST @ HARCOURT RD (KELLYS CORNER)",
+      "Lat": 53.332574,
+      "Long": -6.264879
+    },
+    {
+      "_id": 25,
+      "SiteID": 26,
+      "Site_Description_Cap": "CAPEL ST BRIDGE",
+      "Lat": 53.345694,
+      "Long": -6.267771
+    },
+    {
+      "_id": 26,
+      "SiteID": 27,
+      "Site_Description_Cap": "CAPPAGH RD @ CARDIFFSBRIDGE RD",
+      "Lat": 53.389159,
+      "Long": -6.312446
+    },
+    {
+      "_id": 27,
+      "SiteID": 29,
+      "Site_Description_Cap": "CATHAL BRUGHA ST @ MARLBORO ST",
+      "Lat": 53.352363,
+      "Long": -6.259162
+    },
+    {
+      "_id": 28,
+      "SiteID": 30,
+      "Site_Description_Cap": "CHAPELIZOD RD @ BALLYFERMOT HILL",
+      "Lat": 53.3478176,
+      "Long": -6.346206317
+    },
+    {
+      "_id": 29,
+      "SiteID": 31,
+      "Site_Description_Cap": "CHAPELIZOD RD @ MARTINS ROW",
+      "Lat": 53.348321,
+      "Long": -6.342702
+    },
+    {
+      "_id": 30,
+      "SiteID": 32,
+      "Site_Description_Cap": "BOTANIC RD @ MOBHI RD / FAIRFIELD RD",
+      "Lat": 53.370333,
+      "Long": -6.268485
+    },
+    {
+      "_id": 31,
+      "SiteID": 33,
+      "Site_Description_Cap": "CHARLEMONT ST @ GRAND PARADE",
+      "Lat": 53.33036,
+      "Long": -6.260034
+    },
+    {
+      "_id": 32,
+      "SiteID": 34,
+      "Site_Description_Cap": "HARCOURT RD @ HARCOURT ST/CHARLEMONT ST (LUAS)",
+      "Lat": 53.33275053,
+      "Long": -6.262871769
+    },
+    {
+      "_id": 33,
+      "SiteID": 35,
+      "Site_Description_Cap": "NICHOLAS ST @ CHRISTCHURCH PL",
+      "Lat": 53.342866,
+      "Long": -6.271874
+    },
+    {
+      "_id": 34,
+      "SiteID": 36,
+      "Site_Description_Cap": "CHURCH ST @ KING ST NORTH",
+      "Lat": 53.350115,
+      "Long": -6.274547
+    },
+    {
+      "_id": 35,
+      "SiteID": 37,
+      "Site_Description_Cap": "CHURCH ST BRIDGE",
+      "Lat": 53.345614,
+      "Long": -6.275764
+    },
+    {
+      "_id": 36,
+      "SiteID": 38,
+      "Site_Description_Cap": "SCR @ CLANBRASSIL ST (LEONARDS CORNER)",
+      "Lat": 53.33223388,
+      "Long": -6.275230456
+    },
+    {
+      "_id": 37,
+      "SiteID": 39,
+      "Site_Description_Cap": "CLARE ST @ MERRION SQ",
+      "Lat": 53.341155,
+      "Long": -6.250742
+    },
+    {
+      "_id": 38,
+      "SiteID": 40,
+      "Site_Description_Cap": "CLONLIFFE RD @ JONES RD",
+      "Lat": 53.362621,
+      "Long": -6.252298
+    },
+    {
+      "_id": 39,
+      "SiteID": 41,
+      "Site_Description_Cap": "CLONTARF RD @ CASTLE AVE",
+      "Lat": 53.360331,
+      "Long": -6.20969
+    },
+    {
+      "_id": 40,
+      "SiteID": 42,
+      "Site_Description_Cap": "CONCOLBERT RD @ MEMORIAL PARK RD",
+      "Lat": 53.34282151,
+      "Long": -6.316897682
+    },
+    {
+      "_id": 41,
+      "SiteID": 43,
+      "Site_Description_Cap": "COLLINS AV @ GRACE PARK RD",
+      "Lat": 53.3810861,
+      "Long": -6.2392187
+    },
+    {
+      "_id": 42,
+      "SiteID": 44,
+      "Site_Description_Cap": "CONSTITUTION HILL @ WESTERN WAY",
+      "Lat": 53.354362,
+      "Long": -6.273197
+    },
+    {
+      "_id": 43,
+      "SiteID": 45,
+      "Site_Description_Cap": "SCR @ CONYNGHAM RD",
+      "Lat": 53.348265,
+      "Long": -6.30847
+    },
+    {
+      "_id": 44,
+      "SiteID": 46,
+      "Site_Description_Cap": "CRUMLIN RD @ DOLPHINS BARN BRIDGE",
+      "Lat": 53.33204294,
+      "Long": -6.293480478
+    },
+    {
+      "_id": 45,
+      "SiteID": 47,
+      "Site_Description_Cap": "CRUMLIN RD @ SUNDRIVE RD",
+      "Lat": 53.33015,
+      "Long": -6.298166
+    },
+    {
+      "_id": 46,
+      "SiteID": 48,
+      "Site_Description_Cap": "DAME ST @ PARLIAMENT",
+      "Lat": 53.344118,
+      "Long": -6.26722
+    },
+    {
+      "_id": 47,
+      "SiteID": 49,
+      "Site_Description_Cap": "DAME ST @ GEORGES ST",
+      "Lat": 53.344169,
+      "Long": -6.264473
+    },
+    {
+      "_id": 48,
+      "SiteID": 50,
+      "Site_Description_Cap": "DAME ST @ TRINITY ST",
+      "Lat": 53.34424291,
+      "Long": -6.262293315
+    },
+    {
+      "_id": 49,
+      "SiteID": 51,
+      "Site_Description_Cap": "DARTRY RD @ ORWELL PK",
+      "Lat": 53.30913765,
+      "Long": -6.260753211
+    },
+    {
+      "_id": 50,
+      "SiteID": 52,
+      "Site_Description_Cap": "DARTRY RD @ TEMPLE RD",
+      "Lat": 53.3111686,
+      "Long": -6.2623423
+    },
+    {
+      "_id": 51,
+      "SiteID": 53,
+      "Site_Description_Cap": "HERBERTON RD @ DOLPHIN RD",
+      "Lat": 53.33373167,
+      "Long": -6.298584236
+    },
+    {
+      "_id": 52,
+      "SiteID": 54,
+      "Site_Description_Cap": "SCR @ DOLPHIN'S BARN",
+      "Lat": 53.333527,
+      "Long": -6.291346
+    },
+    {
+      "_id": 53,
+      "SiteID": 55,
+      "Site_Description_Cap": "DORSET ST @ BELVIDERE RD",
+      "Lat": 53.36070892,
+      "Long": -6.260336307
+    },
+    {
+      "_id": 54,
+      "SiteID": 56,
+      "Site_Description_Cap": "DORSET ST @ DOMINICK ST",
+      "Lat": 53.35293,
+      "Long": -6.26834
+    },
+    {
+      "_id": 55,
+      "SiteID": 57,
+      "Site_Description_Cap": "DORSET ST @ ECCLES ST",
+      "Lat": 53.357511,
+      "Long": -6.263842
+    },
+    {
+      "_id": 56,
+      "SiteID": 58,
+      "Site_Description_Cap": "DORSET ST / FREDERICK ST / BLESSINGTON ST",
+      "Lat": 53.356051,
+      "Long": -6.265229
+    },
+    {
+      "_id": 57,
+      "SiteID": 59,
+      "Site_Description_Cap": "DORSET ST @ GARDINER ST",
+      "Lat": 53.359011,
+      "Long": -6.261967
+    },
+    {
+      "_id": 58,
+      "SiteID": 60,
+      "Site_Description_Cap": "DORSET ST @ GRANBY ROW & PED AT PARNELL SQ",
+      "Lat": 53.35423,
+      "Long": -6.266954
+    },
+    {
+      "_id": 59,
+      "SiteID": 61,
+      "Site_Description_Cap": "DORSET ST @ NORTH CIRCULAR RD",
+      "Lat": 53.359794,
+      "Long": -6.26129
+    },
+    {
+      "_id": 60,
+      "SiteID": 62,
+      "Site_Description_Cap": "DRIMNAGH RD @ WALKINSTOWN RD",
+      "Lat": 53.324027,
+      "Long": -6.328007
+    },
+    {
+      "_id": 61,
+      "SiteID": 63,
+      "Site_Description_Cap": "DRUMCONDRA RD @ CLONLIFFE RD",
+      "Lat": 53.36338899,
+      "Long": -6.25783264
+    },
+    {
+      "_id": 62,
+      "SiteID": 64,
+      "Site_Description_Cap": "SWORDS RD @ GRIFFITH AV",
+      "Lat": 53.37582125,
+      "Long": -6.250365897
+    },
+    {
+      "_id": 63,
+      "SiteID": 65,
+      "Site_Description_Cap": "DRUMCONDRA RD @ HOME FARM RD",
+      "Lat": 53.373441,
+      "Long": -6.252043
+    },
+    {
+      "_id": 64,
+      "SiteID": 66,
+      "Site_Description_Cap": "DRUMCONDRA RD @ RICHMOND RD",
+      "Lat": 53.36873,
+      "Long": -6.255011
+    },
+    {
+      "_id": 65,
+      "SiteID": 67,
+      "Site_Description_Cap": "DRUMCONDRA RD @ WHITWORTH RD",
+      "Lat": 53.361724,
+      "Long": -6.259479
+    },
+    {
+      "_id": 66,
+      "SiteID": 69,
+      "Site_Description_Cap": "DUBLIN RD @ KILBARRACK RD",
+      "Lat": 53.384781,
+      "Long": -6.143031
+    },
+    {
+      "_id": 67,
+      "SiteID": 70,
+      "Site_Description_Cap": "EARLSFORT TCE @ HATCH ST",
+      "Lat": 53.33383461,
+      "Long": -6.258650514
+    },
+    {
+      "_id": 68,
+      "SiteID": 71,
+      "Site_Description_Cap": "EMMET RD @ TYRCONNELL RD",
+      "Lat": 53.339541,
+      "Long": -6.321016
+    },
+    {
+      "_id": 69,
+      "SiteID": 72,
+      "Site_Description_Cap": "FAIRVIEW @ FAIRVIEW STRAND (EDGES CORNER)",
+      "Lat": 53.362856,
+      "Long": -6.236443
+    },
+    {
+      "_id": 70,
+      "SiteID": 73,
+      "Site_Description_Cap": "FAIRVIEW @ MALAHIDE RD / HOWTH RD",
+      "Lat": 53.3644,
+      "Long": -6.229796
+    },
+    {
+      "_id": 71,
+      "SiteID": 74,
+      "Site_Description_Cap": "FAUSSAGH AV @ CARNLOUGH RD",
+      "Lat": 53.3666867,
+      "Long": -6.2918802
+    },
+    {
+      "_id": 72,
+      "SiteID": 75,
+      "Site_Description_Cap": "FENIAN ST @ HOLLES ST",
+      "Lat": 53.3410846,
+      "Long": -6.2453144
+    },
+    {
+      "_id": 73,
+      "SiteID": 76,
+      "Site_Description_Cap": "GARDINER PL / MOUNTJOY SQ",
+      "Lat": 53.356808,
+      "Long": -6.259113
+    },
+    {
+      "_id": 74,
+      "SiteID": 77,
+      "Site_Description_Cap": "GRAND CANAL ST @ HADDINGTON RD",
+      "Lat": 53.33728663,
+      "Long": -6.234682657
+    },
+    {
+      "_id": 75,
+      "SiteID": 78,
+      "Site_Description_Cap": "GRANGE RD @ KILBARRACK RD",
+      "Lat": 53.39110787,
+      "Long": -6.168162343
+    },
+    {
+      "_id": 76,
+      "SiteID": 80,
+      "Site_Description_Cap": "GRIFFITH AV @ GRACE PARK RD",
+      "Lat": 53.37400216,
+      "Long": -6.24328512
+    },
+    {
+      "_id": 77,
+      "SiteID": 81,
+      "Site_Description_Cap": "HAROLDS CROSS BRIDGE",
+      "Lat": 53.329514,
+      "Long": -6.275594
+    },
+    {
+      "_id": 78,
+      "SiteID": 82,
+      "Site_Description_Cap": "HAROLDS CROSS RD @ LEINSTER RD",
+      "Lat": 53.32166648,
+      "Long": -6.27912199
+    },
+    {
+      "_id": 79,
+      "SiteID": 83,
+      "Site_Description_Cap": "HAROLDS CROSS RD  @ PARK",
+      "Lat": 53.326407,
+      "Long": -6.278056
+    },
+    {
+      "_id": 80,
+      "SiteID": 84,
+      "Site_Description_Cap": "HAROLDS CROSS RD @ RATHGAR AV",
+      "Lat": 53.3186632,
+      "Long": -6.2789822
+    },
+    {
+      "_id": 81,
+      "SiteID": 85,
+      "Site_Description_Cap": "SCR @ HEYTESBURY ST",
+      "Lat": 53.33246616,
+      "Long": -6.26831298
+    },
+    {
+      "_id": 82,
+      "SiteID": 86,
+      "Site_Description_Cap": "HOWTH RD @ BROOKWOOD AV",
+      "Lat": 53.37546251,
+      "Long": -6.194837575
+    },
+    {
+      "_id": 83,
+      "SiteID": 87,
+      "Site_Description_Cap": "HOWTH RD @ COPELAND AVE",
+      "Lat": 53.3661254,
+      "Long": -6.2235609
+    },
+    {
+      "_id": 84,
+      "SiteID": 88,
+      "Site_Description_Cap": "HOWTH RD @ STATION RD",
+      "Lat": 53.38039654,
+      "Long": -6.17510658
+    },
+    {
+      "_id": 85,
+      "SiteID": 90,
+      "Site_Description_Cap": "JAMES LARKIN RD @ WATERMILL RD",
+      "Lat": 53.37406085,
+      "Long": -6.16458493
+    },
+    {
+      "_id": 86,
+      "SiteID": 91,
+      "Site_Description_Cap": "JAMESTOWN RD / MCKEE AVE / SEAMUS ENNIS RD",
+      "Lat": 53.39011898,
+      "Long": -6.298183036
+    },
+    {
+      "_id": 87,
+      "SiteID": 92,
+      "Site_Description_Cap": "IRISHTOWN RD @ BATH ST",
+      "Lat": 53.33958909,
+      "Long": -6.223327707
+    },
+    {
+      "_id": 88,
+      "SiteID": 93,
+      "Site_Description_Cap": "IRISHTOWN RD @ LONDONBRIDGE",
+      "Lat": 53.33792415,
+      "Long": -6.222511473
+    },
+    {
+      "_id": 89,
+      "SiteID": 94,
+      "Site_Description_Cap": "JERVIS ST @ ABBEY ST  (LUAS)",
+      "Lat": 53.347604,
+      "Long": -6.266148
+    },
+    {
+      "_id": 90,
+      "SiteID": 95,
+      "Site_Description_Cap": "JERVIS ST @ MARY ST",
+      "Lat": 53.348808,
+      "Long": -6.26667
+    },
+    {
+      "_id": 91,
+      "SiteID": 96,
+      "Site_Description_Cap": "KILDARE RD @ WINDMILL RD",
+      "Lat": 53.32533299,
+      "Long": -6.30900425
+    },
+    {
+      "_id": 92,
+      "SiteID": 97,
+      "Site_Description_Cap": "KIMMAGE RD LOWER @ SUNDRIVE RD",
+      "Lat": 53.319471,
+      "Long": -6.290559
+    },
+    {
+      "_id": 93,
+      "SiteID": 98,
+      "Site_Description_Cap": "KCR AND KIMMAGE RD/RAVENSDALE",
+      "Lat": 53.312106,
+      "Long": -6.299684
+    },
+    {
+      "_id": 94,
+      "SiteID": 99,
+      "Site_Description_Cap": "KIMMAGE RD WEST @ LORCAN O TOOLE PK",
+      "Lat": 53.31374431,
+      "Long": -6.309789782
+    },
+    {
+      "_id": 95,
+      "SiteID": 100,
+      "Site_Description_Cap": "KIMMAGE RD WEST @ WHITEHALL RD",
+      "Lat": 53.31270554,
+      "Long": -6.304874271
+    },
+    {
+      "_id": 96,
+      "SiteID": 101,
+      "Site_Description_Cap": "KYLEMORE RD @ OLD NAAS RD",
+      "Lat": 53.3284819,
+      "Long": -6.3437672
+    },
+    {
+      "_id": 97,
+      "SiteID": 101,
+      "Site_Description_Cap": "KYLEMORE RD @ OLD NAAS RD",
+      "Lat": 53.3284819,
+      "Long": -6.3437672
+    },
+    {
+      "_id": 98,
+      "SiteID": 102,
+      "Site_Description_Cap": "LEESON PK @ CHELMSFORD RD",
+      "Lat": 53.32636158,
+      "Long": -6.250448524
+    },
+    {
+      "_id": 99,
+      "SiteID": 103,
+      "Site_Description_Cap": "LEESON ST @ APPIAN WAY/WATERLOO RD & PED AT SUSSEX RD",
+      "Lat": 53.32822155,
+      "Long": -6.245889419
+    },
+    {
+      "_id": 100,
+      "SiteID": 104,
+      "Site_Description_Cap": "LEESON ST BRIDGE / MESPIL RD",
+      "Lat": 53.33192913,
+      "Long": -6.252650507
+    },
+    {
+      "_id": 101,
+      "SiteID": 105,
+      "Site_Description_Cap": "LONG MILE RD @ WALKINSTOWN AV",
+      "Lat": 53.3237,
+      "Long": -6.341007
+    },
+    {
+      "_id": 102,
+      "SiteID": 106,
+      "Site_Description_Cap": "LUCAN RD @ KYLEMORE RD",
+      "Lat": 53.35101882,
+      "Long": -6.352857649
+    },
+    {
+      "_id": 103,
+      "SiteID": 107,
+      "Site_Description_Cap": "MALAHIDE RD @ COLLINS AV",
+      "Lat": 53.375512,
+      "Long": -6.218754
+    },
+    {
+      "_id": 104,
+      "SiteID": 108,
+      "Site_Description_Cap": "MALAHIDE RD @ GRIFFITH AV",
+      "Lat": 53.368508,
+      "Long": -6.22635
+    },
+    {
+      "_id": 105,
+      "SiteID": 109,
+      "Site_Description_Cap": "MALAHIDE RD @ KILMORE RD",
+      "Lat": 53.37992328,
+      "Long": -6.210365073
+    },
+    {
+      "_id": 106,
+      "SiteID": 110,
+      "Site_Description_Cap": "MALAHIDE RD @ TONLEGEE RD",
+      "Lat": 53.389413,
+      "Long": -6.197583
+    },
+    {
+      "_id": 107,
+      "SiteID": 111,
+      "Site_Description_Cap": "MERRION RD @ AILESBURY RD",
+      "Lat": 53.320518,
+      "Long": -6.2155
+    },
+    {
+      "_id": 108,
+      "SiteID": 112,
+      "Site_Description_Cap": "MERRION RD @ ANGLESEA RD & PED @ RDS",
+      "Lat": 53.32880997,
+      "Long": -6.230326103
+    },
+    {
+      "_id": 109,
+      "SiteID": 113,
+      "Site_Description_Cap": "MERRION RD @ NUTLEY LANE",
+      "Lat": 53.31886422,
+      "Long": -6.2129471
+    },
+    {
+      "_id": 110,
+      "SiteID": 114,
+      "Site_Description_Cap": "MERRION RD @ SANDYMOUNT AV",
+      "Lat": 53.3264971,
+      "Long": -6.2244579
+    },
+    {
+      "_id": 111,
+      "SiteID": 115,
+      "Site_Description_Cap": "MERRION ROW @ MERRION ST",
+      "Lat": 53.33814415,
+      "Long": -6.253613155
+    },
+    {
+      "_id": 112,
+      "SiteID": 116,
+      "Site_Description_Cap": "MERRION SQ @ HOLLES ST",
+      "Lat": 53.33961878,
+      "Long": -6.246438441
+    },
+    {
+      "_id": 113,
+      "SiteID": 117,
+      "Site_Description_Cap": "MILLTOWN RD @ DUNDRUM RD",
+      "Lat": 53.31067582,
+      "Long": -6.248131342
+    },
+    {
+      "_id": 114,
+      "SiteID": 118,
+      "Site_Description_Cap": "MOREHAMPTON RD @ HERBERT PK",
+      "Lat": 53.32511941,
+      "Long": -6.24093233
+    },
+    {
+      "_id": 115,
+      "SiteID": 119,
+      "Site_Description_Cap": "MOBHI RD @ BOTANIC AV",
+      "Lat": 53.37184485,
+      "Long": -6.266551795
+    },
+    {
+      "_id": 116,
+      "SiteID": 120,
+      "Site_Description_Cap": "MOUNT ST BRIDGE @ WARRINGTON PL",
+      "Lat": 53.33766465,
+      "Long": -6.240624394
+    },
+    {
+      "_id": 117,
+      "SiteID": 121,
+      "Site_Description_Cap": "MOUNTJOY SQ @ BELVIDERE PL",
+      "Lat": 53.35739626,
+      "Long": -6.25708867
+    },
+    {
+      "_id": 118,
+      "SiteID": 122,
+      "Site_Description_Cap": "MOUNTJOY ST @ WESTERN WAY",
+      "Lat": 53.35485,
+      "Long": -6.268734
+    },
+    {
+      "_id": 119,
+      "SiteID": 123,
+      "Site_Description_Cap": "MOUNTPLEASANT AV @ CHARLESTON RD",
+      "Lat": 53.323523,
+      "Long": -6.260429202
+    },
+    {
+      "_id": 120,
+      "SiteID": 124,
+      "Site_Description_Cap": "NAAS RD @ KYLEMORE RD (LUAS)",
+      "Lat": 53.326971,
+      "Long": -6.342872
+    },
+    {
+      "_id": 121,
+      "SiteID": 125,
+      "Site_Description_Cap": "NAVAN RD @ NEPHIN RD",
+      "Lat": 53.36492,
+      "Long": -6.308256
+    },
+    {
+      "_id": 122,
+      "SiteID": 126,
+      "Site_Description_Cap": "NICHOLAS ST @ BRIDE RD",
+      "Lat": 53.341537,
+      "Long": -6.27226
+    },
+    {
+      "_id": 123,
+      "SiteID": 127,
+      "Site_Description_Cap": "NCR @ CABRA RD",
+      "Lat": 53.36072191,
+      "Long": -6.275144249
+    },
+    {
+      "_id": 124,
+      "SiteID": 128,
+      "Site_Description_Cap": "NCR @ BELVIDERE RD",
+      "Lat": 53.3592327,
+      "Long": -6.258753173
+    },
+    {
+      "_id": 125,
+      "SiteID": 129,
+      "Site_Description_Cap": "NCR @ FITZGIBBON ST",
+      "Lat": 53.35837321,
+      "Long": -6.254626873
+    },
+    {
+      "_id": 126,
+      "SiteID": 130,
+      "Site_Description_Cap": "NCR @ INFIRMARY RD",
+      "Lat": 53.35219,
+      "Long": -6.29808
+    },
+    {
+      "_id": 127,
+      "SiteID": 131,
+      "Site_Description_Cap": "NORTH RD @ MELLOWES RD",
+      "Lat": 53.3899657,
+      "Long": -6.301263742
+    },
+    {
+      "_id": 128,
+      "SiteID": 132,
+      "Site_Description_Cap": "NORTH STRAND RD @ EAST WALL RD",
+      "Lat": 53.360634,
+      "Long": -6.23904
+    },
+    {
+      "_id": 129,
+      "SiteID": 133,
+      "Site_Description_Cap": "NORTHUMBERLAND RD @ HADDINGTON RD",
+      "Lat": 53.336146,
+      "Long": -6.238152
+    },
+    {
+      "_id": 130,
+      "SiteID": 134,
+      "Site_Description_Cap": "NORTHUMBERLAND RD @ PEMBROKE RD",
+      "Lat": 53.332259,
+      "Long": -6.235354
+    },
+    {
+      "_id": 131,
+      "SiteID": 136,
+      "Site_Description_Cap": "ORWELL RD @ ORWELL PK",
+      "Lat": 53.30694851,
+      "Long": -6.269834935
+    },
+    {
+      "_id": 132,
+      "SiteID": 137,
+      "Site_Description_Cap": "PALMERSTON RD @ BELGRAVE RD",
+      "Lat": 53.32085621,
+      "Long": -6.2595681
+    },
+    {
+      "_id": 133,
+      "SiteID": 138,
+      "Site_Description_Cap": "PARKGATE ST @ INFIRMARY RD",
+      "Lat": 53.348199,
+      "Long": -6.295636
+    },
+    {
+      "_id": 134,
+      "SiteID": 139,
+      "Site_Description_Cap": "PARNELL RD @ CLOGHER RD",
+      "Lat": 53.3304292,
+      "Long": -6.2840455
+    },
+    {
+      "_id": 135,
+      "SiteID": 140,
+      "Site_Description_Cap": "PARNELL SQ @ NORTH FREDERICK ST",
+      "Lat": 53.35442851,
+      "Long": -6.263430138
+    },
+    {
+      "_id": 136,
+      "SiteID": 141,
+      "Site_Description_Cap": "GARDINER ST @ PARNELL ST / SUMMERHILL AND PED AT RUTLAND ST",
+      "Lat": 53.354212,
+      "Long": -6.256897
+    },
+    {
+      "_id": 137,
+      "SiteID": 142,
+      "Site_Description_Cap": "PATRICK ST @ DEAN ST",
+      "Lat": 53.33885189,
+      "Long": -6.272633191
+    },
+    {
+      "_id": 138,
+      "SiteID": 143,
+      "Site_Description_Cap": "PEARSE ST @ ERNE ST",
+      "Lat": 53.343188,
+      "Long": -6.244578
+    },
+    {
+      "_id": 139,
+      "SiteID": 144,
+      "Site_Description_Cap": "PEARSE ST @ MACKEN ST",
+      "Lat": 53.342762,
+      "Long": -6.241147
+    },
+    {
+      "_id": 140,
+      "SiteID": 145,
+      "Site_Description_Cap": "PEARSE ST @ SANDWITH ST",
+      "Lat": 53.34351786,
+      "Long": -6.246392619
+    },
+    {
+      "_id": 141,
+      "SiteID": 146,
+      "Site_Description_Cap": "PEARSE ST @ WESTLAND ROW & PED AT CHURCH",
+      "Lat": 53.34413,
+      "Long": -6.249295
+    },
+    {
+      "_id": 142,
+      "SiteID": 147,
+      "Site_Description_Cap": "PEMBROKE RD @ SHELBOURNE RD",
+      "Lat": 53.32949201,
+      "Long": -6.232952178
+    },
+    {
+      "_id": 143,
+      "SiteID": 148,
+      "Site_Description_Cap": "PHIBSBORO RD @ CONNAUGHT ST & PED AT SHOPPING CENTRE",
+      "Lat": 53.36253281,
+      "Long": -6.272693223
+    },
+    {
+      "_id": 144,
+      "SiteID": 149,
+      "Site_Description_Cap": "NCR @ PHIBSBORO RD (DOYLES CORNER)",
+      "Lat": 53.36078483,
+      "Long": -6.272678945
+    },
+    {
+      "_id": 145,
+      "SiteID": 150,
+      "Site_Description_Cap": "PHIBSBORO RD @ WHITWORTH RD",
+      "Lat": 53.36462639,
+      "Long": -6.271783924
+    },
+    {
+      "_id": 146,
+      "SiteID": 151,
+      "Site_Description_Cap": "NCR @ PRUSSIA ST (HANLONS CORNER)",
+      "Lat": 53.357216,
+      "Long": -6.288761
+    },
+    {
+      "_id": 147,
+      "SiteID": 152,
+      "Site_Description_Cap": "QUEEN ST BRIDGE",
+      "Lat": 53.346386,
+      "Long": -6.280432
+    },
+    {
+      "_id": 148,
+      "SiteID": 153,
+      "Site_Description_Cap": "RANELAGH RD @ FIELDS TCE / CHELMSFORD RD",
+      "Lat": 53.3250988,
+      "Long": -6.2546633
+    },
+    {
+      "_id": 149,
+      "SiteID": 155,
+      "Site_Description_Cap": "RATHGAR RD @ ORWELL RD",
+      "Lat": 53.31189783,
+      "Long": -6.274611236
+    },
+    {
+      "_id": 150,
+      "SiteID": 156,
+      "Site_Description_Cap": "RATHGAR RD @ FRANKFORT AV",
+      "Lat": 53.3173303,
+      "Long": -6.2704275
+    },
+    {
+      "_id": 151,
+      "SiteID": 157,
+      "Site_Description_Cap": "RATHMINES BRIDGE @ CANAL RD",
+      "Lat": 53.32994997,
+      "Long": -6.264278678
+    },
+    {
+      "_id": 152,
+      "SiteID": 158,
+      "Site_Description_Cap": "RATHMINES RD @ CASTLEWOOD AV",
+      "Lat": 53.322264,
+      "Long": -6.265737
+    },
+    {
+      "_id": 153,
+      "SiteID": 159,
+      "Site_Description_Cap": "RATHMINES RD @ HIGHFIELD RD",
+      "Lat": 53.31326375,
+      "Long": -6.263354994
+    },
+    {
+      "_id": 154,
+      "SiteID": 160,
+      "Site_Description_Cap": "RINGSEND RD @ SOUTH LOTTS RD",
+      "Lat": 53.3415926,
+      "Long": -6.23170508
+    },
+    {
+      "_id": 155,
+      "SiteID": 161,
+      "Site_Description_Cap": "HOWTH RD  @ CHURCH",
+      "Lat": 53.3751504,
+      "Long": -6.196310393
+    },
+    {
+      "_id": 156,
+      "SiteID": 162,
+      "Site_Description_Cap": "MOBHI RD @ GRIFFITH AV",
+      "Lat": 53.3782629,
+      "Long": -6.2651203
+    },
+    {
+      "_id": 157,
+      "SiteID": 163,
+      "Site_Description_Cap": "ST STEPHENS GREEN @ EARLSFORT TCE",
+      "Lat": 53.33611851,
+      "Long": -6.257122178
+    },
+    {
+      "_id": 158,
+      "SiteID": 164,
+      "Site_Description_Cap": "ST STEPHENS GREEN @ HARCOURT ST (LUAS)",
+      "Lat": 53.33759778,
+      "Long": -6.262615281
+    },
+    {
+      "_id": 159,
+      "SiteID": 165,
+      "Site_Description_Cap": "SANDFORD RD @ MILLTOWN RD",
+      "Lat": 53.31857895,
+      "Long": -6.241455135
+    },
+    {
+      "_id": 160,
+      "SiteID": 166,
+      "Site_Description_Cap": "GARDINER ST @ SEAN MC DERMOTT ST",
+      "Lat": 53.353031,
+      "Long": -6.256035
+    },
+    {
+      "_id": 161,
+      "SiteID": 167,
+      "Site_Description_Cap": "SHELBOURNE RD @ LANDSDOWNE RD",
+      "Lat": 53.33373357,
+      "Long": -6.231796775
+    },
+    {
+      "_id": 162,
+      "SiteID": 168,
+      "Site_Description_Cap": "SHERIFF ST @ WAPPING ST",
+      "Lat": 53.35023375,
+      "Long": -6.235016063
+    },
+    {
+      "_id": 163,
+      "SiteID": 170,
+      "Site_Description_Cap": "SCR @ DONORE AV",
+      "Lat": 53.331516,
+      "Long": -6.283627
+    },
+    {
+      "_id": 164,
+      "SiteID": 171,
+      "Site_Description_Cap": "SCR @ EMMET RD",
+      "Lat": 53.34061163,
+      "Long": -6.307669767
+    },
+    {
+      "_id": 165,
+      "SiteID": 172,
+      "Site_Description_Cap": "SCR @ ST JOHNS RD",
+      "Lat": 53.34396656,
+      "Long": -6.308244467
+    },
+    {
+      "_id": 166,
+      "SiteID": 173,
+      "Site_Description_Cap": "GEORGES ST @ STEPHENS ST",
+      "Lat": 53.3414693,
+      "Long": -6.26539315
+    },
+    {
+      "_id": 167,
+      "SiteID": 174,
+      "Site_Description_Cap": "STILLORGAN RD @ ANGLESEA RD",
+      "Lat": 53.31919269,
+      "Long": -6.23208783
+    },
+    {
+      "_id": 168,
+      "SiteID": 175,
+      "Site_Description_Cap": "STILLORGAN RD @ NUTLEY LANE",
+      "Lat": 53.31365381,
+      "Long": -6.22239235
+    },
+    {
+      "_id": 169,
+      "SiteID": 176,
+      "Site_Description_Cap": "SUIR RD @ DAVITT RD (LUAS)",
+      "Lat": 53.33650654,
+      "Long": -6.30623025
+    },
+    {
+      "_id": 170,
+      "SiteID": 177,
+      "Site_Description_Cap": "SUNDRIVE RD @ CLOGHER RD",
+      "Lat": 53.32568685,
+      "Long": -6.29661575
+    },
+    {
+      "_id": 171,
+      "SiteID": 178,
+      "Site_Description_Cap": "NCR @ SUMMERHILL",
+      "Lat": 53.3570282,
+      "Long": -6.249742617
+    },
+    {
+      "_id": 172,
+      "SiteID": 179,
+      "Site_Description_Cap": "SWORDS RD @ COLLINS AV",
+      "Lat": 53.38246,
+      "Long": -6.244531
+    },
+    {
+      "_id": 173,
+      "SiteID": 180,
+      "Site_Description_Cap": "SWORDS RD @ LARKHILL RD",
+      "Lat": 53.387681,
+      "Long": -6.244285
+    },
+    {
+      "_id": 174,
+      "SiteID": 181,
+      "Site_Description_Cap": "SWORDS RD @ SHANOWEN RD",
+      "Lat": 53.389783,
+      "Long": -6.246246
+    },
+    {
+      "_id": 175,
+      "SiteID": 182,
+      "Site_Description_Cap": "GARDINER ST @ TALBOT ST",
+      "Lat": 53.35074863,
+      "Long": -6.254446963
+    },
+    {
+      "_id": 176,
+      "SiteID": 183,
+      "Site_Description_Cap": "TARA ST @ GEORGES QUAY",
+      "Lat": 53.347487,
+      "Long": -6.255009
+    },
+    {
+      "_id": 177,
+      "SiteID": 184,
+      "Site_Description_Cap": "TARA ST @ POOLBEG ST",
+      "Lat": 53.34681537,
+      "Long": -6.255125119
+    },
+    {
+      "_id": 178,
+      "SiteID": 185,
+      "Site_Description_Cap": "TARA ST @ TOWNSEND ST & PEDS AT FIRE STATION",
+      "Lat": 53.34589915,
+      "Long": -6.255148497
+    },
+    {
+      "_id": 179,
+      "SiteID": 187,
+      "Site_Description_Cap": "TERENURE CROSS",
+      "Lat": 53.309842,
+      "Long": -6.283565
+    },
+    {
+      "_id": 180,
+      "SiteID": 188,
+      "Site_Description_Cap": "TOWNSEND ST @ MOSS ST & PED AT PRINCES ST",
+      "Lat": 53.34578996,
+      "Long": -6.252119984
+    },
+    {
+      "_id": 181,
+      "SiteID": 189,
+      "Site_Description_Cap": "TYRCONNELL RD @ DAVITT RD  (LUAS)",
+      "Lat": 53.3340389,
+      "Long": -6.3285548
+    },
+    {
+      "_id": 182,
+      "SiteID": 190,
+      "Site_Description_Cap": "WATLING ST BRIDGE",
+      "Lat": 53.34700658,
+      "Long": -6.283928619
+    },
+    {
+      "_id": 183,
+      "SiteID": 191,
+      "Site_Description_Cap": "WESTLAND ROW @ LINCOLN PL",
+      "Lat": 53.34200521,
+      "Long": -6.250589226
+    },
+    {
+      "_id": 184,
+      "SiteID": 192,
+      "Site_Description_Cap": "WEXFORD ST @ KEVIN ST",
+      "Lat": 53.33760485,
+      "Long": -6.265788537
+    },
+    {
+      "_id": 185,
+      "SiteID": 193,
+      "Site_Description_Cap": "WINETAVERN ST BRIDGE",
+      "Lat": 53.345256,
+      "Long": -6.272135
+    },
+    {
+      "_id": 186,
+      "SiteID": 194,
+      "Site_Description_Cap": "NORTH STRAND RD @ ANNESLEY PL",
+      "Lat": 53.3598561,
+      "Long": -6.2397428
+    },
+    {
+      "_id": 187,
+      "SiteID": 196,
+      "Site_Description_Cap": "O'CONNELL BRIDGE @ ASTON QUAY",
+      "Lat": 53.3468383,
+      "Long": -6.2589137
+    },
+    {
+      "_id": 188,
+      "SiteID": 197,
+      "Site_Description_Cap": "O'CONNELL ST @ BACHELORS WALK",
+      "Lat": 53.3475808,
+      "Long": -6.2592774
+    },
+    {
+      "_id": 189,
+      "SiteID": 198,
+      "Site_Description_Cap": "O'CONNELL ST @ ABBEY ST  (LUAS)",
+      "Lat": 53.34838781,
+      "Long": -6.259644159
+    },
+    {
+      "_id": 190,
+      "SiteID": 199,
+      "Site_Description_Cap": "O'CONNELL ST @ HENRY ST & PED AT EARL ST",
+      "Lat": 53.34979793,
+      "Long": -6.260258981
+    },
+    {
+      "_id": 191,
+      "SiteID": 200,
+      "Site_Description_Cap": "O'CONNELL ST @ CATHAL BRUGHA ST",
+      "Lat": 53.35194847,
+      "Long": -6.261080311
+    },
+    {
+      "_id": 192,
+      "SiteID": 201,
+      "Site_Description_Cap": "O'CONNELL ST @ PARNELL ST",
+      "Lat": 53.35257079,
+      "Long": -6.261489034
+    },
+    {
+      "_id": 193,
+      "SiteID": 202,
+      "Site_Description_Cap": "PARNELL ST @ PARNELL SQ & PED AT DOMINICK ST",
+      "Lat": 53.35182721,
+      "Long": -6.262915529
+    },
+    {
+      "_id": 194,
+      "SiteID": 203,
+      "Site_Description_Cap": "AMIENS ST @ BUCKINGHAM ST",
+      "Lat": 53.352744,
+      "Long": -6.2489069
+    },
+    {
+      "_id": 195,
+      "SiteID": 204,
+      "Site_Description_Cap": "ARDLEA RD @ SCHOOL",
+      "Lat": 53.386535,
+      "Long": -6.210361
+    },
+    {
+      "_id": 196,
+      "SiteID": 205,
+      "Site_Description_Cap": "AUNGIER ST @ YORK ST",
+      "Lat": 53.33973268,
+      "Long": -6.265840567
+    },
+    {
+      "_id": 197,
+      "SiteID": 206,
+      "Site_Description_Cap": "BAGGOT ST @ PEMBROKE ST",
+      "Lat": 53.33766189,
+      "Long": -6.251542787
+    },
+    {
+      "_id": 198,
+      "SiteID": 207,
+      "Site_Description_Cap": "BALLYBOUGH RD @ BAYVIEW AV",
+      "Lat": 53.359325,
+      "Long": -6.245566
+    },
+    {
+      "_id": 199,
+      "SiteID": 208,
+      "Site_Description_Cap": "BALLYBOUGH RD @ CANAL BRIDGE",
+      "Lat": 53.35819816,
+      "Long": -6.247448654
+    },
+    {
+      "_id": 200,
+      "SiteID": 209,
+      "Site_Description_Cap": "BALLYFERMOT RD @ DRUMFIN RD",
+      "Lat": 53.3428069,
+      "Long": -6.3605731
+    },
+    {
+      "_id": 201,
+      "SiteID": 210,
+      "Site_Description_Cap": "BALLYFERMOT RD @ GALA",
+      "Lat": 53.3425553,
+      "Long": -6.3576219
+    },
+    {
+      "_id": 202,
+      "SiteID": 211,
+      "Site_Description_Cap": "BALLYFERMOT WEST OF ROUNDABOUT",
+      "Lat": 53.3422509,
+      "Long": -6.3493363
+    },
+    {
+      "_id": 203,
+      "SiteID": 212,
+      "Site_Description_Cap": "BALLYGALL RD EAST @ HILLCREST ESTATE",
+      "Lat": 53.387565,
+      "Long": -6.279736
+    },
+    {
+      "_id": 204,
+      "SiteID": 213,
+      "Site_Description_Cap": "BALLYGALL RD WEST @ GROVE RD",
+      "Lat": 53.390409,
+      "Long": -6.287232
+    },
+    {
+      "_id": 205,
+      "SiteID": 214,
+      "Site_Description_Cap": "GLASNEVIN AV @ GLASNEVIN DRIVE",
+      "Lat": 53.38992531,
+      "Long": -6.270197332
+    },
+    {
+      "_id": 206,
+      "SiteID": 215,
+      "Site_Description_Cap": "BALLYMUN RD @ ST MICHAELS ITT & OOT",
+      "Lat": 53.37990934,
+      "Long": -6.265826672
+    },
+    {
+      "_id": 207,
+      "SiteID": 216,
+      "Site_Description_Cap": "BOTANIC RD @ MARGUERITE RD",
+      "Lat": 53.3686101,
+      "Long": -6.2697734
+    },
+    {
+      "_id": 208,
+      "SiteID": 218,
+      "Site_Description_Cap": "BRIDGE ST (RINGSEND) @ CHURCH",
+      "Lat": 53.3417633,
+      "Long": -6.2277364
+    },
+    {
+      "_id": 209,
+      "SiteID": 219,
+      "Site_Description_Cap": "BALLYMUN RD @ OUR LADY OF THE VICTORIES SCHOOL",
+      "Lat": 53.3885676,
+      "Long": -6.2655262
+    },
+    {
+      "_id": 210,
+      "SiteID": 220,
+      "Site_Description_Cap": "CAMDEN ST / PLEASANTS ST",
+      "Lat": 53.3354574,
+      "Long": -6.265205397
+    },
+    {
+      "_id": 211,
+      "SiteID": 221,
+      "Site_Description_Cap": "CARDIFFSBRIDGE RD @ WELLMOUNT AV",
+      "Lat": 53.3859713,
+      "Long": -6.312615
+    },
+    {
+      "_id": 212,
+      "SiteID": 222,
+      "Site_Description_Cap": "CHAPELIZOD RD @ PARK GATE",
+      "Lat": 53.3466784,
+      "Long": -6.3369597
+    },
+    {
+      "_id": 213,
+      "SiteID": 223,
+      "Site_Description_Cap": "CLONTARF RD @ BULL WALL",
+      "Lat": 53.3608826,
+      "Long": -6.1822893
+    },
+    {
+      "_id": 214,
+      "SiteID": 224,
+      "Site_Description_Cap": "CLONTARF RD @ CONQUER HILL RD",
+      "Lat": 53.3588536,
+      "Long": -6.189932
+    },
+    {
+      "_id": 215,
+      "SiteID": 226,
+      "Site_Description_Cap": "COLLEGE GREEN @ GRAFTON ST",
+      "Lat": 53.3444245,
+      "Long": -6.259537235
+    },
+    {
+      "_id": 216,
+      "SiteID": 229,
+      "Site_Description_Cap": "WESTMORELAND ST @ COLLEGE ST",
+      "Lat": 53.34530314,
+      "Long": -6.259113968
+    },
+    {
+      "_id": 217,
+      "SiteID": 230,
+      "Site_Description_Cap": "COLLEGE ST @ COLLEGE GREEN",
+      "Lat": 53.34508689,
+      "Long": -6.258870614
+    },
+    {
+      "_id": 218,
+      "SiteID": 232,
+      "Site_Description_Cap": "D-OLIER ST @ PEARSE ST / FLEET ST / TOWNSEND ST",
+      "Lat": 53.34575682,
+      "Long": -6.257148034
+    },
+    {
+      "_id": 219,
+      "SiteID": 233,
+      "Site_Description_Cap": "COLLINS AV @ ALBERT COLLEGE PK",
+      "Lat": 53.38826602,
+      "Long": -6.261026265
+    },
+    {
+      "_id": 220,
+      "SiteID": 234,
+      "Site_Description_Cap": "COLLINS AV @ FALCARRAGH RD",
+      "Lat": 53.384696,
+      "Long": -6.249933
+    },
+    {
+      "_id": 221,
+      "SiteID": 235,
+      "Site_Description_Cap": "CONNAUGHT ST @ ST PETERS RD",
+      "Lat": 53.3632159,
+      "Long": -6.2767703
+    },
+    {
+      "_id": 222,
+      "SiteID": 236,
+      "Site_Description_Cap": "CORK ROAD @ ORMOND ROAD",
+      "Lat": 53.3382047,
+      "Long": -6.281361792
+    },
+    {
+      "_id": 223,
+      "SiteID": 237,
+      "Site_Description_Cap": "CRUMLIN RD @ LORETO CONVENT",
+      "Lat": 53.33061205,
+      "Long": -6.296875013
+    },
+    {
+      "_id": 224,
+      "SiteID": 238,
+      "Site_Description_Cap": "CRUMLIN RD @ SHOPPING CENTRE",
+      "Lat": 53.32971758,
+      "Long": -6.299594575
+    },
+    {
+      "_id": 225,
+      "SiteID": 243,
+      "Site_Description_Cap": "DONNYBROOK RD @ GARDA STATION",
+      "Lat": 53.32150988,
+      "Long": -6.23515693
+    },
+    {
+      "_id": 226,
+      "SiteID": 246,
+      "Site_Description_Cap": "DUNVILLE AV @ OAKLEY RD",
+      "Lat": 53.321131,
+      "Long": -6.256135
+    },
+    {
+      "_id": 227,
+      "SiteID": 247,
+      "Site_Description_Cap": "EAST WALL RD @ FOOTBRIDGE",
+      "Lat": 53.3591025,
+      "Long": -6.2364392
+    },
+    {
+      "_id": 228,
+      "SiteID": 248,
+      "Site_Description_Cap": "FAIRVIEW STRAND @ PHILIPSBURGH AV",
+      "Lat": 53.3628098,
+      "Long": -6.2397045
+    },
+    {
+      "_id": 229,
+      "SiteID": 249,
+      "Site_Description_Cap": "FINGLAS RD @ CLAREMONT COURT",
+      "Lat": 53.37082162,
+      "Long": -6.280146909
+    },
+    {
+      "_id": 230,
+      "SiteID": 254,
+      "Site_Description_Cap": "GRAND CANAL ST @ MACKEN ST",
+      "Lat": 53.339746,
+      "Long": -6.241863
+    },
+    {
+      "_id": 231,
+      "SiteID": 255,
+      "Site_Description_Cap": "GRIFFITH AV @ CLARE RD",
+      "Lat": 53.3767061,
+      "Long": -6.2545287
+    },
+    {
+      "_id": 232,
+      "SiteID": 256,
+      "Site_Description_Cap": "GRIFFITH AV @ ST DECLAN TCE",
+      "Lat": 53.3697747,
+      "Long": -6.2312657
+    },
+    {
+      "_id": 233,
+      "SiteID": 257,
+      "Site_Description_Cap": "HARCOURT ST @ THE HOSPITAL (LUAS)",
+      "Lat": 53.33542066,
+      "Long": -6.263298166
+    },
+    {
+      "_id": 234,
+      "SiteID": 258,
+      "Site_Description_Cap": "HAROLDS CROSS RD @ LE VERE TCE",
+      "Lat": 53.3281278,
+      "Long": -6.2766772
+    },
+    {
+      "_id": 235,
+      "SiteID": 259,
+      "Site_Description_Cap": "HAROLDS CROSS RD @ PARK VIEW AV",
+      "Lat": 53.3230781,
+      "Long": -6.2789512
+    },
+    {
+      "_id": 236,
+      "SiteID": 260,
+      "Site_Description_Cap": "HEYTESBURY ST @ HOSPITAL",
+      "Lat": 53.33616958,
+      "Long": -6.268995761
+    },
+    {
+      "_id": 237,
+      "SiteID": 261,
+      "Site_Description_Cap": "HOWTH RD @ DUNSEVERICK RD",
+      "Lat": 53.37103407,
+      "Long": -6.205228169
+    },
+    {
+      "_id": 238,
+      "SiteID": 262,
+      "Site_Description_Cap": "HOWTH RD  @ ST ASSAM'S RD EAST",
+      "Lat": 53.38002993,
+      "Long": -6.164584671
+    },
+    {
+      "_id": 239,
+      "SiteID": 263,
+      "Site_Description_Cap": "KILBARRACK RD @ SWANSNEST AV",
+      "Lat": 53.3908229,
+      "Long": -6.159996
+    },
+    {
+      "_id": 240,
+      "SiteID": 264,
+      "Site_Description_Cap": "KILMORE RD @ ARDLEA RD",
+      "Lat": 53.38697262,
+      "Long": -6.21497333
+    },
+    {
+      "_id": 241,
+      "SiteID": 265,
+      "Site_Description_Cap": "MOUNT ARGUS @ THE CHURCH",
+      "Lat": 53.3203515,
+      "Long": -6.2862271
+    },
+    {
+      "_id": 242,
+      "SiteID": 266,
+      "Site_Description_Cap": "LE FANU RD @ KYLEMORE AVE",
+      "Lat": 53.337605,
+      "Long": -6.354153
+    },
+    {
+      "_id": 243,
+      "SiteID": 268,
+      "Site_Description_Cap": "LEESON ST @ PEMBROKE ST",
+      "Lat": 53.33435801,
+      "Long": -6.255190223
+    },
+    {
+      "_id": 244,
+      "SiteID": 269,
+      "Site_Description_Cap": "LINCOLN PL @ CLARE ST",
+      "Lat": 53.34182053,
+      "Long": -6.252296383
+    },
+    {
+      "_id": 245,
+      "SiteID": 271,
+      "Site_Description_Cap": "MALAHIDE RD @ DONNYCARNEY RD",
+      "Lat": 53.37302291,
+      "Long": -6.221667197
+    },
+    {
+      "_id": 246,
+      "SiteID": 272,
+      "Site_Description_Cap": "COLLEGE GREEN / CHURCH LANE",
+      "Lat": 53.34435519,
+      "Long": -6.26085065
+    },
+    {
+      "_id": 247,
+      "SiteID": 274,
+      "Site_Description_Cap": "MARROWBONE LANE @ SUMMER ST",
+      "Lat": 53.340549,
+      "Long": -6.283434
+    },
+    {
+      "_id": 248,
+      "SiteID": 275,
+      "Site_Description_Cap": "MERRION RD @ HERBERT AV",
+      "Lat": 53.31725245,
+      "Long": -6.208186305
+    },
+    {
+      "_id": 249,
+      "SiteID": 276,
+      "Site_Description_Cap": "MILLTOWN RD @ SCHOOL",
+      "Lat": 53.31151758,
+      "Long": -6.247890359
+    },
+    {
+      "_id": 250,
+      "SiteID": 279,
+      "Site_Description_Cap": "NAVAN RD @ CHURCH",
+      "Lat": 53.366691,
+      "Long": -6.3136
+    },
+    {
+      "_id": 251,
+      "SiteID": 280,
+      "Site_Description_Cap": "NEW ST @ LONG LANE & PEDS AT DANIEL ST.",
+      "Lat": 53.33631886,
+      "Long": -6.273147588
+    },
+    {
+      "_id": 252,
+      "SiteID": 281,
+      "Site_Description_Cap": "NORTH STRAND RD @ IVY CHURCH",
+      "Lat": 53.3582654,
+      "Long": -6.2417088
+    },
+    {
+      "_id": 253,
+      "SiteID": 282,
+      "Site_Description_Cap": "NORTH STRAND RD @ NEWCOMEN BRIDGE",
+      "Lat": 53.35662048,
+      "Long": -6.244127303
+    },
+    {
+      "_id": 254,
+      "SiteID": 285,
+      "Site_Description_Cap": "HALFPENNY BRIDGE & MILLENNIUM FOOTBRIDGE @ ORMOND QUAY",
+      "Lat": 53.34661313,
+      "Long": -6.263277074
+    },
+    {
+      "_id": 255,
+      "SiteID": 288,
+      "Site_Description_Cap": "PEARSE ST @ SHAW ST",
+      "Lat": 53.34470865,
+      "Long": -6.252177025
+    },
+    {
+      "_id": 256,
+      "SiteID": 290,
+      "Site_Description_Cap": "PHIBSBORO RD @ MONCK PL",
+      "Lat": 53.3587369,
+      "Long": -6.2730969
+    },
+    {
+      "_id": 257,
+      "SiteID": 291,
+      "Site_Description_Cap": "PHILIPSBURGH AV @ SHOPS",
+      "Lat": 53.369054,
+      "Long": -6.238766
+    },
+    {
+      "_id": 258,
+      "SiteID": 292,
+      "Site_Description_Cap": "RAHENY RD @ SWANSNEST RD",
+      "Lat": 53.389996,
+      "Long": -6.16953
+    },
+    {
+      "_id": 259,
+      "SiteID": 295,
+      "Site_Description_Cap": "RATHMINES RD @ LEINSTER RD",
+      "Lat": 53.324053,
+      "Long": -6.265385
+    },
+    {
+      "_id": 260,
+      "SiteID": 297,
+      "Site_Description_Cap": "RICHMOND ST SOUTH @ LENNOX ST",
+      "Lat": 53.33070632,
+      "Long": -6.264359504
+    },
+    {
+      "_id": 261,
+      "SiteID": 298,
+      "Site_Description_Cap": "MOBHI RD @ SCOIL CAITRIONA",
+      "Lat": 53.37554623,
+      "Long": -6.265052122
+    },
+    {
+      "_id": 262,
+      "SiteID": 301,
+      "Site_Description_Cap": "ST STEPHENS GREEN @ NORTH EAST CORNER",
+      "Lat": 53.33859582,
+      "Long": -6.25539212
+    },
+    {
+      "_id": 263,
+      "SiteID": 302,
+      "Site_Description_Cap": "SANDFORD RD @ MARLBOROUGH RD",
+      "Lat": 53.322155,
+      "Long": -6.247637
+    },
+    {
+      "_id": 264,
+      "SiteID": 303,
+      "Site_Description_Cap": "SANDYMOUNT RD @ SHOPS",
+      "Lat": 53.3327329,
+      "Long": -6.2159597
+    },
+    {
+      "_id": 265,
+      "SiteID": 304,
+      "Site_Description_Cap": "SCR @ RIALTO BRIDGE",
+      "Lat": 53.33763399,
+      "Long": -6.299292771
+    },
+    {
+      "_id": 266,
+      "SiteID": 305,
+      "Site_Description_Cap": "GEORGES ST @ EXCHEQUER ST",
+      "Lat": 53.34298908,
+      "Long": -6.264406595
+    },
+    {
+      "_id": 267,
+      "SiteID": 308,
+      "Site_Description_Cap": "SUNDRIVE RD @ BLARNEY PK",
+      "Lat": 53.32081321,
+      "Long": -6.292663916
+    },
+    {
+      "_id": 268,
+      "SiteID": 309,
+      "Site_Description_Cap": "SUNDRIVE RD @ CONVENT",
+      "Lat": 53.334252,
+      "Long": -6.326699
+    },
+    {
+      "_id": 269,
+      "SiteID": 309,
+      "Site_Description_Cap": "SUNDRIVE RD @ CONVENT",
+      "Lat": 53.3245412,
+      "Long": -6.2958135
+    },
+    {
+      "_id": 270,
+      "SiteID": 311,
+      "Site_Description_Cap": "TEMPLEOGUE RD @ FORTFIELD RD",
+      "Lat": 53.30182,
+      "Long": -6.297239
+    },
+    {
+      "_id": 271,
+      "SiteID": 312,
+      "Site_Description_Cap": "TERENURE RD NTH @ ASHDALE RD",
+      "Lat": 53.3147099,
+      "Long": -6.2834513
+    },
+    {
+      "_id": 272,
+      "SiteID": 314,
+      "Site_Description_Cap": "TONLEGEE RD @ SHOPS",
+      "Lat": 53.3889253,
+      "Long": -6.1953892
+    },
+    {
+      "_id": 273,
+      "SiteID": 316,
+      "Site_Description_Cap": "WALKINSTOWN AV @ WALKINSTOWN GREEN",
+      "Lat": 53.3195755,
+      "Long": -6.3366869
+    },
+    {
+      "_id": 274,
+      "SiteID": 319,
+      "Site_Description_Cap": "BALLYFERMOT SOUTH OF ROUNDABOUT",
+      "Lat": 53.3413672,
+      "Long": -6.3485289
+    },
+    {
+      "_id": 275,
+      "SiteID": 320,
+      "Site_Description_Cap": "BALLYFERMOT NORTH OF ROUNDABOUT",
+      "Lat": 53.3429086,
+      "Long": -6.3488605
+    },
+    {
+      "_id": 276,
+      "SiteID": 322,
+      "Site_Description_Cap": "KYLEMORE RD @ BLUEBELL AV",
+      "Lat": 53.33102001,
+      "Long": -6.345645189
+    },
+    {
+      "_id": 277,
+      "SiteID": 323,
+      "Site_Description_Cap": "MALAHIDE RD @ ST BRENDANS AV",
+      "Lat": 53.3868829,
+      "Long": -6.2007823
+    },
+    {
+      "_id": 278,
+      "SiteID": 324,
+      "Site_Description_Cap": "BRIDE ST @ GOLDEN LANE",
+      "Lat": 53.34055933,
+      "Long": -6.270032359
+    },
+    {
+      "_id": 279,
+      "SiteID": 325,
+      "Site_Description_Cap": "CRUMLIN RD @ IVY GARDENS",
+      "Lat": 53.32761801,
+      "Long": -6.30923152
+    },
+    {
+      "_id": 280,
+      "SiteID": 326,
+      "Site_Description_Cap": "CRUMLIN RD @ IVY GROUNDS",
+      "Lat": 53.32831163,
+      "Long": -6.306053102
+    },
+    {
+      "_id": 281,
+      "SiteID": 327,
+      "Site_Description_Cap": "FINGLAS RD @ OLD FINGLAS RD",
+      "Lat": 53.377704,
+      "Long": -6.287545
+    },
+    {
+      "_id": 282,
+      "SiteID": 328,
+      "Site_Description_Cap": "GRAFTON ST @ SUFFOLK ST",
+      "Lat": 53.34326199,
+      "Long": -6.25935027
+    },
+    {
+      "_id": 283,
+      "SiteID": 329,
+      "Site_Description_Cap": "CLONSKEAGH RD @ HOSPITAL",
+      "Lat": 53.316653,
+      "Long": -6.23869
+    },
+    {
+      "_id": 284,
+      "SiteID": 330,
+      "Site_Description_Cap": "RANELAGH RD @ NORTHBROOK RD",
+      "Lat": 53.3282968,
+      "Long": -6.2581681
+    },
+    {
+      "_id": 285,
+      "SiteID": 331,
+      "Site_Description_Cap": "MALAHIDE RD @ KILLESTER AV (ST DAVIDS)",
+      "Lat": 53.378414,
+      "Long": -6.213154
+    },
+    {
+      "_id": 286,
+      "SiteID": 332,
+      "Site_Description_Cap": "SWORDS RD @ PLUNKETT SCHOOL",
+      "Lat": 53.3805653,
+      "Long": -6.2459052
+    },
+    {
+      "_id": 287,
+      "SiteID": 333,
+      "Site_Description_Cap": "DAVITT RD / BENBULBIN RD / FOOTBRIDGE (LUAS)",
+      "Lat": 53.33595568,
+      "Long": -6.312371725
+    },
+    {
+      "_id": 288,
+      "SiteID": 334,
+      "Site_Description_Cap": "CLONLIFFE RD @ CLONLIFFE GARDENS",
+      "Lat": 53.3617786,
+      "Long": -6.2467798
+    },
+    {
+      "_id": 289,
+      "SiteID": 335,
+      "Site_Description_Cap": "GRIFFITH AV EXT @ BALLYGALL RD EAST",
+      "Lat": 53.37953644,
+      "Long": -6.27635193
+    },
+    {
+      "_id": 290,
+      "SiteID": 336,
+      "Site_Description_Cap": "CHURCH ST @ MAY LANE",
+      "Lat": 53.34800232,
+      "Long": -6.274761692
+    },
+    {
+      "_id": 291,
+      "SiteID": 337,
+      "Site_Description_Cap": "CHARLEMONT ST @ FLATS",
+      "Lat": 53.331583,
+      "Long": -6.261969
+    },
+    {
+      "_id": 292,
+      "SiteID": 340,
+      "Site_Description_Cap": "FINGLAS RD / PREMIER SQUARE",
+      "Lat": 53.382041,
+      "Long": -6.291203
+    },
+    {
+      "_id": 293,
+      "SiteID": 342,
+      "Site_Description_Cap": "SANDFORD RD @ BELMONT AV",
+      "Lat": 53.31971651,
+      "Long": -6.243607063
+    },
+    {
+      "_id": 294,
+      "SiteID": 343,
+      "Site_Description_Cap": "SCR @ ISLANDBRIDGE FLATS",
+      "Lat": 53.3457992,
+      "Long": -6.3082292
+    },
+    {
+      "_id": 295,
+      "SiteID": 344,
+      "Site_Description_Cap": "CABRA RD @ DOWTH AV",
+      "Lat": 53.361011,
+      "Long": -6.2831711
+    },
+    {
+      "_id": 296,
+      "SiteID": 346,
+      "Site_Description_Cap": "DRUMCONDRA RD @ ST PATRICKS COLLEGE / ORMOND RD",
+      "Lat": 53.3707446,
+      "Long": -6.253763393
+    },
+    {
+      "_id": 297,
+      "SiteID": 347,
+      "Site_Description_Cap": "PROSPECT RD @ LINDSAY RD",
+      "Lat": 53.36586485,
+      "Long": -6.27124694
+    },
+    {
+      "_id": 298,
+      "SiteID": 348,
+      "Site_Description_Cap": "BALLYFERMOT RD @ CLEGGAN PARK",
+      "Lat": 53.343528,
+      "Long": -6.369191
+    },
+    {
+      "_id": 299,
+      "SiteID": 349,
+      "Site_Description_Cap": "CLOGHER RD @ RUTLAND AV",
+      "Lat": 53.3262392,
+      "Long": -6.2945688
+    },
+    {
+      "_id": 300,
+      "SiteID": 351,
+      "Site_Description_Cap": "CHURCH ST @ BRUNSWICK ST",
+      "Lat": 53.35066989,
+      "Long": -6.274203546
+    },
+    {
+      "_id": 301,
+      "SiteID": 352,
+      "Site_Description_Cap": "DAWSON ST @ NASSAU ST",
+      "Lat": 53.34289897,
+      "Long": -6.257792079
+    },
+    {
+      "_id": 302,
+      "SiteID": 354,
+      "Site_Description_Cap": "AMIENS ST @ BERESFORD PL",
+      "Lat": 53.34899654,
+      "Long": -6.251605823
+    },
+    {
+      "_id": 303,
+      "SiteID": 355,
+      "Site_Description_Cap": "MEMORIAL BRIDGE @ CUSTOMS HOUSE QUAY",
+      "Lat": 53.34827091,
+      "Long": -6.251592289
+    },
+    {
+      "_id": 304,
+      "SiteID": 356,
+      "Site_Description_Cap": "MEMORIAL BRIDGE @ GEORGES QUAY",
+      "Lat": 53.34746,
+      "Long": -6.25179
+    },
+    {
+      "_id": 305,
+      "SiteID": 359,
+      "Site_Description_Cap": "MOUNT BROWN @ CAMAC STORES",
+      "Lat": 53.34155,
+      "Long": -6.297829
+    },
+    {
+      "_id": 306,
+      "SiteID": 360,
+      "Site_Description_Cap": "ST STEPHENS GREEN @ DAWSON ST",
+      "Lat": 53.33947113,
+      "Long": -6.258811728
+    },
+    {
+      "_id": 307,
+      "SiteID": 362,
+      "Site_Description_Cap": "RATHMINES RD @ CHURCH",
+      "Lat": 53.3278219,
+      "Long": -6.264698
+    },
+    {
+      "_id": 308,
+      "SiteID": 363,
+      "Site_Description_Cap": "RATHMINES RD @ MILITARY RD",
+      "Lat": 53.3270744,
+      "Long": -6.2648431
+    },
+    {
+      "_id": 309,
+      "SiteID": 366,
+      "Site_Description_Cap": "THOMAS ST @ MEATH ST & PED @ JOHNS LANE",
+      "Lat": 53.342838,
+      "Long": -6.27916
+    },
+    {
+      "_id": 310,
+      "SiteID": 367,
+      "Site_Description_Cap": "CORNMARKET @ BRIDGE ST",
+      "Lat": 53.34335187,
+      "Long": -6.274925533
+    },
+    {
+      "_id": 311,
+      "SiteID": 368,
+      "Site_Description_Cap": "THOMAS ST @ FRANCIS ST",
+      "Lat": 53.343098,
+      "Long": -6.276149
+    },
+    {
+      "_id": 312,
+      "SiteID": 369,
+      "Site_Description_Cap": "THOMAS ST @ BRIDGEFOOT ST",
+      "Lat": 53.343249,
+      "Long": -6.281382
+    },
+    {
+      "_id": 313,
+      "SiteID": 370,
+      "Site_Description_Cap": "ST JOHNS RD WEST @ STEVENS LANE (LUAS)",
+      "Lat": 53.34625409,
+      "Long": -6.291749569
+    },
+    {
+      "_id": 314,
+      "SiteID": 371,
+      "Site_Description_Cap": "CARDIFFSBRIDGE RD @ SHOPPING CENTRE",
+      "Lat": 53.3847254,
+      "Long": -6.3127129
+    },
+    {
+      "_id": 315,
+      "SiteID": 372,
+      "Site_Description_Cap": "INCHICORE RD @ GRATTAN CRESCENT",
+      "Lat": 53.341616,
+      "Long": -6.3190213
+    },
+    {
+      "_id": 316,
+      "SiteID": 374,
+      "Site_Description_Cap": "TYRCONNELL RD @ RING TCE",
+      "Lat": 53.3357881,
+      "Long": -6.326521796
+    },
+    {
+      "_id": 317,
+      "SiteID": 377,
+      "Site_Description_Cap": "STATION RD @ RAILWAY BRIDGE",
+      "Lat": 53.3816229,
+      "Long": -6.1757115
+    },
+    {
+      "_id": 318,
+      "SiteID": 378,
+      "Site_Description_Cap": "MILLTOWN RD @ CHURCHTOWN RD",
+      "Lat": 53.30824153,
+      "Long": -6.254377542
+    },
+    {
+      "_id": 319,
+      "SiteID": 379,
+      "Site_Description_Cap": "DRIMNAGH RD @ ERRIGAL RD",
+      "Lat": 53.324865,
+      "Long": -6.3210868
+    },
+    {
+      "_id": 320,
+      "SiteID": 380,
+      "Site_Description_Cap": "TONLEGEE RD @ TONLEGEE LIME WOOD",
+      "Lat": 53.39079541,
+      "Long": -6.183380909
+    },
+    {
+      "_id": 321,
+      "SiteID": 381,
+      "Site_Description_Cap": "OSCAR TRAYNOR RD @ COOLOCK DRIVE",
+      "Lat": 53.3919511,
+      "Long": -6.2052757
+    },
+    {
+      "_id": 322,
+      "SiteID": 383,
+      "Site_Description_Cap": "MERRION RD @ SERPENTINE AV",
+      "Lat": 53.327855,
+      "Long": -6.226933
+    },
+    {
+      "_id": 323,
+      "SiteID": 384,
+      "Site_Description_Cap": "TONLEGEE RD @ MILLBROOK RD",
+      "Lat": 53.39113254,
+      "Long": -6.17868027
+    },
+    {
+      "_id": 324,
+      "SiteID": 386,
+      "Site_Description_Cap": "OSCAR TRAYNOR RD @ KILMORE RD",
+      "Lat": 53.3944814,
+      "Long": -6.2120287
+    },
+    {
+      "_id": 325,
+      "SiteID": 387,
+      "Site_Description_Cap": "MEATH ST @ THE COOMBE",
+      "Lat": 53.33987805,
+      "Long": -6.278073639
+    },
+    {
+      "_id": 326,
+      "SiteID": 388,
+      "Site_Description_Cap": "OSCAR TRAYNOR @ CLONSHAUGH INDUSTRIAL ESTATE",
+      "Lat": 53.3974292,
+      "Long": -6.2197528
+    },
+    {
+      "_id": 327,
+      "SiteID": 390,
+      "Site_Description_Cap": "CRUMLIN RD @ KILDARE RD",
+      "Lat": 53.32520224,
+      "Long": -6.317579402
+    },
+    {
+      "_id": 328,
+      "SiteID": 391,
+      "Site_Description_Cap": "MILLTOWN RD @ RAMLEH PARK",
+      "Lat": 53.31466534,
+      "Long": -6.24632856
+    },
+    {
+      "_id": 329,
+      "SiteID": 394,
+      "Site_Description_Cap": "RATHFARNHAM RD @ BUSHY PARK RD",
+      "Lat": 53.306987,
+      "Long": -6.283729
+    },
+    {
+      "_id": 330,
+      "SiteID": 395,
+      "Site_Description_Cap": "CRUMLIN RD @ COOLEY RD",
+      "Lat": 53.32600837,
+      "Long": -6.315931338
+    },
+    {
+      "_id": 331,
+      "SiteID": 396,
+      "Site_Description_Cap": "JAMES STREET @ ECHLIN ST",
+      "Lat": 53.343479,
+      "Long": -6.288372
+    },
+    {
+      "_id": 332,
+      "SiteID": 399,
+      "Site_Description_Cap": "JAMES ST @ WATLING ST",
+      "Lat": 53.343459,
+      "Long": -6.284836
+    },
+    {
+      "_id": 333,
+      "SiteID": 402,
+      "Site_Description_Cap": "ST STEPHENS GREEN @ GRAFTON ST. (LUAS)",
+      "Lat": 53.33990499,
+      "Long": -6.260595685
+    },
+    {
+      "_id": 334,
+      "SiteID": 403,
+      "Site_Description_Cap": "GARDINER ST @ ABBEY ST/BERESFORD PL & PED ADJACENT (LUAS)",
+      "Lat": 53.3493704,
+      "Long": -6.25402901
+    },
+    {
+      "_id": 335,
+      "SiteID": 404,
+      "Site_Description_Cap": "PARKGATE ST @ HEUSTON BRIDGE AND PED ADJACENT (LUAS)",
+      "Lat": 53.34775024,
+      "Long": -6.291860055
+    },
+    {
+      "_id": 336,
+      "SiteID": 405,
+      "Site_Description_Cap": "HARTS CORNER & PEDS @ SMURFITS AND VINCENTS SCHOOL",
+      "Lat": 53.367454,
+      "Long": -6.272099
+    },
+    {
+      "_id": 337,
+      "SiteID": 408,
+      "Site_Description_Cap": "CABRA RD @ QUARRY RD.",
+      "Lat": 53.36146888,
+      "Long": -6.290767193
+    },
+    {
+      "_id": 338,
+      "SiteID": 410,
+      "Site_Description_Cap": "NAAS RD @ CARRIGLEA RD (LUAS)",
+      "Lat": 53.32825418,
+      "Long": -6.336800411
+    },
+    {
+      "_id": 339,
+      "SiteID": 411,
+      "Site_Description_Cap": "MERRION RD @ MERRION VILLAGE",
+      "Lat": 53.31771506,
+      "Long": -6.20988357
+    },
+    {
+      "_id": 340,
+      "SiteID": 412,
+      "Site_Description_Cap": "BALLYFERMOT RD EAST OF ROUNDABOUT",
+      "Lat": 53.3422799,
+      "Long": -6.3461875
+    },
+    {
+      "_id": 341,
+      "SiteID": 416,
+      "Site_Description_Cap": "GARDINER PL @ TEMPLE ST",
+      "Lat": 53.3559038,
+      "Long": -6.261015
+    },
+    {
+      "_id": 342,
+      "SiteID": 418,
+      "Site_Description_Cap": "CAPEL ST @ ABBEY ST (LUAS)",
+      "Lat": 53.347297,
+      "Long": -6.268342
+    },
+    {
+      "_id": 343,
+      "SiteID": 419,
+      "Site_Description_Cap": "PARNELL ST / JERVIS ST / CHAPEL LANE",
+      "Lat": 53.3501487,
+      "Long": -6.2668778
+    },
+    {
+      "_id": 344,
+      "SiteID": 420,
+      "Site_Description_Cap": "VICTORIA QUAY @ FRANK SHERWIN BRIDGE AND PEDS AT STATION (LUAS)",
+      "Lat": 53.346964,
+      "Long": -6.291095
+    },
+    {
+      "_id": 345,
+      "SiteID": 421,
+      "Site_Description_Cap": "ST STEPHENS GREEN @ KILDARE STREET",
+      "Lat": 53.33886,
+      "Long": -6.256589
+    },
+    {
+      "_id": 346,
+      "SiteID": 422,
+      "Site_Description_Cap": "NAVAN RD @ RATOATH RD",
+      "Lat": 53.361587,
+      "Long": -6.298221
+    },
+    {
+      "_id": 347,
+      "SiteID": 423,
+      "Site_Description_Cap": "SCR @ BROOKFIELD RD",
+      "Lat": 53.33872604,
+      "Long": -6.29984438
+    },
+    {
+      "_id": 348,
+      "SiteID": 425,
+      "Site_Description_Cap": "KILMORE RD @ EAST OF ROUNDABOUT",
+      "Lat": 53.384196,
+      "Long": -6.215786
+    },
+    {
+      "_id": 349,
+      "SiteID": 428,
+      "Site_Description_Cap": "GRACE PARK RD @ ST JOSEPHS",
+      "Lat": 53.3700733,
+      "Long": -6.2481006
+    },
+    {
+      "_id": 350,
+      "SiteID": 429,
+      "Site_Description_Cap": "NCR @ CHARLEVILLE RD",
+      "Lat": 53.35890489,
+      "Long": -6.28162526
+    },
+    {
+      "_id": 351,
+      "SiteID": 430,
+      "Site_Description_Cap": "BALLYGALL RD EAST @ FITZMAURICE RD",
+      "Lat": 53.382539,
+      "Long": -6.276368
+    },
+    {
+      "_id": 352,
+      "SiteID": 431,
+      "Site_Description_Cap": "SKELLYS LANE @ MONTROSE AV",
+      "Lat": 53.3851968,
+      "Long": -6.2246867
+    },
+    {
+      "_id": 353,
+      "SiteID": 433,
+      "Site_Description_Cap": "MELLOWS RD @ COMMUNITY CENTRE",
+      "Lat": 53.39002,
+      "Long": -6.311419
+    },
+    {
+      "_id": 354,
+      "SiteID": 434,
+      "Site_Description_Cap": "STANNAWAY RD @ CASHEL RD",
+      "Lat": 53.318288,
+      "Long": -6.303181
+    },
+    {
+      "_id": 355,
+      "SiteID": 435,
+      "Site_Description_Cap": "FAUSSAGH RD @ ST EITHNE RD",
+      "Lat": 53.3645539,
+      "Long": -6.2860141
+    },
+    {
+      "_id": 356,
+      "SiteID": 437,
+      "Site_Description_Cap": "TERENURE RD NORTH @ EAGLE HILL AVE",
+      "Lat": 53.312752,
+      "Long": -6.2823998
+    },
+    {
+      "_id": 357,
+      "SiteID": 438,
+      "Site_Description_Cap": "MANOR ST @ MANOR PL",
+      "Lat": 53.352377,
+      "Long": -6.283848
+    },
+    {
+      "_id": 358,
+      "SiteID": 439,
+      "Site_Description_Cap": "TOWNSEND ST @ LOMBARD ST",
+      "Lat": 53.34544,
+      "Long": -6.24845
+    },
+    {
+      "_id": 359,
+      "SiteID": 441,
+      "Site_Description_Cap": "MERRION GATES",
+      "Lat": 53.3160294,
+      "Long": -6.2051674
+    },
+    {
+      "_id": 360,
+      "SiteID": 443,
+      "Site_Description_Cap": "CLONTARF RD @ EMBANKMENT RD & PED AT ST ANTHONYS CHURCH",
+      "Lat": 53.36316923,
+      "Long": -6.221922142
+    },
+    {
+      "_id": 361,
+      "SiteID": 445,
+      "Site_Description_Cap": "EAST WALL RD / ALFIE BYRNE RD",
+      "Lat": 53.35789497,
+      "Long": -6.234191937
+    },
+    {
+      "_id": 362,
+      "SiteID": 447,
+      "Site_Description_Cap": "NORTH RD @ PLUNKETT AV",
+      "Lat": 53.39853006,
+      "Long": -6.307075024
+    },
+    {
+      "_id": 363,
+      "SiteID": 448,
+      "Site_Description_Cap": "MOREHAMPTON RD @ BELMONT AV",
+      "Lat": 53.32276631,
+      "Long": -6.237924689
+    },
+    {
+      "_id": 364,
+      "SiteID": 451,
+      "Site_Description_Cap": "STRAND RD @ ROSLYN PK",
+      "Lat": 53.3332287,
+      "Long": -6.2114083
+    },
+    {
+      "_id": 365,
+      "SiteID": 452,
+      "Site_Description_Cap": "MERRION RD @ SHREWSBURY RD",
+      "Lat": 53.32427925,
+      "Long": -6.221443456
+    },
+    {
+      "_id": 366,
+      "SiteID": 453,
+      "Site_Description_Cap": "KYLEMORE RD @ REHAB CENTRE",
+      "Lat": 53.3357516,
+      "Long": -6.3469122
+    },
+    {
+      "_id": 367,
+      "SiteID": 454,
+      "Site_Description_Cap": "NASSAU ST @ KILDARE ST & MOLESWORTH ST",
+      "Lat": 53.34217525,
+      "Long": -6.254550113
+    },
+    {
+      "_id": 368,
+      "SiteID": 455,
+      "Site_Description_Cap": "NAVAN RD @ SKREEN RD",
+      "Lat": 53.363481,
+      "Long": -6.30392
+    },
+    {
+      "_id": 369,
+      "SiteID": 456,
+      "Site_Description_Cap": "MALAHIDE RD @ GREENCASTLE RD",
+      "Lat": 53.391514,
+      "Long": -6.194901
+    },
+    {
+      "_id": 370,
+      "SiteID": 457,
+      "Site_Description_Cap": "KILBARRACK RD @ KILBARRACK AV",
+      "Lat": 53.38699934,
+      "Long": -6.147565137
+    },
+    {
+      "_id": 371,
+      "SiteID": 458,
+      "Site_Description_Cap": "FINGLAS RD @ BALLYBOGGAN RD",
+      "Lat": 53.375806,
+      "Long": -6.286491
+    },
+    {
+      "_id": 372,
+      "SiteID": 459,
+      "Site_Description_Cap": "FINGLAS RD @ SLANEY RD",
+      "Lat": 53.3726239,
+      "Long": -6.2836164
+    },
+    {
+      "_id": 373,
+      "SiteID": 460,
+      "Site_Description_Cap": "RATHGAR AV @ GARVILLE AV",
+      "Lat": 53.31538089,
+      "Long": -6.276670985
+    },
+    {
+      "_id": 374,
+      "SiteID": 461,
+      "Site_Description_Cap": "MALAHIDE RD @ MOUNT TEMPLE",
+      "Lat": 53.36994819,
+      "Long": -6.2246933
+    },
+    {
+      "_id": 375,
+      "SiteID": 462,
+      "Site_Description_Cap": "GRAND CANAL ST @ CLANWILLIAM PL",
+      "Lat": 53.338799,
+      "Long": -6.2391914
+    },
+    {
+      "_id": 376,
+      "SiteID": 463,
+      "Site_Description_Cap": "TYRCONNELL RD @ TYRCONNELL PK",
+      "Lat": 53.3379265,
+      "Long": -6.3232042
+    },
+    {
+      "_id": 377,
+      "SiteID": 464,
+      "Site_Description_Cap": "KIMMAGE RD @ CORRIB RD",
+      "Lat": 53.314828,
+      "Long": -6.296024
+    },
+    {
+      "_id": 378,
+      "SiteID": 465,
+      "Site_Description_Cap": "MERRION SQ @ MOUNT ST UPR",
+      "Lat": 53.3382404,
+      "Long": -6.247718081
+    },
+    {
+      "_id": 379,
+      "SiteID": 467,
+      "Site_Description_Cap": "MALAHIDE RD @ DARNDALE RDB/BLUNDEN DR",
+      "Lat": 53.39686654,
+      "Long": -6.187125729
+    },
+    {
+      "_id": 380,
+      "SiteID": 468,
+      "Site_Description_Cap": "GRANGE RD @ NEWBROOK AV",
+      "Lat": 53.396115,
+      "Long": -6.162508
+    },
+    {
+      "_id": 381,
+      "SiteID": 470,
+      "Site_Description_Cap": "NAVAN RD @ BAGGOT RD/KINVARA PK",
+      "Lat": 53.368239,
+      "Long": -6.317839
+    },
+    {
+      "_id": 382,
+      "SiteID": 471,
+      "Site_Description_Cap": "WALKINSTOWN AV @ ROUNDABOUT",
+      "Lat": 53.3176756,
+      "Long": -6.3341123
+    },
+    {
+      "_id": 383,
+      "SiteID": 472,
+      "Site_Description_Cap": "BALLYFERMOT RD @ KENNELSFORT RD",
+      "Lat": 53.345606,
+      "Long": -6.379581
+    },
+    {
+      "_id": 384,
+      "SiteID": 473,
+      "Site_Description_Cap": "FORTFIELD RD @ WAINSFORT RD",
+      "Lat": 53.3101304,
+      "Long": -6.3029004
+    },
+    {
+      "_id": 385,
+      "SiteID": 476,
+      "Site_Description_Cap": "EAST WALL RD @ EAST RD",
+      "Lat": 53.35498292,
+      "Long": -6.229219555
+    },
+    {
+      "_id": 386,
+      "SiteID": 477,
+      "Site_Description_Cap": "WALKINSTOWN RD @ KILNAMANAGH RD",
+      "Lat": 53.32133995,
+      "Long": -6.330980875
+    },
+    {
+      "_id": 387,
+      "SiteID": 478,
+      "Site_Description_Cap": "SCR / RIALTO ST",
+      "Lat": 53.335948,
+      "Long": -6.297474
+    },
+    {
+      "_id": 388,
+      "SiteID": 479,
+      "Site_Description_Cap": "SANDFORD RD @ ANNA VILLA",
+      "Lat": 53.32340936,
+      "Long": -6.2500353
+    },
+    {
+      "_id": 389,
+      "SiteID": 480,
+      "Site_Description_Cap": "STRAND RD @ SANDYMOUNT TOWER",
+      "Lat": 53.3247998,
+      "Long": -6.2069724
+    },
+    {
+      "_id": 390,
+      "SiteID": 481,
+      "Site_Description_Cap": "KYLEMORE RD @ KYLEMORE AV",
+      "Lat": 53.3384948,
+      "Long": -6.3480303
+    },
+    {
+      "_id": 391,
+      "SiteID": 483,
+      "Site_Description_Cap": "GARDINER ST @ CHURCH",
+      "Lat": 53.357604,
+      "Long": -6.2600286
+    },
+    {
+      "_id": 392,
+      "SiteID": 484,
+      "Site_Description_Cap": "BERKELEY RD @ ST JOSEPHS CHURCH",
+      "Lat": 53.3578859,
+      "Long": -6.268684
+    },
+    {
+      "_id": 393,
+      "SiteID": 485,
+      "Site_Description_Cap": "FINGLAS RD / SHOPPING CENTRE / GLENHILL EST",
+      "Lat": 53.38408797,
+      "Long": -6.294061344
+    },
+    {
+      "_id": 394,
+      "SiteID": 486,
+      "Site_Description_Cap": "JAMES ST @ HOSPITAL (LUAS)",
+      "Lat": 53.34249634,
+      "Long": -6.293685634
+    },
+    {
+      "_id": 395,
+      "SiteID": 487,
+      "Site_Description_Cap": "NAAS RD @ LA TOUCHE RD (MUIRFIELD RD) (LUAS)",
+      "Lat": 53.32927237,
+      "Long": -6.334426033
+    },
+    {
+      "_id": 396,
+      "SiteID": 488,
+      "Site_Description_Cap": "BALLYFERMOT RD @ BALLYFERMOT PDE",
+      "Lat": 53.3421615,
+      "Long": -6.351317
+    },
+    {
+      "_id": 397,
+      "SiteID": 489,
+      "Site_Description_Cap": "PRUSSIA ST @ SHOPPING CENTRE",
+      "Lat": 53.35599952,
+      "Long": -6.287862085
+    },
+    {
+      "_id": 398,
+      "SiteID": 490,
+      "Site_Description_Cap": "TERENURE RD EAST @ CHURCH",
+      "Lat": 53.3103493,
+      "Long": -6.2817733
+    },
+    {
+      "_id": 399,
+      "SiteID": 492,
+      "Site_Description_Cap": "HOWTH RD / ST LAWRENCE RD / ASHBROOK",
+      "Lat": 53.36811007,
+      "Long": -6.21206845
+    },
+    {
+      "_id": 400,
+      "SiteID": 493,
+      "Site_Description_Cap": "BEAUMONT RD @ HOSPITAL",
+      "Lat": 53.38566688,
+      "Long": -6.228942275
+    },
+    {
+      "_id": 401,
+      "SiteID": 494,
+      "Site_Description_Cap": "HOWTH RD @ JAMES LARKIN RD",
+      "Lat": 53.38236051,
+      "Long": -6.149561048
+    },
+    {
+      "_id": 402,
+      "SiteID": 495,
+      "Site_Description_Cap": "PRIORSWOOD RD @ FERRYCARRIG PARK",
+      "Lat": 53.400058,
+      "Long": -6.19837
+    },
+    {
+      "_id": 403,
+      "SiteID": 496,
+      "Site_Description_Cap": "MOREHAMPTON RD @ BLOOMFIELD AV",
+      "Lat": 53.3266191,
+      "Long": -6.2431453
+    },
+    {
+      "_id": 404,
+      "SiteID": 498,
+      "Site_Description_Cap": "KYLEMORE RD @ BY-PASS",
+      "Lat": 53.34953624,
+      "Long": -6.353243887
+    },
+    {
+      "_id": 405,
+      "SiteID": 500,
+      "Site_Description_Cap": "GRIFFITH AV @ PHILIPSBURGH AV",
+      "Lat": 53.371902,
+      "Long": -6.2372442
+    },
+    {
+      "_id": 406,
+      "SiteID": 501,
+      "Site_Description_Cap": "CHAPELIZOD BYPASS @ CONCOLBERT RD",
+      "Lat": 53.34272328,
+      "Long": -6.32162641
+    },
+    {
+      "_id": 407,
+      "SiteID": 502,
+      "Site_Description_Cap": "SCR @ BULFIN RD",
+      "Lat": 53.33942554,
+      "Long": -6.307734717
+    },
+    {
+      "_id": 408,
+      "SiteID": 503,
+      "Site_Description_Cap": "SCR @ INCHICORE RD / OLD KILMAINHAM LANE",
+      "Lat": 53.3418287,
+      "Long": -6.3075832
+    },
+    {
+      "_id": 409,
+      "SiteID": 504,
+      "Site_Description_Cap": "ORWELL RD @ ZION RD",
+      "Lat": 53.30995462,
+      "Long": -6.273602509
+    },
+    {
+      "_id": 410,
+      "SiteID": 505,
+      "Site_Description_Cap": "SKELLYS LANE WEST OF ROUNDABOUT",
+      "Lat": 53.3843225,
+      "Long": -6.2180561
+    },
+    {
+      "_id": 411,
+      "SiteID": 506,
+      "Site_Description_Cap": "CLONTARF RD @ VERNON AVE",
+      "Lat": 53.3590888,
+      "Long": -6.1958659
+    },
+    {
+      "_id": 412,
+      "SiteID": 507,
+      "Site_Description_Cap": "FAUSSAGH RD @ DOWTH AV",
+      "Lat": 53.36373523,
+      "Long": -6.282404065
+    },
+    {
+      "_id": 413,
+      "SiteID": 508,
+      "Site_Description_Cap": "SWORDS RD @ OMNI PARK SHOPPING CENTRE",
+      "Lat": 53.392833,
+      "Long": -6.245973
+    },
+    {
+      "_id": 414,
+      "SiteID": 509,
+      "Site_Description_Cap": "BREMEN GROVE NTH BOUND @ SEAN MOORE RD",
+      "Lat": 53.33925435,
+      "Long": -6.216507913
+    },
+    {
+      "_id": 415,
+      "SiteID": 510,
+      "Site_Description_Cap": "FINGLAS RD @ WELLMOUNT RD",
+      "Lat": 53.387314,
+      "Long": -6.298282
+    },
+    {
+      "_id": 416,
+      "SiteID": 511,
+      "Site_Description_Cap": "SEAFIELD RD @ VERNON AV",
+      "Lat": 53.36393054,
+      "Long": -6.195366383
+    },
+    {
+      "_id": 417,
+      "SiteID": 513,
+      "Site_Description_Cap": "AMIENS ST @ STORE ST (LUAS)",
+      "Lat": 53.34986394,
+      "Long": -6.250992591
+    },
+    {
+      "_id": 418,
+      "SiteID": 514,
+      "Site_Description_Cap": "KIMMAGE RD LWR @ MOUNT ARGUS VIEW",
+      "Lat": 53.31987443,
+      "Long": -6.288050115
+    },
+    {
+      "_id": 419,
+      "SiteID": 515,
+      "Site_Description_Cap": "NAVAN RD / KEMPTON EST",
+      "Lat": 53.371264,
+      "Long": -6.329215
+    },
+    {
+      "_id": 420,
+      "SiteID": 516,
+      "Site_Description_Cap": "COLLINS AV @ SHANOWEN AVE",
+      "Lat": 53.3876804,
+      "Long": -6.2580681
+    },
+    {
+      "_id": 421,
+      "SiteID": 517,
+      "Site_Description_Cap": "COLLINS AV @ COLLINSWOOD",
+      "Lat": 53.3803857,
+      "Long": -6.236131
+    },
+    {
+      "_id": 422,
+      "SiteID": 518,
+      "Site_Description_Cap": "BARRYSCOURT RD @ SHOPPING CENTRE",
+      "Lat": 53.396099,
+      "Long": -6.2109265
+    },
+    {
+      "_id": 423,
+      "SiteID": 519,
+      "Site_Description_Cap": "OLD FINGLAS RD @ BALLYGALL RD",
+      "Lat": 53.37761318,
+      "Long": -6.276753364
+    },
+    {
+      "_id": 424,
+      "SiteID": 520,
+      "Site_Description_Cap": "ST AGNES RD @ CHURCH",
+      "Lat": 53.31928,
+      "Long": -6.315243
+    },
+    {
+      "_id": 425,
+      "SiteID": 521,
+      "Site_Description_Cap": "GRACE PARK RD. @ GRACE PARK HEIGHTS",
+      "Lat": 53.37936936,
+      "Long": -6.240419447
+    },
+    {
+      "_id": 426,
+      "SiteID": 522,
+      "Site_Description_Cap": "HARCOURT ST @ HATCH ST (LUAS)",
+      "Lat": 53.33394413,
+      "Long": -6.262979381
+    },
+    {
+      "_id": 427,
+      "SiteID": 524,
+      "Site_Description_Cap": "TONLEGEE RD / RATHVALE DRIVE",
+      "Lat": 53.39038876,
+      "Long": -6.189186275
+    },
+    {
+      "_id": 428,
+      "SiteID": 526,
+      "Site_Description_Cap": "EMMET RD / BULFIN RD",
+      "Lat": 53.3404516,
+      "Long": -6.3155784
+    },
+    {
+      "_id": 429,
+      "SiteID": 527,
+      "Site_Description_Cap": "COLLINS AVE @ BELTON PK",
+      "Lat": 53.3773824,
+      "Long": -6.2246943
+    },
+    {
+      "_id": 430,
+      "SiteID": 528,
+      "Site_Description_Cap": "FINGLAS RD @ TOLKA VALLEY RD",
+      "Lat": 53.379786,
+      "Long": -6.28828
+    },
+    {
+      "_id": 431,
+      "SiteID": 530,
+      "Site_Description_Cap": "SUNDRIVE RD @ STANAWAY RD",
+      "Lat": 53.32240985,
+      "Long": -6.294456571
+    },
+    {
+      "_id": 432,
+      "SiteID": 531,
+      "Site_Description_Cap": "HOWTH RD @ CASTLE AVE",
+      "Lat": 53.37142931,
+      "Long": -6.202690965
+    },
+    {
+      "_id": 433,
+      "SiteID": 532,
+      "Site_Description_Cap": "OSCAR TRAYNOR RD @ WOODLAWN",
+      "Lat": 53.3976418,
+      "Long": -6.2295637
+    },
+    {
+      "_id": 434,
+      "SiteID": 533,
+      "Site_Description_Cap": "NAVAN RD @ HAMPTON GREEN",
+      "Lat": 53.362704,
+      "Long": -6.301878
+    },
+    {
+      "_id": 435,
+      "SiteID": 536,
+      "Site_Description_Cap": "STRAND RD @ GILFORD RD",
+      "Lat": 53.32807166,
+      "Long": -6.208759309
+    },
+    {
+      "_id": 436,
+      "SiteID": 540,
+      "Site_Description_Cap": "OSCAR TRAYNOR RD / DUNDANIEL RD",
+      "Lat": 53.39784705,
+      "Long": -6.224204176
+    },
+    {
+      "_id": 437,
+      "SiteID": 541,
+      "Site_Description_Cap": "NEPHIN RD @ ST DECLAN'S SCHOOL",
+      "Lat": 53.36665212,
+      "Long": -6.304971723
+    },
+    {
+      "_id": 438,
+      "SiteID": 542,
+      "Site_Description_Cap": "SHANTALLA RD @ SHANTALLA AVE",
+      "Lat": 53.387839,
+      "Long": -6.238206
+    },
+    {
+      "_id": 439,
+      "SiteID": 543,
+      "Site_Description_Cap": "KILMORE RD @ ARDMORE DRIVE",
+      "Lat": 53.38829513,
+      "Long": -6.214774617
+    },
+    {
+      "_id": 440,
+      "SiteID": 544,
+      "Site_Description_Cap": "CHAPELIZOD HILL RD / KYLEMORE RD",
+      "Lat": 53.3459452,
+      "Long": -6.3513999
+    },
+    {
+      "_id": 441,
+      "SiteID": 545,
+      "Site_Description_Cap": "STATION RD / SPRINGDALE RD",
+      "Lat": 53.3828948,
+      "Long": -6.1761677
+    },
+    {
+      "_id": 442,
+      "SiteID": 546,
+      "Site_Description_Cap": "HOWTH RD / COLLINS AVE EAST",
+      "Lat": 53.3709272,
+      "Long": -6.206791
+    },
+    {
+      "_id": 443,
+      "SiteID": 547,
+      "Site_Description_Cap": "FORTFIELD RD @ GREENLEA RD",
+      "Lat": 53.3067128,
+      "Long": -6.301091
+    },
+    {
+      "_id": 444,
+      "SiteID": 548,
+      "Site_Description_Cap": "CLAREVILLE RD @ SCHOOL",
+      "Lat": 53.317534,
+      "Long": -6.285995
+    },
+    {
+      "_id": 445,
+      "SiteID": 549,
+      "Site_Description_Cap": "KILMORE RD @ KILBARRON RD",
+      "Lat": 53.39185354,
+      "Long": -6.214926536
+    },
+    {
+      "_id": 446,
+      "SiteID": 550,
+      "Site_Description_Cap": "WARRINGTON PL @ MOUNT ST UP",
+      "Lat": 53.33639481,
+      "Long": -6.24257178
+    },
+    {
+      "_id": 447,
+      "SiteID": 551,
+      "Site_Description_Cap": "BALLYFERMOT RD @ COLEPARK ROAD",
+      "Lat": 53.3423246,
+      "Long": -6.3542352
+    },
+    {
+      "_id": 448,
+      "SiteID": 552,
+      "Site_Description_Cap": "BALLYFERMOT RD @ CHERRY ORCHARD HOSPITAL",
+      "Lat": 53.344392,
+      "Long": -6.376485
+    },
+    {
+      "_id": 449,
+      "SiteID": 553,
+      "Site_Description_Cap": "BALLYFERMOT RD @ O-HOGAN RD",
+      "Lat": 53.34239,
+      "Long": -6.338905
+    },
+    {
+      "_id": 450,
+      "SiteID": 554,
+      "Site_Description_Cap": "BALLYFERMOT RD @ BLACKDITCH DR",
+      "Lat": 53.3431763,
+      "Long": -6.3650815
+    },
+    {
+      "_id": 451,
+      "SiteID": 555,
+      "Site_Description_Cap": "BALLYMUN RD @ DCU",
+      "Lat": 53.3843805,
+      "Long": -6.2652356
+    },
+    {
+      "_id": 452,
+      "SiteID": 556,
+      "Site_Description_Cap": "FINGLAS RD @ GLASNEVIN CEMETERY",
+      "Lat": 53.3697792,
+      "Long": -6.277816711
+    },
+    {
+      "_id": 453,
+      "SiteID": 557,
+      "Site_Description_Cap": "BALLYMUN RD @ COMPREHENSIVE SCHOOL",
+      "Lat": 53.393176,
+      "Long": -6.263567
+    },
+    {
+      "_id": 454,
+      "SiteID": 558,
+      "Site_Description_Cap": "WHITWORTH RD @ CLAUDE RD",
+      "Lat": 53.363385,
+      "Long": -6.265871
+    },
+    {
+      "_id": 455,
+      "SiteID": 559,
+      "Site_Description_Cap": "CUSTOM HOUSE QY @ COMMON ST",
+      "Lat": 53.34793052,
+      "Long": -6.246103994
+    },
+    {
+      "_id": 456,
+      "SiteID": 560,
+      "Site_Description_Cap": "HOMEFARM RD @ FERGUSON RD",
+      "Lat": 53.374524,
+      "Long": -6.256956
+    },
+    {
+      "_id": 457,
+      "SiteID": 561,
+      "Site_Description_Cap": "HOWTH RD @ SUPERVALUE",
+      "Lat": 53.38010538,
+      "Long": -6.177531807
+    },
+    {
+      "_id": 458,
+      "SiteID": 562,
+      "Site_Description_Cap": "BOTANIC AVE @ MANNIX RD",
+      "Lat": 53.368628,
+      "Long": -6.260838
+    },
+    {
+      "_id": 459,
+      "SiteID": 563,
+      "Site_Description_Cap": "BOTANIC AVE @ BOTANIC PARK",
+      "Lat": 53.370281,
+      "Long": -6.263775
+    },
+    {
+      "_id": 460,
+      "SiteID": 564,
+      "Site_Description_Cap": "EGLINTON RD @ EGLINTON SQ",
+      "Lat": 53.319071,
+      "Long": -6.234046
+    },
+    {
+      "_id": 461,
+      "SiteID": 565,
+      "Site_Description_Cap": "IONA RD @ CHURCH",
+      "Lat": 53.365964,
+      "Long": -6.264514
+    },
+    {
+      "_id": 462,
+      "SiteID": 566,
+      "Site_Description_Cap": "BALLYMUN RD @ SANTRY AVE",
+      "Lat": 53.40150126,
+      "Long": -6.264615655
+    },
+    {
+      "_id": 463,
+      "SiteID": 568,
+      "Site_Description_Cap": "FINGLAS VILLAGE",
+      "Lat": 53.38881722,
+      "Long": -6.298634242
+    },
+    {
+      "_id": 464,
+      "SiteID": 569,
+      "Site_Description_Cap": "GRANGE RD / HOWTH VIEW PK",
+      "Lat": 53.394033,
+      "Long": -6.166281
+    },
+    {
+      "_id": 465,
+      "SiteID": 570,
+      "Site_Description_Cap": "OLD FINGLAS RD @ VIOLET HILL RD",
+      "Lat": 53.37808875,
+      "Long": -6.28258769
+    },
+    {
+      "_id": 466,
+      "SiteID": 571,
+      "Site_Description_Cap": "N32 @ BELCAMP COLLEGE",
+      "Lat": 53.4046087,
+      "Long": -6.1883813
+    },
+    {
+      "_id": 467,
+      "SiteID": 573,
+      "Site_Description_Cap": "NAAS RD @ THE GAP (LUAS)",
+      "Lat": 53.33266689,
+      "Long": -6.329490687
+    },
+    {
+      "_id": 468,
+      "SiteID": 574,
+      "Site_Description_Cap": "CLOGHER RD @ PEARSE COLLEGE",
+      "Lat": 53.326239,
+      "Long": -6.294569
+    },
+    {
+      "_id": 469,
+      "SiteID": 575,
+      "Site_Description_Cap": "RAHENY RD @ GRANGE PARK RD",
+      "Lat": 53.38694732,
+      "Long": -6.17362034
+    },
+    {
+      "_id": 470,
+      "SiteID": 576,
+      "Site_Description_Cap": "PALMERSTON RD @ COWPER RD",
+      "Lat": 53.316102,
+      "Long": -6.258838
+    },
+    {
+      "_id": 471,
+      "SiteID": 577,
+      "Site_Description_Cap": "DUNVILLE AVE @ SHUTTLE (LUAS)",
+      "Lat": 53.32107133,
+      "Long": -6.254677774
+    },
+    {
+      "_id": 472,
+      "SiteID": 578,
+      "Site_Description_Cap": "MELLOWS RD @ SWIMMING POOL",
+      "Lat": 53.3898106,
+      "Long": -6.3056651
+    },
+    {
+      "_id": 473,
+      "SiteID": 579,
+      "Site_Description_Cap": "TOLKA VALLEY RD @ ST HELENA'S RD",
+      "Lat": 53.37877,
+      "Long": -6.296612
+    },
+    {
+      "_id": 474,
+      "SiteID": 580,
+      "Site_Description_Cap": "TOLKA VALLEY RD @ CARDIFFISBRIDGE RD",
+      "Lat": 53.379361,
+      "Long": -6.310933
+    },
+    {
+      "_id": 475,
+      "SiteID": 582,
+      "Site_Description_Cap": "BRIDGE ST @ COOKE ST",
+      "Lat": 53.34419545,
+      "Long": -6.276349215
+    },
+    {
+      "_id": 476,
+      "SiteID": 583,
+      "Site_Description_Cap": "BEAVER ROW @ BEECH HILL AV",
+      "Lat": 53.318081,
+      "Long": -6.233528
+    },
+    {
+      "_id": 477,
+      "SiteID": 584,
+      "Site_Description_Cap": "EAST WALL RD @ SHERRIF ST",
+      "Lat": 53.34966933,
+      "Long": -6.22692356
+    },
+    {
+      "_id": 478,
+      "SiteID": 585,
+      "Site_Description_Cap": "GRANGE RD @ DONAGHMEDE SHOPPING CENTRE",
+      "Lat": 53.395425,
+      "Long": -6.163114
+    },
+    {
+      "_id": 479,
+      "SiteID": 586,
+      "Site_Description_Cap": "MALAHIDE RD @ ELM MOUNT RD",
+      "Lat": 53.3773202,
+      "Long": -6.2155529
+    },
+    {
+      "_id": 480,
+      "SiteID": 587,
+      "Site_Description_Cap": "WALKINSTOWN R'ABOUT @ KESTRAL",
+      "Lat": 53.317764,
+      "Long": -6.332609
+    },
+    {
+      "_id": 481,
+      "SiteID": 588,
+      "Site_Description_Cap": "SCR @ HERBERTON RD/UPPERCROSS RD",
+      "Lat": 53.3359902,
+      "Long": -6.2988976
+    },
+    {
+      "_id": 482,
+      "SiteID": 589,
+      "Site_Description_Cap": "PEMBROKE ST @ IRISHTOWN RD",
+      "Lat": 53.340156,
+      "Long": -6.223261
+    },
+    {
+      "_id": 483,
+      "SiteID": 590,
+      "Site_Description_Cap": "GRANGE RD @ COMMUNITY SCHOOL",
+      "Lat": 53.399648,
+      "Long": -6.159334
+    },
+    {
+      "_id": 484,
+      "SiteID": 591,
+      "Site_Description_Cap": "KILMORE RD @ MARYFIELD CRESCENT",
+      "Lat": 53.3826664,
+      "Long": -6.2129617
+    },
+    {
+      "_id": 485,
+      "SiteID": 592,
+      "Site_Description_Cap": "BALCURRIS RD /SILLOGUE PED",
+      "Lat": 53.396963,
+      "Long": -6.267111
+    },
+    {
+      "_id": 486,
+      "SiteID": 593,
+      "Site_Description_Cap": "ALFIE BYRNE RD @ DART STATION",
+      "Lat": 53.36109691,
+      "Long": -6.227780202
+    },
+    {
+      "_id": 487,
+      "SiteID": 594,
+      "Site_Description_Cap": "MALAHIDE RD @ BRIAN RD",
+      "Lat": 53.3680694,
+      "Long": -6.2274334
+    },
+    {
+      "_id": 488,
+      "SiteID": 595,
+      "Site_Description_Cap": "BLACKHORSE AVE @ GLENBEIGH RD",
+      "Lat": 53.356639,
+      "Long": -6.29659
+    },
+    {
+      "_id": 489,
+      "SiteID": 596,
+      "Site_Description_Cap": "GRIFFITH AVE @ BERESFORD ESTATE",
+      "Lat": 53.3745192,
+      "Long": -6.2458056
+    },
+    {
+      "_id": 490,
+      "SiteID": 597,
+      "Site_Description_Cap": "NAVAN RD @ ASHTOWN GR",
+      "Lat": 53.369758,
+      "Long": -6.32459
+    },
+    {
+      "_id": 491,
+      "SiteID": 598,
+      "Site_Description_Cap": "STRAND RD @ MARINE DR",
+      "Lat": 53.3346469,
+      "Long": -6.2142741
+    },
+    {
+      "_id": 492,
+      "SiteID": 599,
+      "Site_Description_Cap": "TERENURE PL @ TEMPLEOGUE RD",
+      "Lat": 53.3094976,
+      "Long": -6.2847642
+    },
+    {
+      "_id": 493,
+      "SiteID": 600,
+      "Site_Description_Cap": "EAST WALL RD @ DUBLIN PORT",
+      "Lat": 53.3524713,
+      "Long": -6.224957739
+    },
+    {
+      "_id": 494,
+      "SiteID": 601,
+      "Site_Description_Cap": "NAVAN RD @ ASHTOWN R'ABOUT",
+      "Lat": 53.3717,
+      "Long": -6.332251
+    },
+    {
+      "_id": 495,
+      "SiteID": 602,
+      "Site_Description_Cap": "GLASNEVIN AVE @ LANEWAY",
+      "Lat": 53.390134,
+      "Long": -6.2745
+    },
+    {
+      "_id": 496,
+      "SiteID": 603,
+      "Site_Description_Cap": "MALAHIDE RD @ ARDLEA RD (NORTH-SOUTH)",
+      "Lat": 53.38294666,
+      "Long": -6.20465646
+    },
+    {
+      "_id": 497,
+      "SiteID": 604,
+      "Site_Description_Cap": "MALAHIDE RD @ ARDLEA RD (EAST-WEST)",
+      "Lat": 53.3826216,
+      "Long": -6.2062264
+    },
+    {
+      "_id": 498,
+      "SiteID": 605,
+      "Site_Description_Cap": "SWORDS RD @ IVERAGH RD",
+      "Lat": 53.3811174,
+      "Long": -6.2454129
+    },
+    {
+      "_id": 499,
+      "SiteID": 606,
+      "Site_Description_Cap": "CRUMLIN RD @ ARDAGH RD",
+      "Lat": 53.32887825,
+      "Long": -6.303362208
+    },
+    {
+      "_id": 500,
+      "SiteID": 607,
+      "Site_Description_Cap": "BLACKHORSE AVE @ TURNSTYLE PUB",
+      "Lat": 53.364969,
+      "Long": -6.319266
+    },
+    {
+      "_id": 501,
+      "SiteID": 608,
+      "Site_Description_Cap": "MALAHIDE RD @ ST BRENDANS CHURCH",
+      "Lat": 53.38808855,
+      "Long": -6.199225223
+    },
+    {
+      "_id": 502,
+      "SiteID": 610,
+      "Site_Description_Cap": "MOREHAMPTON RD @ WELLINGTON PL",
+      "Lat": 53.32764353,
+      "Long": -6.244392851
+    },
+    {
+      "_id": 503,
+      "SiteID": 611,
+      "Site_Description_Cap": "OSCAR TRAYNOR RD @ CLONSHAUGH RD",
+      "Lat": 53.3962867,
+      "Long": -6.2169049
+    },
+    {
+      "_id": 504,
+      "SiteID": 612,
+      "Site_Description_Cap": "ABBEY STREET MIDDLE @ LIFFEY ST (LUAS)",
+      "Lat": 53.34793766,
+      "Long": -6.263643766
+    },
+    {
+      "_id": 505,
+      "SiteID": 613,
+      "Site_Description_Cap": "LEESON ST @ DARTMOUTH RD",
+      "Lat": 53.3306178,
+      "Long": -6.2518993
+    },
+    {
+      "_id": 506,
+      "SiteID": 614,
+      "Site_Description_Cap": "SUSSEX RD @ BURLINGTON RD",
+      "Lat": 53.32930203,
+      "Long": -6.248420171
+    },
+    {
+      "_id": 507,
+      "SiteID": 615,
+      "Site_Description_Cap": "DONNYBROOK RD @ EGLINTON RD",
+      "Lat": 53.319603,
+      "Long": -6.232702
+    },
+    {
+      "_id": 508,
+      "SiteID": 616,
+      "Site_Description_Cap": "KILBARRON RD @ TRIM RD",
+      "Lat": 53.3930897,
+      "Long": -6.2213413
+    },
+    {
+      "_id": 509,
+      "SiteID": 617,
+      "Site_Description_Cap": "TONLEGEE RD / MOATFIELD RD",
+      "Lat": 53.38990084,
+      "Long": -6.193174381
+    },
+    {
+      "_id": 510,
+      "SiteID": 618,
+      "Site_Description_Cap": "RANELAGH @ SALLYMOUNT AVE",
+      "Lat": 53.3241866,
+      "Long": -6.2523517
+    },
+    {
+      "_id": 511,
+      "SiteID": 619,
+      "Site_Description_Cap": "ERRIGAL RD @ BRANDON RD",
+      "Lat": 53.32638273,
+      "Long": -6.32219781
+    },
+    {
+      "_id": 512,
+      "SiteID": 620,
+      "Site_Description_Cap": "WELLINGTON RD @ CLYDE RD",
+      "Lat": 53.328099,
+      "Long": -6.241527
+    },
+    {
+      "_id": 513,
+      "SiteID": 622,
+      "Site_Description_Cap": "AUNGIER ST @ LONGFORD ST",
+      "Lat": 53.340691,
+      "Long": -6.265586
+    },
+    {
+      "_id": 514,
+      "SiteID": 623,
+      "Site_Description_Cap": "RATHGAR RD / GROSVENOR RD @ CHARLEVILLE RD",
+      "Lat": 53.321366,
+      "Long": -6.267498
+    },
+    {
+      "_id": 515,
+      "SiteID": 624,
+      "Site_Description_Cap": "GRIFFITH AV @ WALNUT RISE (COURTLANDS)",
+      "Lat": 53.3774714,
+      "Long": -6.2580005
+    },
+    {
+      "_id": 516,
+      "SiteID": 625,
+      "Site_Description_Cap": "HALFPENNY BRIDGE",
+      "Lat": 53.34566978,
+      "Long": -6.26503475
+    },
+    {
+      "_id": 517,
+      "SiteID": 626,
+      "Site_Description_Cap": "KILBARRACK RD @ THORNVILLE RD",
+      "Lat": 53.38913522,
+      "Long": -6.152513016
+    },
+    {
+      "_id": 518,
+      "SiteID": 627,
+      "Site_Description_Cap": "CASTLE AV @ SEAFIELD RD",
+      "Lat": 53.3652453,
+      "Long": -6.204829
+    },
+    {
+      "_id": 519,
+      "SiteID": 628,
+      "Site_Description_Cap": "PRUSSIA ST @ AUGHRIM ST",
+      "Lat": 53.35331181,
+      "Long": -6.285299255
+    },
+    {
+      "_id": 520,
+      "SiteID": 629,
+      "Site_Description_Cap": "CRUMLIN RD @ RAFTERS RD",
+      "Lat": 53.32674015,
+      "Long": -6.313319206
+    },
+    {
+      "_id": 521,
+      "SiteID": 630,
+      "Site_Description_Cap": "MOUNT PROSPECT AVE @ CLONTARF RD",
+      "Lat": 53.36684735,
+      "Long": -6.17264609
+    },
+    {
+      "_id": 522,
+      "SiteID": 631,
+      "Site_Description_Cap": "VERNON AVE @ MOUNT PROSPECT AVE",
+      "Lat": 53.36716065,
+      "Long": -6.194883585
+    },
+    {
+      "_id": 523,
+      "SiteID": 632,
+      "Site_Description_Cap": "VERNON AVE @ SYBIL HILL RD",
+      "Lat": 53.3692689,
+      "Long": -6.1944541
+    },
+    {
+      "_id": 524,
+      "SiteID": 633,
+      "Site_Description_Cap": "VERNON AVE @ KINCORA RD",
+      "Lat": 53.362396,
+      "Long": -6.19604
+    },
+    {
+      "_id": 525,
+      "SiteID": 634,
+      "Site_Description_Cap": "GRANGE RD @ GRANGE ABBEY",
+      "Lat": 53.39845917,
+      "Long": -6.16003412
+    },
+    {
+      "_id": 526,
+      "SiteID": 635,
+      "Site_Description_Cap": "GRANGE RD @ DONAGHMEDE PK",
+      "Lat": 53.39824711,
+      "Long": -6.156052823
+    },
+    {
+      "_id": 527,
+      "SiteID": 636,
+      "Site_Description_Cap": "STRAND RD @ ST ALBANS PARK",
+      "Lat": 53.3202912,
+      "Long": -6.2059826
+    },
+    {
+      "_id": 528,
+      "SiteID": 637,
+      "Site_Description_Cap": "KEEPER RD @ HERBERTON RD",
+      "Lat": 53.33122057,
+      "Long": -6.297950149
+    },
+    {
+      "_id": 529,
+      "SiteID": 638,
+      "Site_Description_Cap": "STANNAWAY RD @ BANGOR RD",
+      "Lat": 53.320579,
+      "Long": -6.2983354
+    },
+    {
+      "_id": 530,
+      "SiteID": 639,
+      "Site_Description_Cap": "TONLEGEE RD @ SPRINGDALE ROAD",
+      "Lat": 53.3902525,
+      "Long": -6.1915019
+    },
+    {
+      "_id": 531,
+      "SiteID": 640,
+      "Site_Description_Cap": "COLLINS AVE @ DCU",
+      "Lat": 53.3862135,
+      "Long": -6.2549866
+    },
+    {
+      "_id": 532,
+      "SiteID": 641,
+      "Site_Description_Cap": "TEMPLEOGUE RD @ TERENURE COLLEGE",
+      "Lat": 53.30386386,
+      "Long": -6.293915394
+    },
+    {
+      "_id": 533,
+      "SiteID": 642,
+      "Site_Description_Cap": "TEMPLEOGUE RD @ BUSGATE",
+      "Lat": 53.30570543,
+      "Long": -6.290911843
+    },
+    {
+      "_id": 534,
+      "SiteID": 647,
+      "Site_Description_Cap": "NCR @ O'CONNELLS SCHOOL",
+      "Lat": 53.3575631,
+      "Long": -6.251277
+    },
+    {
+      "_id": 535,
+      "SiteID": 648,
+      "Site_Description_Cap": "SHELBOURNE RD / CRAMPTON AVE",
+      "Lat": 53.33213808,
+      "Long": -6.231785119
+    },
+    {
+      "_id": 536,
+      "SiteID": 649,
+      "Site_Description_Cap": "SKELLYS LANE / WHITETHORN RISE",
+      "Lat": 53.3843923,
+      "Long": -6.2210689
+    },
+    {
+      "_id": 537,
+      "SiteID": 650,
+      "Site_Description_Cap": "MILLTOWN RD @ ST ANNES",
+      "Lat": 53.313149,
+      "Long": -6.2470577
+    },
+    {
+      "_id": 538,
+      "SiteID": 651,
+      "Site_Description_Cap": "SARSFIELD RD @ LANDON RD",
+      "Lat": 53.342196,
+      "Long": -6.32894
+    },
+    {
+      "_id": 539,
+      "SiteID": 652,
+      "Site_Description_Cap": "BALLYGALL RD EAST @ CHURCH",
+      "Lat": 53.383702,
+      "Long": -6.2765
+    },
+    {
+      "_id": 540,
+      "SiteID": 653,
+      "Site_Description_Cap": "NICHOLAS ST @ BULL ALLEY ST",
+      "Lat": 53.34059504,
+      "Long": -6.27239547
+    },
+    {
+      "_id": 541,
+      "SiteID": 654,
+      "Site_Description_Cap": "SARSFIELD RD @ CONCOLBERT RD (RAILWAY BRIDGE)",
+      "Lat": 53.342091,
+      "Long": -6.325348
+    },
+    {
+      "_id": 542,
+      "SiteID": 655,
+      "Site_Description_Cap": "CLONTARF RD / SEAVIEW AVE NTH",
+      "Lat": 53.36130857,
+      "Long": -6.214753217
+    },
+    {
+      "_id": 543,
+      "SiteID": 656,
+      "Site_Description_Cap": "COLLINS AVE / CELTIC PK RD",
+      "Lat": 53.3785341,
+      "Long": -6.2300358
+    },
+    {
+      "_id": 544,
+      "SiteID": 658,
+      "Site_Description_Cap": "RINGSEND @ BARROW ST",
+      "Lat": 53.3420237,
+      "Long": -6.2365483
+    },
+    {
+      "_id": 545,
+      "SiteID": 659,
+      "Site_Description_Cap": "GRACE PARK RD / SION HILL RD",
+      "Lat": 53.37593724,
+      "Long": -6.242346615
+    },
+    {
+      "_id": 546,
+      "SiteID": 660,
+      "Site_Description_Cap": "NORTH WALL QUAY @ GUILD ST",
+      "Lat": 53.34760463,
+      "Long": -6.241201531
+    },
+    {
+      "_id": 547,
+      "SiteID": 661,
+      "Site_Description_Cap": "EMMET RD @ LUBY RD",
+      "Lat": 53.340641,
+      "Long": -6.311762
+    },
+    {
+      "_id": 548,
+      "SiteID": 662,
+      "Site_Description_Cap": "MERCER ST @ YORK ST",
+      "Lat": 53.33925692,
+      "Long": -6.264346684
+    },
+    {
+      "_id": 549,
+      "SiteID": 663,
+      "Site_Description_Cap": "MERCER ST @ CAR PARK",
+      "Lat": 53.3397015,
+      "Long": -6.264034095
+    },
+    {
+      "_id": 550,
+      "SiteID": 664,
+      "Site_Description_Cap": "ST JOHNS RD @ MILITARY RD",
+      "Lat": 53.34579617,
+      "Long": -6.29618408
+    },
+    {
+      "_id": 551,
+      "SiteID": 665,
+      "Site_Description_Cap": "LORD EDWARD ST / FISHAMBLE ST (& LORD EDWARD ST @ COWS LANE)",
+      "Lat": 53.34360607,
+      "Long": -6.270067957
+    },
+    {
+      "_id": 552,
+      "SiteID": 666,
+      "Site_Description_Cap": "DAME ST @ OLYMPIA",
+      "Lat": 53.3441691,
+      "Long": -6.2662089
+    },
+    {
+      "_id": 553,
+      "SiteID": 667,
+      "Site_Description_Cap": "NAVAN RD @ LIBRARY",
+      "Lat": 53.362105,
+      "Long": -6.299983
+    },
+    {
+      "_id": 554,
+      "SiteID": 668,
+      "Site_Description_Cap": "HARCOURT ST PED (LUAS)",
+      "Lat": 53.336765,
+      "Long": -6.2631501
+    },
+    {
+      "_id": 555,
+      "SiteID": 670,
+      "Site_Description_Cap": "RATOATH RD @ JOHN PAUL PARK",
+      "Lat": 53.36807279,
+      "Long": -6.30378423
+    },
+    {
+      "_id": 556,
+      "SiteID": 671,
+      "Site_Description_Cap": "RATHMINES RD UPPER @ RATHMINES CLOSE",
+      "Lat": 53.316773,
+      "Long": -6.265523
+    },
+    {
+      "_id": 557,
+      "SiteID": 672,
+      "Site_Description_Cap": "GLASNEVIN AVE @ AUTOBAHN",
+      "Lat": 53.38994938,
+      "Long": -6.272031963
+    },
+    {
+      "_id": 558,
+      "SiteID": 676,
+      "Site_Description_Cap": "COLDCUT RD @ CLOVER HILL RD",
+      "Lat": 53.34656,
+      "Long": -6.383297
+    },
+    {
+      "_id": 559,
+      "SiteID": 677,
+      "Site_Description_Cap": "EAST WALL RD @ ALEXANDRA RD",
+      "Lat": 53.35125441,
+      "Long": -6.225855344
+    },
+    {
+      "_id": 560,
+      "SiteID": 679,
+      "Site_Description_Cap": "DRIMNAGH RD @ SLIEVEBLOOM RD",
+      "Lat": 53.324163,
+      "Long": -6.327237
+    },
+    {
+      "_id": 561,
+      "SiteID": 680,
+      "Site_Description_Cap": "OSCAR TRAYNOR RD @ COOLOCK VILLAGE",
+      "Lat": 53.390168,
+      "Long": -6.199851
+    },
+    {
+      "_id": 562,
+      "SiteID": 682,
+      "Site_Description_Cap": "NORTH KING ST @ COLRAINE/LINNENHALL",
+      "Lat": 53.350294,
+      "Long": -6.272273
+    },
+    {
+      "_id": 563,
+      "SiteID": 684,
+      "Site_Description_Cap": "TERENURE RD EAST BUSGATE",
+      "Lat": 53.31101916,
+      "Long": -6.27828166
+    },
+    {
+      "_id": 564,
+      "SiteID": 686,
+      "Site_Description_Cap": "RATHMINES RD @ RATHMINES COLLEGE",
+      "Lat": 53.3254722,
+      "Long": -6.2652374
+    },
+    {
+      "_id": 565,
+      "SiteID": 687,
+      "Site_Description_Cap": "OLD FINGLAS RD @ ST. BRIGIDS SCHOOL",
+      "Lat": 53.377189,
+      "Long": -6.275296
+    },
+    {
+      "_id": 566,
+      "SiteID": 688,
+      "Site_Description_Cap": "BLUNDEN DRIVE @ AYRFIELD CHURCH",
+      "Lat": 53.396567,
+      "Long": -6.182179
+    },
+    {
+      "_id": 567,
+      "SiteID": 689,
+      "Site_Description_Cap": "NEWBROOK RD @ NEWBROOK AVE",
+      "Lat": 53.394581,
+      "Long": -6.160919
+    },
+    {
+      "_id": 568,
+      "SiteID": 690,
+      "Site_Description_Cap": "BALLYMUN RD @ OLD FINGLAS RD",
+      "Lat": 53.3761333,
+      "Long": -6.2700266
+    },
+    {
+      "_id": 569,
+      "SiteID": 691,
+      "Site_Description_Cap": "SWORDS RD @ REGENCY HOTEL",
+      "Lat": 53.37761719,
+      "Long": -6.248155097
+    },
+    {
+      "_id": 570,
+      "SiteID": 692,
+      "Site_Description_Cap": "KYLEMORE RD @ LANDEN RD",
+      "Lat": 53.337597,
+      "Long": -6.347597
+    },
+    {
+      "_id": 571,
+      "SiteID": 693,
+      "Site_Description_Cap": "TERENURE RD WEST @ GREENLEA RD",
+      "Lat": 53.3105567,
+      "Long": -6.289794
+    },
+    {
+      "_id": 572,
+      "SiteID": 694,
+      "Site_Description_Cap": "BROOKWOOD AVE @ BROOKWOOD RISE",
+      "Lat": 53.37730147,
+      "Long": -6.196350693
+    },
+    {
+      "_id": 573,
+      "SiteID": 695,
+      "Site_Description_Cap": "SYBIL HILL RD @ ST PAULS SCHOOL",
+      "Lat": 53.373275,
+      "Long": -6.194027
+    },
+    {
+      "_id": 574,
+      "SiteID": 696,
+      "Site_Description_Cap": "VERNON AVE @ BLACKHEATH",
+      "Lat": 53.36589,
+      "Long": -6.195127
+    },
+    {
+      "_id": 575,
+      "SiteID": 697,
+      "Site_Description_Cap": "CASTLE AVE @ BLACKHEATH",
+      "Lat": 53.366931,
+      "Long": -6.203993
+    },
+    {
+      "_id": 576,
+      "SiteID": 699,
+      "Site_Description_Cap": "HAROLD'S CROSS RD / MOUNT ARGUS RD",
+      "Lat": 53.324038,
+      "Long": -6.279767
+    },
+    {
+      "_id": 577,
+      "SiteID": 700,
+      "Site_Description_Cap": "FASSAUGH AVE / KILLALA RD",
+      "Lat": 53.367348,
+      "Long": -6.299733
+    },
+    {
+      "_id": 578,
+      "SiteID": 701,
+      "Site_Description_Cap": "MALAHIDE RD @ CASINO PK",
+      "Lat": 53.372135,
+      "Long": -6.22266
+    },
+    {
+      "_id": 579,
+      "SiteID": 702,
+      "Site_Description_Cap": "BUSHY PARK RD @ RIVERSIDE AVE",
+      "Lat": 53.307467,
+      "Long": -6.278622
+    },
+    {
+      "_id": 580,
+      "SiteID": 703,
+      "Site_Description_Cap": "MOBHI RD @ STELLA AVE",
+      "Lat": 53.377002,
+      "Long": -6.264728
+    },
+    {
+      "_id": 581,
+      "SiteID": 704,
+      "Site_Description_Cap": "MOBHI RD @ ST MOBHI DRIVE",
+      "Lat": 53.3728606,
+      "Long": -6.26581192
+    },
+    {
+      "_id": 582,
+      "SiteID": 705,
+      "Site_Description_Cap": "RATOATH RD @ VALLEY PARK RD",
+      "Lat": 53.382966,
+      "Long": -6.317987
+    },
+    {
+      "_id": 583,
+      "SiteID": 706,
+      "Site_Description_Cap": "LONDONBRIDGE RD @ SHUTTLE",
+      "Lat": 53.337647,
+      "Long": -6.226662
+    },
+    {
+      "_id": 584,
+      "SiteID": 707,
+      "Site_Description_Cap": "RICHMOND VILLA'S @ SOUTH RICHMOND ST",
+      "Lat": 53.331854,
+      "Long": -6.264628
+    },
+    {
+      "_id": 585,
+      "SiteID": 708,
+      "Site_Description_Cap": "SEVILLE PLACE @ ORIEL ST",
+      "Lat": 53.35236989,
+      "Long": -6.243559804
+    },
+    {
+      "_id": 586,
+      "SiteID": 709,
+      "Site_Description_Cap": "PHILIPSBURGH AVE @ SHUTTLE",
+      "Lat": 53.3679443,
+      "Long": -6.2395667
+    },
+    {
+      "_id": 587,
+      "SiteID": 710,
+      "Site_Description_Cap": "JERVIS ST/SWIFT ROW @ STRAND ST",
+      "Lat": 53.3468032,
+      "Long": -6.2659467
+    },
+    {
+      "_id": 588,
+      "SiteID": 711,
+      "Site_Description_Cap": "CAPEL ST @ STRAND ST (LUAS)",
+      "Lat": 53.34648366,
+      "Long": -6.268027771
+    },
+    {
+      "_id": 589,
+      "SiteID": 712,
+      "Site_Description_Cap": "PHILIPSBURGH AVE @ MELROSE AVE",
+      "Lat": 53.36483797,
+      "Long": -6.239865205
+    },
+    {
+      "_id": 590,
+      "SiteID": 713,
+      "Site_Description_Cap": "ARTANE CASTLE RDB @ KILMORE RD",
+      "Lat": 53.38453092,
+      "Long": -6.216289748
+    },
+    {
+      "_id": 591,
+      "SiteID": 714,
+      "Site_Description_Cap": "PORTLAND ROW @ DUNNE ST",
+      "Lat": 53.35602971,
+      "Long": -6.248369515
+    },
+    {
+      "_id": 592,
+      "SiteID": 715,
+      "Site_Description_Cap": "GLASNEVIN HILL @ CHURCH",
+      "Lat": 53.3733333,
+      "Long": -6.2686406
+    },
+    {
+      "_id": 593,
+      "SiteID": 716,
+      "Site_Description_Cap": "RATOATH RD @ CAPPAGH RD",
+      "Lat": 53.39085398,
+      "Long": -6.319652536
+    },
+    {
+      "_id": 594,
+      "SiteID": 717,
+      "Site_Description_Cap": "MEMORIAL PK RD @ INCHICORE RD",
+      "Lat": 53.34198093,
+      "Long": -6.316827536
+    },
+    {
+      "_id": 595,
+      "SiteID": 718,
+      "Site_Description_Cap": "MOUNTJOY SQ WEST @ GRENVILLE ST",
+      "Lat": 53.355731,
+      "Long": -6.257995
+    },
+    {
+      "_id": 596,
+      "SiteID": 720,
+      "Site_Description_Cap": "CORK ST @ COOMBE/DEAN ST",
+      "Lat": 53.339405,
+      "Long": -6.274768
+    },
+    {
+      "_id": 597,
+      "SiteID": 722,
+      "Site_Description_Cap": "ADELAIDE ROAD @ PETERS PLACE (LUAS)",
+      "Lat": 53.33270331,
+      "Long": -6.2604787
+    },
+    {
+      "_id": 598,
+      "SiteID": 723,
+      "Site_Description_Cap": "AILESBURY ROAD @ CHURCH",
+      "Lat": 53.319448,
+      "Long": -6.230166
+    },
+    {
+      "_id": 599,
+      "SiteID": 724,
+      "Site_Description_Cap": "SEAN MOORE RD @ PINE RD",
+      "Lat": 53.34024873,
+      "Long": -6.21476547
+    },
+    {
+      "_id": 600,
+      "SiteID": 725,
+      "Site_Description_Cap": "PIGEON HOUSE RD @ TOM CLARKE BRIDGE",
+      "Lat": 53.3426237,
+      "Long": -6.215042
+    },
+    {
+      "_id": 601,
+      "SiteID": 726,
+      "Site_Description_Cap": "BALLYMUN RD @ COULTRY GARDENS/CHURCH",
+      "Lat": 53.399607,
+      "Long": -6.26408
+    },
+    {
+      "_id": 602,
+      "SiteID": 727,
+      "Site_Description_Cap": "MALAHIDE RD @ N32",
+      "Lat": 53.40293827,
+      "Long": -6.179582458
+    },
+    {
+      "_id": 603,
+      "SiteID": 728,
+      "Site_Description_Cap": "RICHMOND RD @ GRACE PARK RD",
+      "Lat": 53.3674745,
+      "Long": -6.2508214
+    },
+    {
+      "_id": 604,
+      "SiteID": 729,
+      "Site_Description_Cap": "CORK ST @ ARDEE ST",
+      "Lat": 53.33867,
+      "Long": -6.279439
+    },
+    {
+      "_id": 605,
+      "SiteID": 730,
+      "Site_Description_Cap": "FAUSSAGH AVE @ CHURCH",
+      "Lat": 53.367229,
+      "Long": -6.295876
+    },
+    {
+      "_id": 606,
+      "SiteID": 731,
+      "Site_Description_Cap": "FAUSSAGH RD @ GAA CLUB",
+      "Lat": 53.365371,
+      "Long": -6.28926
+    },
+    {
+      "_id": 607,
+      "SiteID": 733,
+      "Site_Description_Cap": "CORK ST @ DONORE AVE/MARROWBONE LANE",
+      "Lat": 53.337258,
+      "Long": -6.286343
+    },
+    {
+      "_id": 608,
+      "SiteID": 734,
+      "Site_Description_Cap": "ALFIE BYRNE RD @ EAST PT BUSINESS PK",
+      "Lat": 53.359634,
+      "Long": -6.23199
+    },
+    {
+      "_id": 609,
+      "SiteID": 735,
+      "Site_Description_Cap": "MALAHIDE RD @ GROVE LANE",
+      "Lat": 53.4016374,
+      "Long": -6.1807596
+    },
+    {
+      "_id": 610,
+      "SiteID": 736,
+      "Site_Description_Cap": "BROOKWOOD AVE",
+      "Lat": 53.38053,
+      "Long": -6.200682
+    },
+    {
+      "_id": 611,
+      "SiteID": 737,
+      "Site_Description_Cap": "BROOKWOOD RISE",
+      "Lat": 53.3785,
+      "Long": -6.193925
+    },
+    {
+      "_id": 612,
+      "SiteID": 738,
+      "Site_Description_Cap": "TYRCONNELL RD @ JAMESTOWN RD",
+      "Lat": 53.33480041,
+      "Long": -6.32773608
+    },
+    {
+      "_id": 613,
+      "SiteID": 739,
+      "Site_Description_Cap": "IRISHTOWN RD  @ HEALTH CENTRE",
+      "Lat": 53.34119,
+      "Long": -6.225724
+    },
+    {
+      "_id": 614,
+      "SiteID": 740,
+      "Site_Description_Cap": "GRACE PARK RD @ ROSMINI",
+      "Lat": 53.3716879,
+      "Long": -6.2450338
+    },
+    {
+      "_id": 615,
+      "SiteID": 741,
+      "Site_Description_Cap": "NORTH KING ST / QUEEN ST",
+      "Lat": 53.3499139,
+      "Long": -6.280252253
+    },
+    {
+      "_id": 616,
+      "SiteID": 742,
+      "Site_Description_Cap": "BRUNSWICK ST @ GEORGES LANE",
+      "Lat": 53.35052969,
+      "Long": -6.279824442
+    },
+    {
+      "_id": 617,
+      "SiteID": 743,
+      "Site_Description_Cap": "BLACKHALL PLACE @ BLACKHALL ST",
+      "Lat": 53.348685,
+      "Long": -6.281942
+    },
+    {
+      "_id": 618,
+      "SiteID": 744,
+      "Site_Description_Cap": "ST STEPHENS GREEN @ NEWMAN CHURCH",
+      "Lat": 53.3367547,
+      "Long": -6.2598865
+    },
+    {
+      "_id": 619,
+      "SiteID": 745,
+      "Site_Description_Cap": "BALLYMUN RD @ SHANGAN / SHOPPING CENTRE",
+      "Lat": 53.39654693,
+      "Long": -6.264009476
+    },
+    {
+      "_id": 620,
+      "SiteID": 746,
+      "Site_Description_Cap": "NORTH WALL QUAY @ EXCISE WALK",
+      "Lat": 53.3478008,
+      "Long": -6.243842338
+    },
+    {
+      "_id": 621,
+      "SiteID": 747,
+      "Site_Description_Cap": "MAIN ST RAHENY @ WATERMILL RD",
+      "Lat": 53.3792776,
+      "Long": -6.1752111
+    },
+    {
+      "_id": 622,
+      "SiteID": 748,
+      "Site_Description_Cap": "HOWTH RD RAHENY @  ST ASSAMS RD WEST/BANK OF IRELAND",
+      "Lat": 53.38032768,
+      "Long": -6.172593241
+    },
+    {
+      "_id": 623,
+      "SiteID": 749,
+      "Site_Description_Cap": "SCR @ BLOOMFIELD AVE",
+      "Lat": 53.33230783,
+      "Long": -6.271553227
+    },
+    {
+      "_id": 624,
+      "SiteID": 750,
+      "Site_Description_Cap": "DRUMCONDRA RD @ BOTANIC AVE",
+      "Lat": 53.3674069,
+      "Long": -6.2553931
+    },
+    {
+      "_id": 625,
+      "SiteID": 751,
+      "Site_Description_Cap": "SCR @ WASHINGTON ST",
+      "Lat": 53.3314719,
+      "Long": -6.2790499
+    },
+    {
+      "_id": 626,
+      "SiteID": 752,
+      "Site_Description_Cap": "KILDARE RD @ BANGOR RD",
+      "Lat": 53.32493616,
+      "Long": -6.302289368
+    },
+    {
+      "_id": 627,
+      "SiteID": 753,
+      "Site_Description_Cap": "BLACK HALL ST @ QUEEN ST",
+      "Lat": 53.348446,
+      "Long": -6.279865
+    },
+    {
+      "_id": 628,
+      "SiteID": 754,
+      "Site_Description_Cap": "CORK ST @ COOMBE HOSPITAL",
+      "Lat": 53.33536899,
+      "Long": -6.289478391
+    },
+    {
+      "_id": 629,
+      "SiteID": 755,
+      "Site_Description_Cap": "BALLYMUN RD @ GATEWAY CRESCENT NTH/STH",
+      "Lat": 53.3942251,
+      "Long": -6.2640546
+    },
+    {
+      "_id": 630,
+      "SiteID": 756,
+      "Site_Description_Cap": "BALLYFERMOT RD @ LE FANU RD",
+      "Lat": 53.342419,
+      "Long": -6.356215
+    },
+    {
+      "_id": 631,
+      "SiteID": 757,
+      "Site_Description_Cap": "NORTH BRUNSWICK ST @ SCHOOL",
+      "Lat": 53.350682,
+      "Long": -6.276794
+    },
+    {
+      "_id": 632,
+      "SiteID": 758,
+      "Site_Description_Cap": "LEESON ST FITZWILLIAM PL @ ADELAIDE RD",
+      "Lat": 53.3324442,
+      "Long": -6.2531583
+    },
+    {
+      "_id": 633,
+      "SiteID": 759,
+      "Site_Description_Cap": "CORK ST / ST LUKES AVE / BRABAZON ST",
+      "Lat": 53.33873452,
+      "Long": -6.27796845
+    },
+    {
+      "_id": 634,
+      "SiteID": 760,
+      "Site_Description_Cap": "BLACKHALL ST BRIDGE @ USHERS ISLAND (JOYCE BRIDGE SOUTH)",
+      "Lat": 53.34639164,
+      "Long": -6.282639314
+    },
+    {
+      "_id": 635,
+      "SiteID": 761,
+      "Site_Description_Cap": "BLACKHALL ST BRIDGE @ ELLIS QUAY (JOYCE BRIDGE NORTH)",
+      "Lat": 53.346885,
+      "Long": -6.282501
+    },
+    {
+      "_id": 636,
+      "SiteID": 762,
+      "Site_Description_Cap": "BALLYFERMOT RD @ DE LA SALLE SCHOOL",
+      "Lat": 53.342289,
+      "Long": -6.343675
+    },
+    {
+      "_id": 637,
+      "SiteID": 763,
+      "Site_Description_Cap": "BALLYMUN RD @ HAMSTEAD AVE",
+      "Lat": 53.380966,
+      "Long": -6.265633
+    },
+    {
+      "_id": 638,
+      "SiteID": 764,
+      "Site_Description_Cap": "LEESON ST @ CUS",
+      "Lat": 53.3348904,
+      "Long": -6.25591674
+    },
+    {
+      "_id": 639,
+      "SiteID": 765,
+      "Site_Description_Cap": "MOUNT ST @ LOVE LANE",
+      "Lat": 53.337936,
+      "Long": -6.2415366
+    },
+    {
+      "_id": 640,
+      "SiteID": 766,
+      "Site_Description_Cap": "EDENMORE VILLAGE @ SHOPS",
+      "Lat": 53.388335,
+      "Long": -6.182174
+    },
+    {
+      "_id": 641,
+      "SiteID": 767,
+      "Site_Description_Cap": "LONGMILE RD @ SCHOOL ITT & OOT",
+      "Lat": 53.323834,
+      "Long": -6.33406
+    },
+    {
+      "_id": 642,
+      "SiteID": 768,
+      "Site_Description_Cap": "DAVITT RD @ LANSDOWNE VALLEY PAKE PED CROSSING (LUAS)",
+      "Lat": 53.334158,
+      "Long": -6.326539
+    },
+    {
+      "_id": 643,
+      "SiteID": 769,
+      "Site_Description_Cap": "DAVITT RD @ KILWORTH RD (LUAS)",
+      "Lat": 53.33434393,
+      "Long": -6.325080693
+    },
+    {
+      "_id": 644,
+      "SiteID": 770,
+      "Site_Description_Cap": "DAVITT RD @ SPERRIN RD PED CROSSING (LUAS)",
+      "Lat": 53.33527529,
+      "Long": -6.317468584
+    },
+    {
+      "_id": 645,
+      "SiteID": 771,
+      "Site_Description_Cap": "JAMES ST @ STEVENS LANE (LUAS)",
+      "Lat": 53.34324077,
+      "Long": -6.290988583
+    },
+    {
+      "_id": 646,
+      "SiteID": 772,
+      "Site_Description_Cap": "BENBURB ST @ TEMPLE STREET WEST (LUAS)",
+      "Lat": 53.3480536,
+      "Long": -6.2897224
+    },
+    {
+      "_id": 647,
+      "SiteID": 773,
+      "Site_Description_Cap": "BENBURB ST @ QUEEN ST (LUAS)",
+      "Lat": 53.34718312,
+      "Long": -6.28015948
+    },
+    {
+      "_id": 648,
+      "SiteID": 774,
+      "Site_Description_Cap": "SMITHFIELD CROSSING (LUAS)",
+      "Lat": 53.3471557,
+      "Long": -6.278310944
+    },
+    {
+      "_id": 649,
+      "SiteID": 775,
+      "Site_Description_Cap": "BOW STREET CROSSING (LUAS)",
+      "Lat": 53.347111,
+      "Long": -6.276985
+    },
+    {
+      "_id": 650,
+      "SiteID": 776,
+      "Site_Description_Cap": "CHURCH ST @ CHANCERY ST (LUAS)",
+      "Lat": 53.34707,
+      "Long": -6.274992
+    },
+    {
+      "_id": 651,
+      "SiteID": 777,
+      "Site_Description_Cap": "CHANCERY ST @ CHANCERY PLACE (LUAS)",
+      "Lat": 53.34680112,
+      "Long": -6.27284357
+    },
+    {
+      "_id": 652,
+      "SiteID": 778,
+      "Site_Description_Cap": "CHANCERY ST @ ARRAN STREET EAST (LUAS)",
+      "Lat": 53.34689962,
+      "Long": -6.27047036
+    },
+    {
+      "_id": 653,
+      "SiteID": 780,
+      "Site_Description_Cap": "ADELAIDE ROAD @ HOSPITAL",
+      "Lat": 53.332423,
+      "Long": -6.256284
+    },
+    {
+      "_id": 654,
+      "SiteID": 781,
+      "Site_Description_Cap": "MILLTOWN RD @ COLLEGE ENTRANCE  (RICHMOND ST SOUTH) (LUAS)",
+      "Lat": 53.31049515,
+      "Long": -6.251933165
+    },
+    {
+      "_id": 655,
+      "SiteID": 782,
+      "Site_Description_Cap": "O CONNELL ST @ PRINCES ST NORTH",
+      "Lat": 53.34907,
+      "Long": -6.26005
+    },
+    {
+      "_id": 656,
+      "SiteID": 783,
+      "Site_Description_Cap": "BULFIN RD @ THE SHOPS",
+      "Lat": 53.340414,
+      "Long": -6.315466
+    },
+    {
+      "_id": 657,
+      "SiteID": 785,
+      "Site_Description_Cap": "N32 @ BEWLEYS",
+      "Lat": 53.4042,
+      "Long": -6.183673
+    },
+    {
+      "_id": 658,
+      "SiteID": 786,
+      "Site_Description_Cap": "TEMPLEOGUE RD @ LAKELAND PK",
+      "Lat": 53.305697,
+      "Long": -6.290874
+    },
+    {
+      "_id": 659,
+      "SiteID": 787,
+      "Site_Description_Cap": "COOLOCK VILLAGE @ ULSTER BANK",
+      "Lat": 53.387864,
+      "Long": -6.200876
+    },
+    {
+      "_id": 660,
+      "SiteID": 788,
+      "Site_Description_Cap": "GALTYMORE @ THE SHOPS",
+      "Lat": 53.334098,
+      "Long": -6.319621
+    },
+    {
+      "_id": 661,
+      "SiteID": 789,
+      "Site_Description_Cap": "GILFORD RD PED",
+      "Lat": 53.330668,
+      "Long": -6.215795
+    },
+    {
+      "_id": 662,
+      "SiteID": 790,
+      "Site_Description_Cap": "SANDYMOUNT RD PED",
+      "Lat": 53.335698,
+      "Long": -6.220275
+    },
+    {
+      "_id": 663,
+      "SiteID": 791,
+      "Site_Description_Cap": "HOWTH RD @ HOLLYBROOK PARK",
+      "Lat": 53.36685706,
+      "Long": -6.218630618
+    },
+    {
+      "_id": 664,
+      "SiteID": 792,
+      "Site_Description_Cap": "WELLMOUNT RD @ ST MICHAELS SCHOOL",
+      "Lat": 53.386831,
+      "Long": -6.301838
+    },
+    {
+      "_id": 665,
+      "SiteID": 793,
+      "Site_Description_Cap": "ESSEX QUAY @ EXCHANGE ST LOWER",
+      "Lat": 53.3452253,
+      "Long": -6.2689572
+    },
+    {
+      "_id": 666,
+      "SiteID": 794,
+      "Site_Description_Cap": "KILBARRACK RD @ THE DART STATION",
+      "Lat": 53.38994621,
+      "Long": -6.15647851
+    },
+    {
+      "_id": 667,
+      "SiteID": 795,
+      "Site_Description_Cap": "CHAPELIZOD ROAD @ KING'S HALL (PED)",
+      "Lat": 53.347657,
+      "Long": -6.341119
+    },
+    {
+      "_id": 668,
+      "SiteID": 796,
+      "Site_Description_Cap": "EDEN QUAY",
+      "Lat": 53.34793861,
+      "Long": -6.257392184
+    },
+    {
+      "_id": 669,
+      "SiteID": 797,
+      "Site_Description_Cap": "MALAHIDE RD / CLARE HALL SHOPPING CENTRE",
+      "Lat": 53.40095105,
+      "Long": -6.182459776
+    },
+    {
+      "_id": 670,
+      "SiteID": 798,
+      "Site_Description_Cap": "BALLYBOGGAN RD @ RATOATH RD",
+      "Lat": 53.3768108,
+      "Long": -6.309315111
+    },
+    {
+      "_id": 671,
+      "SiteID": 799,
+      "Site_Description_Cap": "KYLEMORE RD @ NEW ACCESS ROAD TO JAMESTOWN RD #",
+      "Lat": 53.33494514,
+      "Long": -6.346468127
+    },
+    {
+      "_id": 672,
+      "SiteID": 800,
+      "Site_Description_Cap": "KILLEEN RD @ PARK WEST IND EST",
+      "Lat": 53.33302574,
+      "Long": -6.355620325
+    },
+    {
+      "_id": 673,
+      "SiteID": 801,
+      "Site_Description_Cap": "ST STEPHENS GREEN @ HUME ST",
+      "Lat": 53.3379826,
+      "Long": -6.255803283
+    },
+    {
+      "_id": 674,
+      "SiteID": 802,
+      "Site_Description_Cap": "COLLINS AVE @ CLANAWLEY RD",
+      "Lat": 53.373101,
+      "Long": -6.20985
+    },
+    {
+      "_id": 675,
+      "SiteID": 803,
+      "Site_Description_Cap": "PRIORSWOOD RD @ BUTTERCUP PARK",
+      "Lat": 53.397814,
+      "Long": -6.188098
+    },
+    {
+      "_id": 676,
+      "SiteID": 805,
+      "Site_Description_Cap": "SPRINGDALE RD @ ST JOSEPHS HOSPITAL",
+      "Lat": 53.382742,
+      "Long": -6.179632
+    },
+    {
+      "_id": 677,
+      "SiteID": 806,
+      "Site_Description_Cap": "NUTLEY LANE @ ST VINCENTS HOSPITAL",
+      "Lat": 53.31763,
+      "Long": -6.215483
+    },
+    {
+      "_id": 678,
+      "SiteID": 807,
+      "Site_Description_Cap": "CITY QUAY, LOMBARD ST",
+      "Lat": 53.34669897,
+      "Long": -6.247829761
+    },
+    {
+      "_id": 679,
+      "SiteID": 808,
+      "Site_Description_Cap": "CUSTOM HOUSE QUAY @ SEAN O'CASEY BRIDGE",
+      "Lat": 53.34804971,
+      "Long": -6.247895921
+    },
+    {
+      "_id": 680,
+      "SiteID": 809,
+      "Site_Description_Cap": "VERNON AVE @ CRC",
+      "Lat": 53.370071,
+      "Long": -6.201194
+    },
+    {
+      "_id": 681,
+      "SiteID": 810,
+      "Site_Description_Cap": "CARDIFFSBRIDGE RD @ DEANSTOWN AVE",
+      "Lat": 53.383593,
+      "Long": -6.311929
+    },
+    {
+      "_id": 682,
+      "SiteID": 811,
+      "Site_Description_Cap": "HOWTH RD @ ENNAFORT PARK",
+      "Lat": 53.37747505,
+      "Long": -6.187212576
+    },
+    {
+      "_id": 683,
+      "SiteID": 812,
+      "Site_Description_Cap": "MERRION RD @ SYDNEY PARADE AVE",
+      "Lat": 53.319423,
+      "Long": -6.213612
+    },
+    {
+      "_id": 684,
+      "SiteID": 813,
+      "Site_Description_Cap": "PARK WEST AVE @ PARK WEST",
+      "Lat": 53.331412,
+      "Long": -6.373321
+    },
+    {
+      "_id": 685,
+      "SiteID": 814,
+      "Site_Description_Cap": "BUNRATTY RD @ CIVIC CENTRE",
+      "Lat": 53.393521,
+      "Long": -6.207428
+    },
+    {
+      "_id": 686,
+      "SiteID": 815,
+      "Site_Description_Cap": "MCKELVEY RD /ST MARGARETS RD",
+      "Lat": 53.399463,
+      "Long": -6.303263
+    },
+    {
+      "_id": 687,
+      "SiteID": 816,
+      "Site_Description_Cap": "DPT 1",
+      "Lat": 53.3533472,
+      "Long": -6.2233522
+    },
+    {
+      "_id": 688,
+      "SiteID": 817,
+      "Site_Description_Cap": "DPT 2",
+      "Lat": 53.3542989,
+      "Long": -6.2244639
+    },
+    {
+      "_id": 689,
+      "SiteID": 818,
+      "Site_Description_Cap": "DPT 3",
+      "Lat": 53.35466094,
+      "Long": -6.221082658
+    },
+    {
+      "_id": 690,
+      "SiteID": 819,
+      "Site_Description_Cap": "GRAND CANAL ST @ BARROW ST",
+      "Lat": 53.338312,
+      "Long": -6.236822
+    },
+    {
+      "_id": 691,
+      "SiteID": 820,
+      "Site_Description_Cap": "GLIN RD @ MACROOM RD",
+      "Lat": 53.399339,
+      "Long": -6.205722
+    },
+    {
+      "_id": 692,
+      "SiteID": 821,
+      "Site_Description_Cap": "JAMESTOWN RD @ SYCAMORE RD",
+      "Lat": 53.3965717,
+      "Long": -6.2938033
+    },
+    {
+      "_id": 693,
+      "SiteID": 822,
+      "Site_Description_Cap": "N32 / CLONSHAUGH RD",
+      "Lat": 53.4095579,
+      "Long": -6.2142442
+    },
+    {
+      "_id": 694,
+      "SiteID": 826,
+      "Site_Description_Cap": "BALLYFERMOT RD @ LIDL",
+      "Lat": 53.343796,
+      "Long": -6.372084
+    },
+    {
+      "_id": 695,
+      "SiteID": 828,
+      "Site_Description_Cap": "BALLYMUN RD @ CIVIC OFFICES",
+      "Lat": 53.3956933,
+      "Long": -6.2640744
+    },
+    {
+      "_id": 696,
+      "SiteID": 830,
+      "Site_Description_Cap": "SWORDS RD @ WHITEHALL CHURCH",
+      "Lat": 53.3840774,
+      "Long": -6.2436444
+    },
+    {
+      "_id": 697,
+      "SiteID": 832,
+      "Site_Description_Cap": "FAIRVIEW STRAND @RICHMOND RD",
+      "Lat": 53.36240082,
+      "Long": -6.242117291
+    },
+    {
+      "_id": 698,
+      "SiteID": 833,
+      "Site_Description_Cap": "PEARSE ST @ BOLANDS BRIDGE PED",
+      "Lat": 53.34247966,
+      "Long": -6.23919209
+    },
+    {
+      "_id": 699,
+      "SiteID": 834,
+      "Site_Description_Cap": "M1/COOLOCK INTERCHANGE RAMP",
+      "Lat": 53.39810787,
+      "Long": -6.23868547
+    },
+    {
+      "_id": 700,
+      "SiteID": 835,
+      "Site_Description_Cap": "SWORDS RD NTHBND @ TUNNEL PORTAL",
+      "Lat": 53.396273,
+      "Long": -6.23979
+    },
+    {
+      "_id": 701,
+      "SiteID": 836,
+      "Site_Description_Cap": "WATERLOO RD @ BURLINGTON RD",
+      "Lat": 53.33118,
+      "Long": -6.244276
+    },
+    {
+      "_id": 702,
+      "SiteID": 838,
+      "Site_Description_Cap": "ST JOHNS RD @ HEUSTON S.Q.",
+      "Lat": 53.345455,
+      "Long": -6.299534
+    },
+    {
+      "_id": 703,
+      "SiteID": 839,
+      "Site_Description_Cap": "CLONTARF RD @ DOLLYMOUNT PARK",
+      "Lat": 53.36289792,
+      "Long": -6.17840837
+    },
+    {
+      "_id": 704,
+      "SiteID": 840,
+      "Site_Description_Cap": "CAPEL ST @ MARY ST",
+      "Lat": 53.348519,
+      "Long": -6.268828
+    },
+    {
+      "_id": 705,
+      "SiteID": 841,
+      "Site_Description_Cap": "BLUNDEN DRIVE @ DARNDALE ROUNDABOUT",
+      "Lat": 53.397227,
+      "Long": -6.185557
+    },
+    {
+      "_id": 706,
+      "SiteID": 842,
+      "Site_Description_Cap": "NCR @ MATER HOSPITAL",
+      "Lat": 53.360463,
+      "Long": -6.2674779
+    },
+    {
+      "_id": 707,
+      "SiteID": 843,
+      "Site_Description_Cap": "CONYNGHAM RD @ PHOENIX PARK",
+      "Lat": 53.348227,
+      "Long": -6.301325
+    },
+    {
+      "_id": 708,
+      "SiteID": 844,
+      "Site_Description_Cap": "HERBERT PARK @ THE PARK",
+      "Lat": 53.328973,
+      "Long": -6.233176
+    },
+    {
+      "_id": 709,
+      "SiteID": 844,
+      "Site_Description_Cap": "HERBERT PARK @ THE PARK",
+      "Lat": 53.328973,
+      "Long": -6.233176
+    },
+    {
+      "_id": 710,
+      "SiteID": 845,
+      "Site_Description_Cap": "HIGHFIELD RD @ THE CHURCH",
+      "Lat": 53.312383,
+      "Long": -6.272338
+    },
+    {
+      "_id": 711,
+      "SiteID": 846,
+      "Site_Description_Cap": "ANGLESEA RD PED",
+      "Lat": 53.321519,
+      "Long": -6.23054
+    },
+    {
+      "_id": 712,
+      "SiteID": 848,
+      "Site_Description_Cap": "ROCK RD @ ELM PARK",
+      "Lat": 53.3138185,
+      "Long": -6.2028282
+    },
+    {
+      "_id": 713,
+      "SiteID": 849,
+      "Site_Description_Cap": "RANELAGH RD @ LUAS STATION",
+      "Lat": 53.326105,
+      "Long": -6.255747
+    },
+    {
+      "_id": 714,
+      "SiteID": 850,
+      "Site_Description_Cap": "EAST RD @ CHURCH RD",
+      "Lat": 53.35206774,
+      "Long": -6.232771734
+    },
+    {
+      "_id": 715,
+      "SiteID": 851,
+      "Site_Description_Cap": "DARNDALE @ COMMUNITY CENTRE",
+      "Lat": 53.40093736,
+      "Long": -6.194885252
+    },
+    {
+      "_id": 716,
+      "SiteID": 852,
+      "Site_Description_Cap": "BERKLEY ST @ NELSON ST",
+      "Lat": 53.3567389,
+      "Long": -6.267994
+    },
+    {
+      "_id": 717,
+      "SiteID": 853,
+      "Site_Description_Cap": "COLLINS AVE EAST @ CLANCARTHY RD",
+      "Lat": 53.375017,
+      "Long": -6.217651
+    },
+    {
+      "_id": 718,
+      "SiteID": 854,
+      "Site_Description_Cap": "MERRION ROAD @ MERLYN DRIVE",
+      "Lat": 53.322266,
+      "Long": -6.218324
+    },
+    {
+      "_id": 719,
+      "SiteID": 855,
+      "Site_Description_Cap": "SEVILLE PLACE @ FERRYMANS CROSSING",
+      "Lat": 53.35125905,
+      "Long": -6.242030216
+    },
+    {
+      "_id": 720,
+      "SiteID": 856,
+      "Site_Description_Cap": "GUILD ST @ SHERIFF ST",
+      "Lat": 53.35053347,
+      "Long": -6.240965391
+    },
+    {
+      "_id": 721,
+      "SiteID": 857,
+      "Site_Description_Cap": "COOLOCK LANE PEDESTRIAN CROSSING",
+      "Lat": 53.39719483,
+      "Long": -6.233126521
+    },
+    {
+      "_id": 722,
+      "SiteID": 858,
+      "Site_Description_Cap": "OSCAR TRAYNOR RD @ LARCH HILL ESTATE",
+      "Lat": 53.3977605,
+      "Long": -6.2269591
+    },
+    {
+      "_id": 723,
+      "SiteID": 859,
+      "Site_Description_Cap": "HOLE IN THE WALL ROAD @ CLONGRIFFEN ROAD",
+      "Lat": 53.402661,
+      "Long": -6.162534
+    },
+    {
+      "_id": 724,
+      "SiteID": 860,
+      "Site_Description_Cap": "MAYOR STREET @ COMMONS STREET",
+      "Lat": 53.34939735,
+      "Long": -6.245839442
+    },
+    {
+      "_id": 725,
+      "SiteID": 861,
+      "Site_Description_Cap": "MAYOR STREET @ GUILD STREET",
+      "Lat": 53.3490603,
+      "Long": -6.240951298
+    },
+    {
+      "_id": 726,
+      "SiteID": 862,
+      "Site_Description_Cap": "MAYOR STREET @ NATIONAL CONFERENCE CENTRE",
+      "Lat": 53.34889765,
+      "Long": -6.238774959
+    },
+    {
+      "_id": 727,
+      "SiteID": 863,
+      "Site_Description_Cap": "MAYOR STREET @ SPENCER DOCK WEST",
+      "Lat": 53.34883901,
+      "Long": -6.237783794
+    },
+    {
+      "_id": 728,
+      "SiteID": 864,
+      "Site_Description_Cap": "MAYOR STREET @ SPENCER DOCK EAST",
+      "Lat": 53.34878187,
+      "Long": -6.236484842
+    },
+    {
+      "_id": 729,
+      "SiteID": 865,
+      "Site_Description_Cap": "MAYOR STREET @ NEW WAPPING ST",
+      "Lat": 53.34870419,
+      "Long": -6.235304389
+    },
+    {
+      "_id": 730,
+      "SiteID": 866,
+      "Site_Description_Cap": "MAYOR STREET @ CASTLEFORBES RD",
+      "Lat": 53.34848893,
+      "Long": -6.232032712
+    },
+    {
+      "_id": 731,
+      "SiteID": 867,
+      "Site_Description_Cap": "MAYOR STREET @ THE POINT",
+      "Lat": 53.34821967,
+      "Long": -6.229872971
+    },
+    {
+      "_id": 732,
+      "SiteID": 868,
+      "Site_Description_Cap": "SIR JOHN ROGERSONS QUAY @ MACKEN ST BRIDGE",
+      "Lat": 53.3461935,
+      "Long": -6.2408362
+    },
+    {
+      "_id": 733,
+      "SiteID": 870,
+      "Site_Description_Cap": "MACKEN ST @ HANOVER ST",
+      "Lat": 53.344494,
+      "Long": -6.240785
+    },
+    {
+      "_id": 734,
+      "SiteID": 872,
+      "Site_Description_Cap": "HOLE IN THE WALL ROAD @ FATHER COLLINS PARK",
+      "Lat": 53.4058837,
+      "Long": -6.1630263
+    },
+    {
+      "_id": 735,
+      "SiteID": 873,
+      "Site_Description_Cap": "NORTH WALL QUAY @ SPENCER DOCK",
+      "Lat": 53.34740649,
+      "Long": -6.238067497
+    },
+    {
+      "_id": 736,
+      "SiteID": 874,
+      "Site_Description_Cap": "CLONSHAUGH RD PEDESTRIAN CROSSING",
+      "Lat": 53.40741754,
+      "Long": -6.215429635
+    },
+    {
+      "_id": 737,
+      "SiteID": 875,
+      "Site_Description_Cap": "MALAHIDE ROAD @ BELMAYNE",
+      "Lat": 53.40653831,
+      "Long": -6.177218556
+    },
+    {
+      "_id": 738,
+      "SiteID": 876,
+      "Site_Description_Cap": "MAIN ST CHAPELIZOD",
+      "Lat": 53.34910591,
+      "Long": -6.34386685
+    },
+    {
+      "_id": 739,
+      "SiteID": 877,
+      "Site_Description_Cap": "KYLEMORE RD @ CANAL BRIDGE",
+      "Lat": 53.33205627,
+      "Long": -6.346399636
+    },
+    {
+      "_id": 740,
+      "SiteID": 878,
+      "Site_Description_Cap": "BALBUTCHER LANE SOUTH/CARRIG RD",
+      "Lat": 53.39955845,
+      "Long": -6.27600378
+    },
+    {
+      "_id": 741,
+      "SiteID": 879,
+      "Site_Description_Cap": "NORTH KING ST@RED COW LANE PED",
+      "Lat": 53.349755,
+      "Long": -6.277562
+    },
+    {
+      "_id": 742,
+      "SiteID": 880,
+      "Site_Description_Cap": "RAHENY RD @ BELMONT PARK",
+      "Lat": 53.3852,
+      "Long": -6.175073
+    },
+    {
+      "_id": 743,
+      "SiteID": 882,
+      "Site_Description_Cap": "BAGGOT ST @ HERBERT PLACE",
+      "Lat": 53.3344147,
+      "Long": -6.245635833
+    },
+    {
+      "_id": 744,
+      "SiteID": 883,
+      "Site_Description_Cap": "CHARLEMONT ST @ CHARLEMONT MALL",
+      "Lat": 53.330591,
+      "Long": -6.260314
+    },
+    {
+      "_id": 745,
+      "SiteID": 884,
+      "Site_Description_Cap": "NCR @ MARLBOROUGH RD",
+      "Lat": 53.355094,
+      "Long": -6.293402
+    },
+    {
+      "_id": 746,
+      "SiteID": 885,
+      "Site_Description_Cap": "ECCLES ST @ THE HOSPITAL",
+      "Lat": 53.358562,
+      "Long": -6.26723
+    },
+    {
+      "_id": 747,
+      "SiteID": 886,
+      "Site_Description_Cap": "HARMONSTOWN RD / SPRINGDALE RD",
+      "Lat": 53.383868,
+      "Long": -6.183591
+    },
+    {
+      "_id": 748,
+      "SiteID": 888,
+      "Site_Description_Cap": "CLARE HALL AVE EAST OF MALAHIDE ROAD",
+      "Lat": 53.4022901,
+      "Long": -6.1764758
+    },
+    {
+      "_id": 749,
+      "SiteID": 889,
+      "Site_Description_Cap": "CLARE HALL BELMAYNE WEST OF ROUNDABOUT",
+      "Lat": 53.4016729,
+      "Long": -6.1712525
+    },
+    {
+      "_id": 750,
+      "SiteID": 890,
+      "Site_Description_Cap": "GRANGE ROAD @ HOLE IN THE WALL RDB EAST & SOUTH",
+      "Lat": 53.3981722,
+      "Long": -6.161157
+    },
+    {
+      "_id": 751,
+      "SiteID": 891,
+      "Site_Description_Cap": "CEDAR BROOK AVE / BARNEVILLE WALK",
+      "Lat": 53.3356713,
+      "Long": -6.3802203
+    },
+    {
+      "_id": 752,
+      "SiteID": 892,
+      "Site_Description_Cap": "CLANBRASIL ST @ LOMBARD ST WEST",
+      "Lat": 53.33391929,
+      "Long": -6.2749169
+    },
+    {
+      "_id": 753,
+      "SiteID": 893,
+      "Site_Description_Cap": "SIR JOHN ROGERSONS QUAY @ FORBES ST",
+      "Lat": 53.34595293,
+      "Long": -6.237992362
+    },
+    {
+      "_id": 754,
+      "SiteID": 894,
+      "Site_Description_Cap": "JAMES'S WALK @ REUBEN ST",
+      "Lat": 53.338241,
+      "Long": -6.293221
+    },
+    {
+      "_id": 755,
+      "SiteID": 895,
+      "Site_Description_Cap": "KEVIN ST UPPER PEDESTRIAN",
+      "Lat": 53.33867237,
+      "Long": -6.271995891
+    },
+    {
+      "_id": 756,
+      "SiteID": 896,
+      "Site_Description_Cap": "CASTLE AVE @ VERNON AVE",
+      "Lat": 53.370145,
+      "Long": -6.2030014
+    },
+    {
+      "_id": 757,
+      "SiteID": 897,
+      "Site_Description_Cap": "NORTH WALL QUAY @ NEW WAPPING ST",
+      "Lat": 53.34726984,
+      "Long": -6.23554635
+    },
+    {
+      "_id": 758,
+      "SiteID": 898,
+      "Site_Description_Cap": "NORTH WALL QUAY @ THE POINT DEPOT",
+      "Lat": 53.34687582,
+      "Long": -6.230093819
+    },
+    {
+      "_id": 759,
+      "SiteID": 899,
+      "Site_Description_Cap": "SANTRY AVE / NORTHWOOD",
+      "Lat": 53.4002683,
+      "Long": -6.2578403
+    },
+    {
+      "_id": 760,
+      "SiteID": 900,
+      "Site_Description_Cap": "SANTRY AVE @ ALDI",
+      "Lat": 53.398908,
+      "Long": -6.250929
+    },
+    {
+      "_id": 761,
+      "SiteID": 901,
+      "Site_Description_Cap": "SANTRY AVE @ HEITON BUCKLEY",
+      "Lat": 53.39777504,
+      "Long": -6.24676364
+    },
+    {
+      "_id": 762,
+      "SiteID": 902,
+      "Site_Description_Cap": "NCR @ NEW HOSPITAL ENTRANCE",
+      "Lat": 53.3602205,
+      "Long": -6.265651
+    },
+    {
+      "_id": 763,
+      "SiteID": 904,
+      "Site_Description_Cap": "EAST WALL RD @ CHURCH RD",
+      "Lat": 53.35688453,
+      "Long": -6.2318516
+    },
+    {
+      "_id": 764,
+      "SiteID": 905,
+      "Site_Description_Cap": "RATOATH RD @ TOLKA VALLEY CYCLE PARK",
+      "Lat": 53.379054,
+      "Long": -6.314165
+    },
+    {
+      "_id": 765,
+      "SiteID": 906,
+      "Site_Description_Cap": "DRUMCONDRA RD @ ST PATRICKS COLLEGE / SKYLON HOTEL",
+      "Lat": 53.37220112,
+      "Long": -6.252867882
+    },
+    {
+      "_id": 766,
+      "SiteID": 908,
+      "Site_Description_Cap": "BURGH QUAY / MARLBOROUGH ST",
+      "Lat": 53.34734186,
+      "Long": -6.257279905
+    },
+    {
+      "_id": 767,
+      "SiteID": 909,
+      "Site_Description_Cap": "THOMAS ST WEST @ CRANE STREET",
+      "Lat": 53.34335666,
+      "Long": -6.282957929
+    },
+    {
+      "_id": 768,
+      "SiteID": 910,
+      "Site_Description_Cap": "EMMET RD @ VINCENT ST WEST",
+      "Lat": 53.3397065,
+      "Long": -6.3181054
+    },
+    {
+      "_id": 769,
+      "SiteID": 911,
+      "Site_Description_Cap": "KILDARE ST @ MOLESWORTH ST",
+      "Lat": 53.34080624,
+      "Long": -6.255313964
+    },
+    {
+      "_id": 770,
+      "SiteID": 912,
+      "Site_Description_Cap": "RATOATH RD @ DRUMCLIFFE RD",
+      "Lat": 53.364189,
+      "Long": -6.299197
+    },
+    {
+      "_id": 771,
+      "SiteID": 913,
+      "Site_Description_Cap": "RATOATH RD @ ST CATHERINES",
+      "Lat": 53.370437,
+      "Long": -6.306274878
+    },
+    {
+      "_id": 772,
+      "SiteID": 914,
+      "Site_Description_Cap": "OSCAR TRAYNOR @ BARRYSCOURT ROAD",
+      "Lat": 53.3944578,
+      "Long": -6.2132561
+    },
+    {
+      "_id": 773,
+      "SiteID": 915,
+      "Site_Description_Cap": "BEAUMONT ROAD @ BEAUMONT GROVE",
+      "Lat": 53.3843106,
+      "Long": -6.2361099
+    },
+    {
+      "_id": 774,
+      "SiteID": 916,
+      "Site_Description_Cap": "FASSAUGH ROAD @ CONNAUGHT ST",
+      "Lat": 53.3636101,
+      "Long": -6.281448571
+    },
+    {
+      "_id": 775,
+      "SiteID": 917,
+      "Site_Description_Cap": "SWORDS ROAD / MAGENTA CRESCENT",
+      "Lat": 53.39506041,
+      "Long": -6.245358339
+    },
+    {
+      "_id": 776,
+      "SiteID": 918,
+      "Site_Description_Cap": "GRIFFITH AVE@ EDUCATE TOGETHER SCHOOL",
+      "Lat": 53.3791466,
+      "Long": -6.2697465
+    },
+    {
+      "_id": 777,
+      "SiteID": 919,
+      "Site_Description_Cap": "DAWSON ST / MOLEWORTH ST PED",
+      "Lat": 53.34099019,
+      "Long": -6.258308675
+    },
+    {
+      "_id": 778,
+      "SiteID": 920,
+      "Site_Description_Cap": "DAWSON ST / DUKE ST PED",
+      "Lat": 53.34177899,
+      "Long": -6.258081961
+    },
+    {
+      "_id": 779,
+      "SiteID": 921,
+      "Site_Description_Cap": "WESTMORELAND ST / FLEET ST",
+      "Lat": 53.345857,
+      "Long": -6.259118
+    },
+    {
+      "_id": 780,
+      "SiteID": 922,
+      "Site_Description_Cap": "O'CONNELL ST / SAVOY PED",
+      "Lat": 53.35122248,
+      "Long": -6.260881599
+    },
+    {
+      "_id": 781,
+      "SiteID": 923,
+      "Site_Description_Cap": "MARLBOROUGH ST / PARNELL ST",
+      "Lat": 53.35336987,
+      "Long": -6.259660073
+    },
+    {
+      "_id": 782,
+      "SiteID": 924,
+      "Site_Description_Cap": "MARLBOROUGH ST / TALBOT ST",
+      "Lat": 53.3501151,
+      "Long": -6.2584238
+    },
+    {
+      "_id": 783,
+      "SiteID": 925,
+      "Site_Description_Cap": "PARNELL ST / DOMINIC ST",
+      "Lat": 53.35087364,
+      "Long": -6.264865487
+    },
+    {
+      "_id": 784,
+      "SiteID": 926,
+      "Site_Description_Cap": "NORTH CIRCULAR ROAD, PED",
+      "Lat": 53.35975712,
+      "Long": -6.27852258
+    },
+    {
+      "_id": 785,
+      "SiteID": 927,
+      "Site_Description_Cap": "CABRA RD PED",
+      "Lat": 53.36090012,
+      "Long": -6.279289924
+    },
+    {
+      "_id": 786,
+      "SiteID": 928,
+      "Site_Description_Cap": "CONSTITUTION HILL @ PREBAND STREET",
+      "Lat": 53.35348228,
+      "Long": -6.272998577
+    },
+    {
+      "_id": 787,
+      "SiteID": 929,
+      "Site_Description_Cap": "PREBEND ST/ BUS EIREANN BUS GARAGE",
+      "Lat": 53.35365554,
+      "Long": -6.274313851
+    },
+    {
+      "_id": 788,
+      "SiteID": 930,
+      "Site_Description_Cap": "CHAPELIZOD BYPASS @ KYLEMORE RD",
+      "Lat": 53.35022459,
+      "Long": -6.355119205
+    },
+    {
+      "_id": 789,
+      "SiteID": 931,
+      "Site_Description_Cap": "COLLINS AVENUE EAST @ KILLESTER COLLEGE",
+      "Lat": 53.371392,
+      "Long": -6.20727
+    },
+    {
+      "_id": 790,
+      "SiteID": 932,
+      "Site_Description_Cap": "BOLTON STREET@HENRIETTA STREET",
+      "Lat": 53.35237199,
+      "Long": -6.268940064
+    },
+    {
+      "_id": 791,
+      "SiteID": 933,
+      "Site_Description_Cap": "SOUTH CIRCULAR ROAD @ DUFFERIN (MOSQUE)",
+      "Lat": 53.3311197,
+      "Long": -6.2814447
+    },
+    {
+      "_id": 792,
+      "SiteID": 934,
+      "Site_Description_Cap": "HOWTH ROAD @ ALL SAINTS ROAD",
+      "Lat": 53.376608,
+      "Long": -6.190334
+    },
+    {
+      "_id": 793,
+      "SiteID": 935,
+      "Site_Description_Cap": "SHERIFF STREET UPPER @ NEW ROAD",
+      "Lat": 53.349874,
+      "Long": -6.229636
+    },
+    {
+      "_id": 794,
+      "SiteID": 936,
+      "Site_Description_Cap": "BACHELORS WALK BUS GATE",
+      "Lat": 53.347106,
+      "Long": -6.261071
+    },
+    {
+      "_id": 795,
+      "SiteID": 937,
+      "Site_Description_Cap": "CLONTARF ROAD @ ST. ANNES PARK @ THE POND",
+      "Lat": 53.37132,
+      "Long": -6.16682
+    },
+    {
+      "_id": 796,
+      "SiteID": 938,
+      "Site_Description_Cap": "BALBUTCHER LANE @ SHANGAN ROAD",
+      "Lat": 53.39740718,
+      "Long": -6.266421565
+    },
+    {
+      "_id": 797,
+      "SiteID": 939,
+      "Site_Description_Cap": "GRANGE ROAD @ HOLE IN THE WALL RDB WEST",
+      "Lat": 53.39909506,
+      "Long": -6.16222271
+    },
+    {
+      "_id": 798,
+      "SiteID": 940,
+      "Site_Description_Cap": "MOREHAMPTON ROAD @ DONNYBROOK FAIR",
+      "Lat": 53.3242753,
+      "Long": -6.2399135
+    },
+    {
+      "_id": 799,
+      "SiteID": 941,
+      "Site_Description_Cap": "HANOVER STREET EAST @ CREIGHTON STREET",
+      "Lat": 53.34529929,
+      "Long": -6.246349529
+    },
+    {
+      "_id": 800,
+      "SiteID": 943,
+      "Site_Description_Cap": "STILLORGAN ROAD / RTE",
+      "Lat": 53.314991,
+      "Long": -6.22605
+    },
+    {
+      "_id": 801,
+      "SiteID": 944,
+      "Site_Description_Cap": "STILLORGAN ROAD / RTE PED",
+      "Lat": 53.31598865,
+      "Long": -6.227857213
+    },
+    {
+      "_id": 802,
+      "SiteID": 945,
+      "Site_Description_Cap": "CRUMLIN VILLAGE @ WINDMILL ROAD",
+      "Lat": 53.3204572,
+      "Long": -6.31609585
+    },
+    {
+      "_id": 803,
+      "SiteID": 946,
+      "Site_Description_Cap": "CLONTARF ROAD @ DOLLYMOUNT AVE",
+      "Lat": 53.3645453,
+      "Long": -6.1765215
+    },
+    {
+      "_id": 804,
+      "SiteID": 947,
+      "Site_Description_Cap": "BALBUTCHER LANE @ POPPINTREE",
+      "Lat": 53.403,
+      "Long": -6.27386
+    },
+    {
+      "_id": 805,
+      "SiteID": 948,
+      "Site_Description_Cap": "RATOATH ROAD @ FASSAUGH AVENUE",
+      "Lat": 53.3671289,
+      "Long": -6.3021912
+    },
+    {
+      "_id": 806,
+      "SiteID": 949,
+      "Site_Description_Cap": "RIVER RD @ ASHTOWN",
+      "Lat": 53.3774724,
+      "Long": -6.332771
+    },
+    {
+      "_id": 807,
+      "SiteID": 950,
+      "Site_Description_Cap": "SYBIL HILL @ ST ANNES PARK",
+      "Lat": 53.37215173,
+      "Long": -6.19418771
+    },
+    {
+      "_id": 808,
+      "SiteID": 951,
+      "Site_Description_Cap": "KYLEMORE ROAD @ KYLEMORE COLLEGE",
+      "Lat": 53.3450729,
+      "Long": -6.350855
+    },
+    {
+      "_id": 809,
+      "SiteID": 952,
+      "Site_Description_Cap": "TONLEGEE ROAD ST MONICAS",
+      "Lat": 53.3909995,
+      "Long": -6.1748542
+    },
+    {
+      "_id": 810,
+      "SiteID": 953,
+      "Site_Description_Cap": "BALBUTCHER LANE @ HAMPTON WOOD",
+      "Lat": 53.40352,
+      "Long": -6.28213
+    },
+    {
+      "_id": 811,
+      "SiteID": 954,
+      "Site_Description_Cap": "KIMMAGE ROAD / RAVENSDALE PARK",
+      "Lat": 53.313895,
+      "Long": -6.297176
+    },
+    {
+      "_id": 812,
+      "SiteID": 955,
+      "Site_Description_Cap": "BELYMAYNE @ BELLYMAYNE EDUCATED TOGETHER SCHOOL",
+      "Lat": 53.40287,
+      "Long": -6.17049
+    },
+    {
+      "_id": 813,
+      "SiteID": 956,
+      "Site_Description_Cap": "GRANGEGORMAN @ MARNE VILLA PED REST IN RED",
+      "Lat": 53.355832,
+      "Long": -6.278219
+    },
+    {
+      "_id": 814,
+      "SiteID": 957,
+      "Site_Description_Cap": "BROOMBRIDGE SHUTTLE, ROYAL CANAL CYCLE WAY",
+      "Lat": 53.3731085,
+      "Long": -6.2998074
+    },
+    {
+      "_id": 815,
+      "SiteID": 958,
+      "Site_Description_Cap": "GRANGEGORMAN @ ST BRENDANS WAY",
+      "Lat": 53.354989,
+      "Long": -6.278435
+    },
+    {
+      "_id": 816,
+      "SiteID": 959,
+      "Site_Description_Cap": "SANDYMOUNT GREEN @ CLAREMOUNT ROAD",
+      "Lat": 53.332108,
+      "Long": -6.215835
+    },
+    {
+      "_id": 817,
+      "SiteID": 960,
+      "Site_Description_Cap": "SANDYMOUNT GREEN @ EAST SIDE SHOPS",
+      "Lat": 53.339982,
+      "Long": -6.236487
+    },
+    {
+      "_id": 818,
+      "SiteID": 961,
+      "Site_Description_Cap": "PORT TUNNEL - METERING RAMP",
+      "Lat": 53.4071622,
+      "Long": -6.2284142
+    },
+    {
+      "_id": 819,
+      "SiteID": 962,
+      "Site_Description_Cap": "DOLPHINS BARN STREET RUEBEN STREET",
+      "Lat": 53.334028,
+      "Long": -6.290622
+    },
+    {
+      "_id": 820,
+      "SiteID": 963,
+      "Site_Description_Cap": "BARROW ST @ GOOGLE (SHUTTLE)",
+      "Lat": 53.33929,
+      "Long": -6.23658
+    },
+    {
+      "_id": 821,
+      "SiteID": 964,
+      "Site_Description_Cap": "NORTH CIRCULAR ROAD @ TUD",
+      "Lat": 53.3575192,
+      "Long": -6.286843
+    },
+    {
+      "_id": 822,
+      "SiteID": 965,
+      "Site_Description_Cap": "HOLE IN THE WALL / MARSFIELD BELMAYNE",
+      "Lat": 53.40815,
+      "Long": -6.16195
+    },
+    {
+      "_id": 823,
+      "SiteID": 968,
+      "Site_Description_Cap": "BRIDE ST @ BRIDE RD",
+      "Lat": 53.341474,
+      "Long": -6.270088
+    },
+    {
+      "_id": 824,
+      "SiteID": 974,
+      "Site_Description_Cap": "BLACKHORSE AVE @ NEPHIN RD",
+      "Lat": 53.362728,
+      "Long": -6.311709
+    },
+    {
+      "_id": 825,
+      "SiteID": 1002,
+      "Site_Description_Cap": "HEUSTON STATION ACCESS (LUAS)",
+      "Lat": 53.347053,
+      "Long": -6.291793
+    }
+  ]
+  

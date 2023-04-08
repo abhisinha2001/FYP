@@ -1,9 +1,11 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const fs = require('fs');
 const {Schema} =mongoose;
 const { generateApiKey } = require('generate-api-key');
 const config = require('dotenv').config();
 const app = express();
+
 
 const PASSWORD = process.env.PASSWORD
 
@@ -31,9 +33,33 @@ const cctvSchema = new Schema({
             "facial_recognition":Boolean
         }
 })
+const cctvOrignialSchema = new Schema({
+    "_id":Number,
+      "SiteID": Number,
+      "Site_Description_Cap": String,
+      "Lat": Number,
+      "Long": Number
+})
 
 const cctv = mongoose.model('cctv',cctvSchema);
 
+const cctv_orginal = mongoose.model('cctv_original',cctvOrignialSchema);
+
+function putData(){
+    fs.readFile('./data_original.json','utf-8',(err,data)=>{
+        if(err){
+            console.log(err);
+            return;
+        }
+        const jsonData = JSON.parse(data);
+        cctv_orginal.insertMany(jsonData)
+    .then(function(){
+        console.log("Data Inserted") // Success
+    }).catch(function(error){
+        console.log(error)      // Failure
+    });
+    });
+}
 function calcDistance(lat1,lat2,long1,long2){
     long1 =  long1 * Math.PI / 180;
     long2 = long2 * Math.PI / 180;
@@ -64,6 +90,8 @@ app.get('/requestAPIKey',(req,res)=>{
     //add key to database after data controller verification.
     res.send(key);
 })
+
+
 app.post('/allcctvinformation',(req,res)=>{
     cctv.insertMany(
     [
@@ -229,4 +257,4 @@ app.get('/',(req,res)=>{
     res.send('We are at home');
 })
 
-
+// putData();
