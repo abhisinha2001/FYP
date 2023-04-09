@@ -8,7 +8,7 @@ import 'package:http/http.dart' as http;
 
 LatLng currentLocation = LatLng(53.333965, -6.263233);
 
-var URL = "https://3fbf-89-101-60-203.eu.ngrok.io/allcctvs";
+var URL = "https://22ba-89-101-60-203.ngrok-free.app/allcctvs";
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

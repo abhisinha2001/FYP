@@ -6,7 +6,7 @@ import 'package:image_picker/image_picker.dart';
 
 import 'package:http/http.dart' as http;
 
-const URL = "https://7138-134-226-214-210.eu.ngrok.io";
+const URL = "Hhttps://f579-89-101-60-203.ngrok-free.app";
 
 class MyPhotoPage extends StatefulWidget {
   const MyPhotoPage({super.key});

@@ -5,8 +5,6 @@ const app = express();
 
 app.use(fileUpload());
 
-// app.use(fileUpload({limits:{fileSize:10000000},abortOnLimit:true}))
-
 app.use(express.static('public'));
 
 app.post('/upload',(req,res)=>{
