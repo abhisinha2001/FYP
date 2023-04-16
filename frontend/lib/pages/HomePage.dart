@@ -214,130 +214,133 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
-      child: Scaffold(
-        floatingActionButtonLocation: FloatingActionButtonLocation.centerTop,
-        floatingActionButton: Padding(
-          padding: const EdgeInsets.all(8.0),
-          child: FloatingActionButton(
-              onPressed: () {
-                print("Button was pressed");
-                Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => MyPhotoPage()));
-              },
-              child: Icon(Icons.add_a_photo)),
-        ),
-        body: Stack(
-          children: [
-            _isLoading
-                ? Center(
-                    child: CircularProgressIndicator(),
-                  )
-                : GoogleMap(
-                    initialCameraPosition: CameraPosition(
-                      // target: LatLng(_currentPosition?.latitude ?? 53.333965,
-                      //     _currentPosition?.longitude ?? -6.263233),
-                      target: LatLng(53.350357, -6.266422),
-                      zoom: 18,
-                    ),
-                    onMapCreated: (controller) {
-                      mapController = controller;
-                      addMarker();
-                    },
-                    myLocationEnabled: true,
-                    myLocationButtonEnabled: true,
-                    markers: _markers.values.toSet(),
-                  ),
-            AnimatedPositioned(
-              bottom: _infoWindowPosition,
-              right: 0,
-              left: 0,
-              duration: Duration(milliseconds: 250),
-              child: Align(
-                child: Container(
-                  margin: EdgeInsets.all(20),
-                  height: 200,
-                  width: double.infinity,
-                  decoration: BoxDecoration(
-                      color: Colors.white,
-                      borderRadius: BorderRadius.all(Radius.circular(20)),
-                      boxShadow: <BoxShadow>[
-                        BoxShadow(
-                          blurRadius: 20,
-                          offset: Offset.zero,
-                          color: Colors.grey.withOpacity(0.5),
-                        )
-                      ]),
-                  child: Column(
-                    // crossAxisAlignment: CrossAxisAlignment.center,
-                    mainAxisAlignment: MainAxisAlignment.spaceAround,
-                    children: [
-                      Container(
-                          padding: EdgeInsets.only(left: 20),
-                          child: Column(
-                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                            children: [
-                              Wrap(
-                                alignment: WrapAlignment.start,
-                                children: [
-                                  Padding(
-                                    padding: const EdgeInsets.only(bottom: 6),
-                                    child: Text(
-                                      _currentCCTVData.cctvRoad,
-                                      style: TextStyle(
-                                        fontSize: 30,
-                                        fontWeight: FontWeight.bold,
-                                      ),
-                                      overflow: TextOverflow.ellipsis,
-                                    ),
-                                  ),
-                                ],
-                              ),
-                              Row(
-                                children: [
-                                  Text(
-                                    "Email:  ",
-                                    style: TextStyle(
-                                        fontWeight: FontWeight.bold,
-                                        fontSize: 20),
-                                  ),
-                                  Text(
-                                    _currentCCTVData.email.toString(),
-                                    style: TextStyle(fontSize: 20),
-                                  ),
-                                ],
-                              ),
-                              Row(
-                                children: [
-                                  Text(
-                                    "Phone:  ",
-                                    style: TextStyle(
-                                        fontWeight: FontWeight.bold,
-                                        fontSize: 20),
-                                  ),
-                                  Text(
-                                    _currentCCTVData.phone.toString(),
-                                    style: TextStyle(fontSize: 20),
-                                  ),
-                                ],
-                              ),
-                            ],
-                          )),
-                      ElevatedButton(
-                        onPressed: () {
-                          mylaunchURL(_currentCCTVData.policyUrl!);
-                        },
-                        child: Text(
-                          "Press to view Privacy Policy Statement",
-                          style: TextStyle(fontSize: 18),
-                        ),
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: SafeArea(
+        child: Scaffold(
+          floatingActionButtonLocation: FloatingActionButtonLocation.centerTop,
+          floatingActionButton: Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: FloatingActionButton(
+                onPressed: () {
+                  print("Button was pressed");
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => MyPhotoPage()));
+                },
+                child: Icon(Icons.add_a_photo)),
+          ),
+          body: Stack(
+            children: [
+              _isLoading
+                  ? Center(
+                      child: CircularProgressIndicator(),
+                    )
+                  : GoogleMap(
+                      initialCameraPosition: CameraPosition(
+                        // target: LatLng(_currentPosition?.latitude ?? 53.333965,
+                        //     _currentPosition?.longitude ?? -6.263233),
+                        target: LatLng(53.350357, -6.266422),
+                        zoom: 18,
                       ),
-                    ],
+                      onMapCreated: (controller) {
+                        mapController = controller;
+                        addMarker();
+                      },
+                      myLocationEnabled: true,
+                      myLocationButtonEnabled: true,
+                      markers: _markers.values.toSet(),
+                    ),
+              AnimatedPositioned(
+                bottom: _infoWindowPosition,
+                right: 0,
+                left: 0,
+                duration: Duration(milliseconds: 250),
+                child: Align(
+                  child: Container(
+                    margin: EdgeInsets.all(20),
+                    height: 200,
+                    width: double.infinity,
+                    decoration: BoxDecoration(
+                        color: Colors.white,
+                        borderRadius: BorderRadius.all(Radius.circular(20)),
+                        boxShadow: <BoxShadow>[
+                          BoxShadow(
+                            blurRadius: 20,
+                            offset: Offset.zero,
+                            color: Colors.grey.withOpacity(0.5),
+                          )
+                        ]),
+                    child: Column(
+                      // crossAxisAlignment: CrossAxisAlignment.center,
+                      mainAxisAlignment: MainAxisAlignment.spaceAround,
+                      children: [
+                        Container(
+                            padding: EdgeInsets.only(left: 20),
+                            child: Column(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              children: [
+                                Wrap(
+                                  alignment: WrapAlignment.start,
+                                  children: [
+                                    Padding(
+                                      padding: const EdgeInsets.only(bottom: 6),
+                                      child: Text(
+                                        _currentCCTVData.cctvRoad,
+                                        style: TextStyle(
+                                          fontSize: 30,
+                                          fontWeight: FontWeight.bold,
+                                        ),
+                                        overflow: TextOverflow.ellipsis,
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                                Row(
+                                  children: [
+                                    Text(
+                                      "Email:  ",
+                                      style: TextStyle(
+                                          fontWeight: FontWeight.bold,
+                                          fontSize: 20),
+                                    ),
+                                    Text(
+                                      _currentCCTVData.email.toString(),
+                                      style: TextStyle(fontSize: 20),
+                                    ),
+                                  ],
+                                ),
+                                Row(
+                                  children: [
+                                    Text(
+                                      "Phone:  ",
+                                      style: TextStyle(
+                                          fontWeight: FontWeight.bold,
+                                          fontSize: 20),
+                                    ),
+                                    Text(
+                                      _currentCCTVData.phone.toString(),
+                                      style: TextStyle(fontSize: 20),
+                                    ),
+                                  ],
+                                ),
+                              ],
+                            )),
+                        ElevatedButton(
+                          onPressed: () {
+                            mylaunchURL(_currentCCTVData.policyUrl!);
+                          },
+                          child: Text(
+                            "Press to view Privacy Policy Statement",
+                            style: TextStyle(fontSize: 18),
+                          ),
+                        ),
+                      ],
+                    ),
                   ),
                 ),
               ),
-            ),
-          ],
+            ],
+          ),
         ),
       ),
     );

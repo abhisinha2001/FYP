@@ -8,24 +8,26 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:frontend/main.dart';
 import 'package:frontend/pages/HomePage.dart';
+import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 void main() {
-  testWidgets('Counter increments smoke test', (WidgetTester tester) async {
+  testWidgets('Application generation test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    await tester.pumpWidget(const HomePage());
-
-    // Verify that our counter starts at 0.
-    expect(find.text('0'), findsOneWidget);
-    expect(find.text('1'), findsNothing);
-
-    // Tap the '+' icon and trigger a frame.
-    await tester.tap(find.byIcon(Icons.add));
-    await tester.pump();
-
-    // Verify that our counter has incremented.
-    expect(find.text('0'), findsNothing);
-    expect(find.text('1'), findsOneWidget);
+    await tester.pumpWidget(HomePage());
+    var stack = find.byType(Stack);
+    expect(stack, findsAtLeastNWidgets(1));
+    var scaffold = find.byType(Scaffold);
+    expect(scaffold, findsOneWidget);
+  });
+  testWidgets('Map generation', (WidgetTester tester) async {
+    await tester.pumpWidget(HomePage());
+    var map = find.byType(Center);
+    expect(map, findsAtLeastNWidgets(1));
+  });
+  testWidgets('Information Box generation', (WidgetTester tester) async {
+    await tester.pumpWidget(HomePage());
+    var informationBox = find.byType(AnimatedPositioned);
+    expect(informationBox, findsOneWidget);
   });
 }

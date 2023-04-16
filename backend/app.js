@@ -1,8 +1,10 @@
 const express = require('express');
+const sizeof = require('object-sizeof')
 const mongoose = require('mongoose');
 const fs = require('fs');
 const {Schema} =mongoose;
 const { generateApiKey } = require('generate-api-key');
+const { start } = require('repl');
 const config = require('dotenv').config();
 const app = express();
 
@@ -124,6 +126,7 @@ app.get('/getnearbyOriginal',(req,res)=>{
     finalResult=[];
     // currLat = req.query.lat;
     // currlong = req.quesry.long;
+    let startTime = Date.now();
     cctv_orginal.find().then((result)=>{
         for(let index in result){
             lat1 = result[index]['Lat'];
@@ -134,9 +137,12 @@ app.get('/getnearbyOriginal',(req,res)=>{
             }
         }
         res.send(finalResult);
+        console.log(sizeof(finalResult)+" Bytes");
     }).catch((err)=>{
         console.log(err);
     });
+    let endTime = Date.now();
+    console.log("Elapsed Time: "+(endTime-startTime));
 })
 app.get('/getnearby',(req,res)=>{
     finalResult=[];
@@ -161,11 +167,15 @@ app.get('/getnearby',(req,res)=>{
 })
 
 app.get('/allCCTVOriginal',(req,res)=>{
+let startTime = Date.now();
     cctv_orginal.find().then((result)=>{
         res.send(result)
+        console.log(sizeof(result)+" Bytes")
 }).catch((err)=>{
     console.log(err)
 })
+let endTime = Date.now();
+    console.log("Elapsed Time: "+(endTime-startTime));
 })
 
 app.get('/allcctvs',(req,res)=>{
