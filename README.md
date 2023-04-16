@@ -1,7 +1,8 @@
 # FYP
 
 Final Year Project for BAI Trinity College Dublin
-##Abstract
+
+#Abstract
 
 The increasing use of CCTV surveillance devices and practices like facial recognition have become common in public spaces. These practices raise pertinent questions regarding an individual's right to privacy.
 
