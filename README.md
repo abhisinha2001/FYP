@@ -2,8 +2,6 @@
 
 Final Year Project for BAI Trinity College Dublin
 
-#Abstract
-
 The increasing use of CCTV surveillance devices and practices like facial recognition have become common in public spaces. These practices raise pertinent questions regarding an individual's right to privacy.
 
 Accordingly, a user must be able to discern the kind of data being collected, processed and the purpose for which the collected data is being used for . As per the \ac{GDPR}, there must be transparency with the individual whose data is being collected and processed. Furthermore, the individuals must have the right to access a copy of their personal data(Article 15 \ac{GDPR}), thereby making it the organisation's responsibility to make this data available.
