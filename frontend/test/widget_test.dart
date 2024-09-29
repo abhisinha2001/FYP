@@ -9,7 +9,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:frontend/pages/HomePage.dart';
-import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 void main() {
   testWidgets('Application generation test', (WidgetTester tester) async {
